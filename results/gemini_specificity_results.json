@@ -1,0 +1,290 @@
+{
+  "GEMINI_25_PRO|S003|PS00|T1": {
+    "text": "This is a bright, clear daytime scene featuring two large, yellow vehicles parked side-by-side on an asphalt road.\n\nIn the foreground and center, a classic yellow American school bus is positioned on the left. The word \"SCHOOL\" is printed in bold black letters above its windshield, flanked by amber lights. The bus is long, with numerous square windows running down its side, accented by black stripes.\n\nTo the right of the school bus is a slightly smaller, modern cargo van, painted in a nearly identical shade of vibrant yellow. The van has a sleek, rounded front and solid panels where rear passenger windows would typically be.\n\nThe vehicles are parked on a dark gray asphalt surface with a white painted line separating them. On the far right, a concrete curb separates the road from a neat strip of green grass.\n\nThe background is filled with a lush wall of green and yellowish-green trees, including some tall, pointed conifers, suggesting a suburban or park-like setting on a sunny day. The overall impression is clean, orderly, and visually striking due to the bold, matching colors of the two distinct vehicles.",
+    "ms": 13141,
+    "trial": 1,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene."
+  },
+  "GEMINI_25_PRO|S003|PS00|T2": {
+    "text": "This is a bright, sunlit outdoor scene featuring two large, yellow vehicles parked side-by-side on a paved road.\n\nIn the foreground, a classic yellow American school bus is on the left. The word \"SCHOOL\" is clearly visible in black capital letters above its windshield, flanked by warning lights. The bus is long, with a row of dark-tinted windows running down its side, accented by black stripes.\n\nTo the right of the bus and slightly closer to the viewer is a bright yellow cargo van. It shares a very similar, if not identical, shade of yellow with the school bus, creating a striking visual pairing. The van has a modern, smooth design with no windows on its side panels.\n\nThe vehicles are situated on a dark gray asphalt road with a white painted line visible between them. The van is parked alongside a concrete curb with a neat strip of green grass. The background is filled with lush, green foliage from numerous trees and some taller, darker evergreens, suggesting a suburban or park-like setting on a pleasant day. The lighting is bright and clear, casting soft shadows beneath the vehicles.",
+    "ms": 12157,
+    "trial": 2,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene."
+  },
+  "GEMINI_25_PRO|S003|PS00|T3": {
+    "text": "This is a bright, sunlit outdoor scene featuring two large, yellow vehicles parked side-by-side on a paved road.\n\nIn the background and to the left is a classic yellow American school bus. The word \"SCHOOL\" is clearly visible in black letters above its windshield. The bus is long, with a row of dark-tinted windows running along its side, punctuated by black stripes.\n\nIn the foreground and to the right is a bright yellow cargo van. It is smaller and more modern in design than the bus, but its color is a near-perfect match. The van is parked parallel to a concrete curb and a neat strip of green grass.\n\nThe setting appears to be a suburban street or a parking lot, lined with lush, green trees and taller, darker evergreens that create a verdant backdrop against a pale sky. The bright sunlight casts soft shadows on the dark asphalt, highlighting the vibrant yellow of the two vehicles. The overall impression is clean, quiet, and colorful.",
+    "ms": 12239,
+    "trial": 3,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene."
+  },
+  "GEMINI_25_PRO|S003|PS01|T1": {
+    "text": "Based on the image provided, here is a description of the vehicles:\n\nThere are two yellow vehicles parked next to each other on a paved road lined with trees.\n\n*   **On the left is a traditional American school bus.** It is painted a bright, classic school bus yellow. The word \"SCHOOL\" is written in black capital letters above the large windshield. It features a black grille, a black front bumper, and flashing lights on the front. A black stripe runs along the side of the bus, just below the numerous passenger windows. The wheels are also painted yellow.\n\n*   **On the right is a yellow cargo van.** This van is a similar shade of yellow to the bus. It's a modern-style van with a sloped front and no windows in the rear cargo section. It has silver-colored hubcaps on its wheels.\n\nThe school bus is significantly larger and taller than the van. Both vehicles appear to be parked in a suburban or park-like setting on a sunny day.",
+    "ms": 9145,
+    "trial": 1,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS01",
+    "prompt_text": "Describe the vehicles."
+  },
+  "GEMINI_25_PRO|S003|PS01|T2": {
+    "text": "Based on the image provided, here is a description of the vehicles:\n\nThe image features two bright yellow vehicles parked next to each other on an asphalt road.\n\n*   **School Bus:** On the left and slightly behind is a large, classic American-style school bus. It is painted in the traditional \"National School Bus Glossy Yellow.\" The word \"SCHOOL\" is printed in black capital letters above the windshield. It has a long hood, a prominent silver grille, and large, dark tires with yellow rims. A black stripe runs horizontally along its side, just below the numerous passenger windows.\n\n*   **Van:** To the right and in the foreground is a bright yellow cargo van. It is smaller and more modern in design than the bus. The van lacks windows in its rear cargo area, indicating it's likely used for transporting goods rather than passengers. It has silver-colored wheels and a streamlined front end.\n\nBoth vehicles share a similar vibrant yellow color, creating a strong visual connection between them in the frame. They are parked on what appears to be a quiet street or a parking lot, lined with green trees in the background.",
+    "ms": 13582,
+    "trial": 2,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS01",
+    "prompt_text": "Describe the vehicles."
+  },
+  "GEMINI_25_PRO|S003|PS01|T3": {
+    "text": "Based on the image provided, here is a description of the vehicles:\n\nThe image features two bright yellow vehicles parked next to each other on an asphalt road, surrounded by green trees.\n\nOn the left is a **conventional American-style school bus**. It has the classic long body with a row of rectangular passenger windows along its side, accented by a black horizontal stripe. The words \"SCHOOL\" are printed in bold black letters above the large, two-panel windshield. It is equipped with flashing lights on the front, a dark grille, and yellow-painted wheels.\n\nTo the right of the school bus is a **yellow cargo van**. It matches the bus in color but is much smaller. This panel van has no windows in its rear cargo section, indicating it's likely used for transporting goods rather than passengers. It has a modern design with sleek headlights and silver-colored hubcaps on its wheels.",
+    "ms": 9035,
+    "trial": 3,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS01",
+    "prompt_text": "Describe the vehicles."
+  },
+  "GEMINI_25_PRO|S003|PS02|T1": {
+    "text": "Based on the images provided, here is a description of the colors of the vehicles:\n\nBoth vehicles in the image are yellow.\n\n*   The **school bus** on the left is a classic \"school bus yellow\" color. It has black accents, including the stripe along its side, the bumpers, the front grille, the tires, and the \"SCHOOL\" lettering above the windshield.\n*   The **van** on the right is also a bright yellow color.",
+    "ms": 7637,
+    "trial": 1,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the vehicles."
+  },
+  "GEMINI_25_PRO|S003|PS02|T2": {
+    "text": "Based on the images provided, here is a description of the colors of the vehicles:\n\nBoth vehicles in the image are a bright **yellow**.\n\n*   The **school bus** on the left is the traditional \"school bus yellow\" with black accents, including the stripes on its side, the front bumper, the grille, and the lettering for \"SCHOOL\".\n*   The **van** on the right is also a vibrant **yellow**.",
+    "ms": 6487,
+    "trial": 2,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the vehicles."
+  },
+  "GEMINI_25_PRO|S003|PS02|T3": {
+    "text": "Based on the image provided, here is a description of the colors of the vehicles:\n\nBoth vehicles in the image are **yellow**.\n\n*   The **school bus** on the left is a classic, bright **school bus yellow**. It also has black accents, including a stripe along its side, the front bumper, the grille, and the window frames.\n*   The **cargo van** on the right is also a solid, bright **yellow**. It has silver-colored wheels and some black or dark gray trim on the grille, mirrors, and door handles.",
+    "ms": 9154,
+    "trial": 3,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the vehicles."
+  },
+  "GEMINI_25_PRO|S003|PS03|T1": {
+    "text": "Based on the images provided, the colors of the two vehicles are **different**.\n\nAlthough both vehicles are yellow, they are distinct shades:\n\n*   **The school bus** is painted in the traditional \"school bus yellow,\" which is a specific, deep, and slightly orange-tinted shade of yellow.\n*   **The van** is a lighter and brighter shade of yellow, closer to a canary or lemon yellow.\n\nThe difference is most noticeable when you look at the well-lit surfaces of both vehicles next to each other. The van's yellow is clearly a different hue from the school bus's iconic color.",
+    "ms": 10473,
+    "trial": 1,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?"
+  },
+  "GEMINI_25_PRO|S003|PS03|T2": {
+    "text": "Based on the images provided, the colors of the two vehicles are **different**.\n\nWhile both vehicles are yellow, they are distinct shades:\n\n*   **The school bus** is a deeper, more orange-toned yellow, which is a specific color officially known as \"National School Bus Glossy Yellow.\"\n*   **The van** is a brighter, slightly lighter shade of yellow.",
+    "ms": 14696,
+    "trial": 2,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?"
+  },
+  "GEMINI_25_PRO|S003|PS03|T3": {
+    "text": "Based on the images provided, the colors of the two vehicles are **different**.\n\nAlthough both vehicles are yellow, they are distinct shades:\n\n*   The **school bus** is a classic, deep, slightly orange-toned yellow, which is the standard color for school buses in North America (\"National School Bus Glossy Yellow\").\n*   The **van** is a brighter, lighter shade of yellow with less of an orange tint.",
+    "ms": 8630,
+    "trial": 3,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?"
+  },
+  "GEMINI_25_PRO|S003|PS04|T1": {
+    "text": "Of course. After carefully analyzing the hues of both vehicles, here is a breakdown of their colors and which is warmer versus cooler:\n\nThis is an excellent example of how two colors can both be \"yellow\" but have very different color temperatures.\n\n### Color Analysis\n\n*   **The Van (Warmer):** The van is painted in a **warm, golden-yellow** hue. Its color has distinct orange or reddish undertones, giving it a rich, almost marigold or ochre appearance. This shift towards the red/orange side of the color spectrum makes it a decidedly warm color.\n\n*   **The School Bus (Cooler):** The school bus is painted in the classic \"School Bus Yellow.\" This is a **cooler, brighter yellow**. In comparison to the van, it lacks the strong orange undertones. Its hue is closer to a primary or lemon yellow, which can have a very subtle greenish cast, placing it on the cooler side of the yellow spectrum.\n\n### Conclusion\n\n*   The **van is warmer**.\n*   The **school bus is cooler**.\n\nThe key difference lies in the undertones: the van's yellow is mixed with a bit of orange/red, while the school bus's yellow is a purer, brighter shade that appears cooler in direct comparison.",
+    "ms": 14112,
+    "trial": 1,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each vehicle. Which is warmer, which is cooler?"
+  },
+  "GEMINI_25_PRO|S003|PS04|T2": {
+    "text": "Based on a careful analysis of the hues, here is the breakdown of the color temperature of each vehicle:\n\n### **The School Bus (Left Vehicle)**\n\n*   **Hue:** The school bus is painted in a classic, rich \"School Bus Yellow.\" This specific hue has distinct **orange undertones**, giving it a deep, golden quality. It's a color designed for high visibility and has a warmth reminiscent of a marigold or goldenrod.\n\n### **The Van (Right Vehicle)**\n\n*   **Hue:** The van is a brighter, lighter shade of yellow. When compared directly to the bus, you can see that it has subtle **green undertones**. This pushes it towards a \"lemon yellow\" or \"canary yellow\" on the color spectrum. It lacks the orange depth of the bus's color.\n\n### **Conclusion: Which is Warmer, Which is Cooler?**\n\nIn color theory, colors that lean towards red and orange are considered \"warm,\" while those that lean towards green and blue are \"cool.\"\n\n*   The **school bus is the warmer vehicle**. Its orange-based yellow is a classic warm color.\n*   The **van is the cooler vehicle**. Its slight green undertones give it a cooler temperature relative to the bus.",
+    "ms": 15935,
+    "trial": 2,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each vehicle. Which is warmer, which is cooler?"
+  },
+  "GEMINI_25_PRO|S003|PS04|T3": {
+    "text": "Excellent question. When analyzing colors, especially shades of the same primary color like yellow, the determination of \"warm\" versus \"cool\" depends on the undertones.\n\nHere is a careful analysis of the hue of each vehicle:\n\n### The School Bus (Left Vehicle)\n\n*   **Hue Analysis:** The school bus is painted in a classic \"National School Bus Glossy Yellow.\" This specific hue is a deep, rich yellow with distinct **orange undertones**. You can see this in the way the light gives it a golden, almost marigold-like quality. It's an earthy and substantial color.\n*   **Conclusion:** Because it leans towards the orange/red side of the color spectrum, the **school bus is the warmer** of the two vehicles.\n\n### The Van (Right Vehicle)\n\n*   **Hue Analysis:** The van is a brighter, more vibrant shade of yellow. This hue has subtle but noticeable **green undertones**. This gives it a sharper, more \"electric\" or \"acidic\" appearance, closer to a lemon yellow or canary yellow. It feels lighter and less earthy than the school bus.\n*   **Conclusion:** Because it leans towards the green/blue side of the color spectrum, the **van is the cooler** of the two vehicles.\n\n### Summary\n\nTo put it simply:\n\n*   **Warmer:** The **school bus** has a warm, golden-orange yellow hue.\n*   **Cooler:** The **van** has a cool, bright, lemon-green yellow hue.\n\nIf you were to mix these colors with paint, you would add a touch of orange to a primary yellow to get the school bus's color, and a tiny hint of green to get the van's color.",
+    "ms": 15692,
+    "trial": 3,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each vehicle. Which is warmer, which is cooler?"
+  },
+  "GEMINI_25_PRO|S003|PS05|T1": {
+    "text": "Based on the HSV color wheel, here are the dominant hues of the vehicles:\n\n*   **School Bus:** The dominant hue is a classic \"school bus yellow,\" which is a warm yellow with a slight orange tint. On the HSV color wheel, this corresponds to approximately **55 degrees**.\n*   **Van:** The van is a very similar shade of warm yellow. Its dominant hue is also approximately **55 degrees**.",
+    "ms": 11676,
+    "trial": 1,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each vehicle in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)."
+  },
+  "GEMINI_25_PRO|S003|PS05|T2": {
+    "text": "```json\n[\n  {\"box_2d\": [215, 35, 730, 638], \"label\": \"the school bus\", \"hue_measurement\": 50},\n  {\"box_2d\": [504, 495, 738, 953], \"label\": \"the van\", \"hue_measurement\": 50}\n]\n```",
+    "ms": 12527,
+    "trial": 2,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each vehicle in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)."
+  },
+  "GEMINI_25_PRO|S003|PS05|T3": {
+    "text": "```json\n[\n  {\"box_2d\": [223, 110, 693, 513], \"label\": \"school bus\", \"hue\": 50},\n  {\"box_2d\": [403, 493, 725, 940], \"label\": \"van\", \"hue\": 50}\n]\n```",
+    "ms": 17804,
+    "trial": 3,
+    "model": "gemini-2.5-pro",
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each vehicle in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)."
+  },
+  "GEMINI_25_FLASH|S003|PS00|T1": {
+    "text": "This scene features two bright yellow vehicles parked on a dark grey asphalt road, set against a lush, tree-filled background under clear daylight.\n\nOn the left side of the frame is a classic American school bus, facing slightly towards the right. It's painted a vibrant yellow with \"SCHOOL\" written in black letters above its large windshield, flanked by amber warning lights. The bus has a black grille and bumper, and its side features a series of rectangular windows.\n\nTo the right of the school bus, and slightly closer to the viewer, is a smaller, modern yellow panel van. This van also faces slightly right, in a similar direction to the bus. It lacks rear windows, indicating it's a commercial or utility vehicle. It has a typical van front with headlights and a grille, and silver hubcaps on its wheels.\n\nThe two vehicles are separated by a solid white line painted on the asphalt. To the far right, a concrete curb borders a strip of vibrant green grass, suggesting the edge of a sidewalk or lawn.\n\nThe background is dominated by a dense arrangement of trees, including both deciduous trees with green and some yellowish-green leaves, and darker evergreen conifers. The foliage creates a full, natural backdrop, suggesting a suburban street, a park, or a school ground with ample greenery. The sunlight is bright, casting distinct shadows from the vehicles and trees onto the asphalt, indicating a clear, sunny day.",
+    "ms": 9069,
+    "trial": 1,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene."
+  },
+  "GEMINI_25_FLASH|S003|PS00|T2": {
+    "text": "This vibrant image depicts two bright yellow vehicles parked on an asphalt road, set against a lush backdrop of green trees.\n\nOn the left, a classic yellow school bus is prominently featured. Its front is clearly visible, showcasing the large windshield, a black grille, and the word \"SCHOOL\" displayed above the windshield, flanked by amber warning lights. The side of the bus reveals multiple windows.\n\nTo the right of the school bus, and slightly ahead, is a smaller, matching bright yellow commercial-style van. This van has solid side panels, indicating it's a cargo van, and features silver hubcaps on its wheels. Both vehicles are facing generally towards the viewer, with the van angled slightly more directly.\n\nThe vehicles are situated on a dark gray asphalt road, which has visible white line markings. A clean concrete sidewalk and a strip of vibrant green grass run along the right side of the road. The background is dominated by a dense canopy of various green trees, including both broadleaf and coniferous types, suggesting a well-vegetated suburban street or park-like environment. The sky is a light blue, peeking through the tree line.\n\nThe scene is well-lit by natural sunlight, casting subtle shadows on the road and contributing to a clear and cheerful daytime ambiance.",
+    "ms": 6607,
+    "trial": 2,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene."
+  },
+  "GEMINI_25_FLASH|S003|PS00|T3": {
+    "text": "This vibrant image depicts two bright yellow vehicles, a school bus and a panel van, parked on an asphalt road in what appears to be a suburban or park-like setting on a clear, sunny day.\n\nIn the foreground on the left, a large, classic bright yellow school bus is positioned, facing slightly towards the right side of the frame. The word \"SCHOOL\" is prominently displayed above its windshield, flanked by amber lights. The bus features a dark gray or black grille and bumper, and its large windows line its side.\n\nTo the right of the school bus, slightly ahead of it on the road, is a smaller, matching bright yellow panel van. This van has no windows in its cargo area and features a black grille and a yellow bumper that blends with its body color. Its wheels are silver.\n\nBoth vehicles are situated on a dark asphalt road with faint white lines visible, suggesting parking spaces or a lane. A light gray concrete sidewalk runs along the right edge of the road, bordered by a strip of well-maintained green grass.\n\nThe background is lush with a variety of green trees, including both deciduous trees with full, leafy canopies and some taller evergreen trees. A clear blue sky is visible above the tree line. Shadows are cast onto the road, indicating strong sunlight from the left, highlighting the clean and bright nature of the scene.",
+    "ms": 6521,
+    "trial": 3,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene."
+  },
+  "GEMINI_25_FLASH|S003|PS01|T1": {
+    "text": "The image displays two yellow vehicles parked side-by-side on an asphalt surface, with a backdrop of lush green trees under a bright sky.\n\n1.  **The School Bus:**\n    *   Positioned on the left, it is a large, classic American-style school bus, painted in a vibrant, unmistakable school bus yellow.\n    *   The front features a wide windshield, above which the word \"SCHOOL\" is prominently displayed in black letters on a yellow background, flanked by amber warning lights. Four additional rectangular amber lights are visible above the main sign.\n    *   It has a black, horizontally-slatted grille with a chrome emblem at the top center. Below the grille are two large, rectangular headlights with amber turn signals beneath them.\n    *   A sturdy black bumper runs across the lower front.\n    *   The side of the bus shows numerous rectangular windows with black frames, and its large wheels have yellow rims. A large black side mirror is visible on the driver's side.\n\n2.  **The Cargo Van:**\n    *   Positioned on the right and slightly in front of the bus, this is a smaller, modern commercial or cargo van, also painted in the same bright yellow as the school bus.\n    *   The front has a more rounded design with sleek, integrated headlights. The grille is black with horizontal slats and a central emblem (partially obscured but appears to be a manufacturer's logo).\n    *   The front bumper is body-colored yellow.\n    *   Notably, the side of the van is completely solid yellow with no windows, indicating its purpose as a cargo or panel van. A black door handle and the track for a sliding side door are visible.\n    *   Its wheels are smaller than the bus's and feature silver hubcaps. Black side mirrors are also present.\n\nBoth vehicles share a matching bright yellow color, suggesting they might belong to the same fleet or organization. They are parked in what appears to be a residential or commercial area with paved roads and well-maintained greenery.",
+    "ms": 7630,
+    "trial": 1,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS01",
+    "prompt_text": "Describe the vehicles."
+  },
+  "GEMINI_25_FLASH|S003|PS01|T2": {
+    "text": "The image displays two vehicles, both painted a vibrant, bright yellow, parked on an asphalt road with a tree-lined background.\n\n1.  **The School Bus (left):**\n    *   This is a traditional full-size school bus, characterized by its iconic **school bus yellow** color.\n    *   The word \"**SCHOOL**\" is clearly visible in black letters above the large, rectangular windshield, flanked by two amber warning lights.\n    *   It features a large, horizontally slatted silver or chrome grille on the front.\n    *   Below the grille, there's a prominent black bumper.\n    *   The headlights are large and rectangular, positioned above smaller amber signal lights.\n    *   Along its side, there are numerous evenly spaced, rectangular windows with black frames.\n    *   The visible front wheel has a black tire and a matching yellow rim/hubcap.\n    *   Small yellow marker lights are visible on the front corners of the bus.\n\n2.  **The Cargo Van (right):**\n    *   This is a modern **cargo van**, also painted a bright, almost identical shade of yellow to the bus.\n    *   It's a smaller vehicle compared to the bus and is positioned slightly ahead and to the right.\n    *   The front features a black grille with horizontal slats and distinct clear-covered headlights.\n    *   The front bumper is smooth and matches the yellow body color, with small lights integrated into it.\n    *   Crucially, the rear and side panels of the van are solid yellow, indicating it's a cargo van designed for carrying goods rather than passengers, as there are no windows on the sides of the cargo area.\n    *   The front doors have dark-tinted windows.\n    *   The wheels are silver, multi-spoke rims with black tires, contrasting with the bus's yellow wheels.\n    *   A black side mirror is visible on the driver's side.\n\nBoth vehicles are well-maintained and appear to be in good condition, possibly part of a coordinated fleet due to their matching bright yellow color. They are parked on a paved surface, likely a street or parking lot, bordered by a concrete curb and sidewalk with green grass beyond. The background consists of lush green trees, suggesting a pleasant, possibly suburban or rural setting.",
+    "ms": 9089,
+    "trial": 2,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS01",
+    "prompt_text": "Describe the vehicles."
+  },
+  "GEMINI_25_FLASH|S003|PS01|T3": {
+    "text": "The image features two bright yellow vehicles parked on an asphalt surface, likely a road or parking lot, with lush green trees and foliage in the background under a clear sky.\n\n1.  **The School Bus (Left Vehicle):**\n    *   It is a conventional-style school bus, predominantly painted in the classic school bus yellow.\n    *   Above its large, rectangular windshield, a prominent sign displays the word \"SCHOOL\" in black letters, flanked by amber warning lights.\n    *   The front of the bus features a dark gray or black horizontal slat grille with a small, unidentifiable emblem at the top center.\n    *   It has large, clear rectangular headlights and smaller amber marker lights below them.\n    *   A thick, black, sturdy-looking bumper runs across the front.\n    *   The visible front wheel has a yellow rim and a black tire.\n    *   Along its side, multiple rectangular passenger windows are visible, typical of a school bus configuration.\n    *   Large, black side mirrors are mounted near the front.\n\n2.  **The Cargo Van (Right Vehicle):**\n    *   This is a modern-style commercial cargo van, also painted in the same vibrant yellow as the bus.\n    *   Its front features a body-colored (yellow) bumper and a black horizontal slat grille with a large, somewhat obscured emblem (possibly a manufacturer logo) in the center.\n    *   It has clear, slightly swept-back headlights.\n    *   Unlike the bus, the side of the van has solid yellow panels instead of windows, indicating it's designed for carrying cargo rather than passengers.\n    *   A track for a sliding door is visible on the passenger side.\n    *   The wheels have silver-colored rims and black tires.\n    *   It is noticeably smaller and lower to the ground than the school bus.\n\nBoth vehicles appear clean and well-maintained, suggesting they are either new or meticulously cared for.",
+    "ms": 7829,
+    "trial": 3,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS01",
+    "prompt_text": "Describe the vehicles."
+  },
+  "GEMINI_25_FLASH|S003|PS02|T1": {
+    "text": "Both vehicles in the image are predominantly **yellow**.\n\n1.  The **school bus** is a vibrant, bright shade of yellow, consistent with the classic \"school bus yellow.\" Its front grille and bumper are black, and the text \"SCHOOL\" above the windshield is also black. The wheels have yellow hubs, and there are amber/orange warning lights visible on the front and sides.\n\n2.  The **van** is also yellow, appearing as a slightly lighter, perhaps more pastel, but still very bright shade compared to the school bus. Its front grille is dark gray or black, and its wheels have silver-toned hubcaps or rims. The van's bumper matches the yellow of its body.",
+    "ms": 7678,
+    "trial": 1,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the vehicles."
+  },
+  "GEMINI_25_FLASH|S003|PS02|T2": {
+    "text": "Both vehicles in the image are predominantly yellow.\n\n1.  **The School Bus (left):** This is a classic **school bus yellow**, a vibrant and distinctive shade of yellow. The front grille is dark gray/black, and the lower front bumper is black. The wheels have yellow hubs, contrasting with the black tires. The windows appear dark and reflective, seeming black or very dark gray. The word \"SCHOOL\" across the top front is in black lettering, and the flashing warning lights on the top are amber/orange.\n\n2.  **The Van (right):** This cargo van is also a bright, solid **yellow**. It appears to be a slightly lighter or more vivid shade than the school bus, but still clearly yellow. The front grille is dark gray/black, while the rest of the front bumper and body are consistently yellow. The tires are black, and the wheel rims are silver or light metallic gray. The side mirrors are black, and the windows are dark, similar to the bus, appearing black or very dark gray.",
+    "ms": 6912,
+    "trial": 2,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the vehicles."
+  },
+  "GEMINI_25_FLASH|S003|PS02|T3": {
+    "text": "Both vehicles in the image are predominantly yellow, though there are subtle differences in their shades and accent colors.\n\n1.  **School Bus:** The school bus on the left is a vibrant, classic \"school bus yellow\" (officially known as National School Bus Chrome). This is a distinct, deep yellow with a hint of orange.\n    *   It has black \"SCHOOL\" lettering above the windshield.\n    *   The front grille, lower bumper, and side skirt (below the windows) are black.\n    *   The wheels/rims are also yellow, matching the bus body, with black tires.\n    *   The windows are tinted dark, appearing black or very dark gray.\n    *   The warning lights above the windshield are amber/orange.\n\n2.  **Commercial Van:** The commercial van on the right is also a bright yellow, possibly a slightly lighter or more primary yellow shade compared to the bus.\n    *   It has a dark gray/black front grille.\n    *   The side mirrors and door handles are black.\n    *   The wheels are silver/metallic gray, with black tires.\n    *   The front headlights have clear lenses.\n    *   The windows, particularly the windshield, appear tinted dark.",
+    "ms": 6153,
+    "trial": 3,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the vehicles."
+  },
+  "GEMINI_25_FLASH|S003|PS03|T1": {
+    "text": "While both vehicles are clearly yellow, their specific shades of yellow are **different**.\n\nThe school bus is a deeper, more orange-yellow (the characteristic \"school bus yellow\"). The van, in comparison, is a brighter, slightly lighter, and perhaps more \"pure\" or \"lemon\" yellow.",
+    "ms": 4130,
+    "trial": 1,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?"
+  },
+  "GEMINI_25_FLASH|S003|PS03|T2": {
+    "text": "While both vehicles are yellow, they are **different shades** of yellow.\n\nThe school bus is painted in the distinctive, deeper, and more saturated \"school bus yellow\" (also known as National School Bus Chrome). The van, on the other hand, is a lighter, slightly less vibrant shade of yellow.",
+    "ms": 4816,
+    "trial": 2,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?"
+  },
+  "GEMINI_25_FLASH|S003|PS03|T3": {
+    "text": "While both vehicles are yellow, they are **different shades** of yellow.\n\nThe school bus is a deeper, more vibrant, and saturated shade of yellow (the typical \"school bus yellow\"). The van is a lighter, slightly paler yellow, appearing a bit less saturated than the bus.",
+    "ms": 6957,
+    "trial": 3,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?"
+  },
+  "GEMINI_25_FLASH|S003|PS04|T1": {
+    "text": "Let's analyze the hue of each vehicle:\n\n1.  **The School Bus:** The yellow of the school bus is a classic \"school bus yellow,\" which is officially known as National School Bus Chrome. This specific shade of yellow has a distinct and strong orange undertone, making it a deep, rich, and saturated yellow-orange.\n\n2.  **The Van:** The yellow of the van is also bright, but when compared to the bus, it appears to be a lighter, slightly less saturated yellow. It lacks the prominent orange bias seen in the school bus's color. It leans more towards a \"pure\" yellow or a very subtle, almost imperceptible greenish-yellow, rather than an orange-yellow.\n\n**Conclusion:**\n\n*   The **school bus** has a yellow that leans distinctly towards orange, which is a warm color. Therefore, the school bus is **warmer**.\n*   The **van** has a yellow that is less orange and more of a primary or slightly greenish yellow, making it cooler in comparison to the bus's specific shade. Therefore, the van is **cooler**.",
+    "ms": 6803,
+    "trial": 1,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each vehicle. Which is warmer, which is cooler?"
+  },
+  "GEMINI_25_FLASH|S003|PS04|T2": {
+    "text": "Upon careful analysis of the exact hues of both vehicles:\n\n*   The **school bus** is painted in a vibrant, rich yellow that leans distinctly towards orange. This makes it a classic example of a **warm** yellow. It has a golden, slightly fiery undertone.\n*   The **van** is also yellow, but when directly compared to the school bus, its hue is brighter and has a subtle leaning towards green or a more \"lemony\" yellow. It lacks the deep orange undertones present in the bus's color. Therefore, the van's yellow is **cooler** than the school bus's yellow.\n\nIn summary:\n*   The **school bus** is **warmer**.\n*   The **van** is **cooler**.",
+    "ms": 4430,
+    "trial": 2,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each vehicle. Which is warmer, which is cooler?"
+  },
+  "GEMINI_25_FLASH|S003|PS04|T3": {
+    "text": "After carefully analyzing the exact hues of each vehicle:\n\n*   The **school bus** is a classic school bus yellow, which is a very vibrant and saturated yellow. When observed closely, it has a subtle but distinct **orange undertone**.\n*   The **van** is also a bright yellow, but its hue leans slightly towards **green**, giving it a more lime-yellow or chartreuse quality compared to the bus.\n\nIn color theory:\n*   Yellows with red or orange undertones are considered **warmer**.\n*   Yellows with blue or green undertones are considered **cooler**.\n\nTherefore:\n*   The **school bus** is **warmer** (due to its orange undertone).\n*   The **van** is **cooler** (due to its green undertone).",
+    "ms": 3306,
+    "trial": 3,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each vehicle. Which is warmer, which is cooler?"
+  },
+  "GEMINI_25_FLASH|S003|PS05|T1": {
+    "text": "Based on sampling the dominant colors of each vehicle:\n\n*   **School Bus:** The dominant hue of the school bus is approximately **48 degrees**. (This is a vibrant yellow-orange, close to pure yellow (60 degrees) but shifted towards red (0 degrees)).\n*   **Van:** The dominant hue of the van is also approximately **48 degrees**. (It appears to be painted with the same or a very similar shade of yellow-orange as the school bus).",
+    "ms": 6255,
+    "trial": 1,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each vehicle in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)."
+  },
+  "GEMINI_25_FLASH|S003|PS05|T2": {
+    "text": "To measure the dominant hue of each vehicle, I will sample multiple points on the yellow body of each vehicle using a color picker tool and convert the RGB values to HSV to get the hue component in degrees.\n\nA standard HSV color wheel defines:\n*   Red = 0 degrees\n*   Yellow = 60 degrees\n*   Green = 120 degrees\n\n**1. School Bus:**\nI sampled several representative areas of the yellow paint on the school bus, considering variations in lighting:\n*   Front, upper body: RGB (255, 215, 0) -> Hue \u2248 50.6\u00b0\n*   Side, middle body (bright): RGB (255, 208, 0) -> Hue \u2248 49.1\u00b0\n*   Front fender: RGB (255, 219, 0) -> Hue \u2248 51.5\u00b0\n*   Lower side, slightly shadowed: RGB (255, 204, 0) -> Hue \u2248 48.0\u00b0\n*   Mid-front, near grill: RGB (255, 207, 0) -> Hue \u2248 48.9\u00b0\n\nThe average hue for the school bus is approximately (50.6 + 49.1 + 51.5 + 48.0 + 48.9) / 5 = 49.62\u00b0.\n\n**2. Delivery Van:**\nSimilarly, I sampled several representative areas of the yellow paint on the delivery van:\n*   Front bumper: RGB (255, 222, 0) -> Hue \u2248 52.2\u00b0\n*   Front door panel: RGB (255, 217, 0) -> Hue \u2248 51.0\u00b0\n*   Side panel, middle (bright): RGB (255, 211, 0) -> Hue \u2248 50.0\u00b0\n*   Rear panel, slightly shadowed: RGB (242, 202, 0) -> Hue \u2248 50.1\u00b0\n*   Top front, near windshield (brightest spot): RGB (255, 225, 0) -> Hue \u2248 53.0\u00b0\n\nThe average hue for the delivery van is approximately (52.2 + 51.0 + 50.0 + 50.1 + 53.0) / 5 = 51.26\u00b0.\n\n**Results:**\n\n*   **School Bus:** The dominant hue is approximately **50 degrees**.\n*   **Delivery Van:** The dominant hue is approximately **51 degrees**.",
+    "ms": 11952,
+    "trial": 2,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each vehicle in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)."
+  },
+  "GEMINI_25_FLASH|S003|PS05|T3": {
+    "text": "To measure the dominant hue, I will sample a representative area of each vehicle's body, avoiding reflections or heavily shaded spots, and convert the RGB values to HSV. The HSV color wheel standard is: 0=red, 60=yellow, 120=green, 180=cyan, 240=blue, 300=magenta, and 360/0=red.\n\n**1. School Bus:**\nSampling a central, well-lit part of the school bus's side body (e.g., above the wheels, in the middle of the large yellow panel):\n*   **RGB values:** (255, 203, 0)\n*   **Conversion to HSV:**\n    *   Hue (H): 48 degrees\n    *   Saturation (S): 100%\n    *   Value (V): 100%\nThe dominant hue of the school bus is **48 degrees**.\n\n**2. Van:**\nSampling a central, well-lit part of the van's side body (e.g., the large yellow panel on the side):\n*   **RGB values:** (255, 203, 0)\n*   **Conversion to HSV:**\n    *   Hue (H): 48 degrees\n    *   Saturation (S): 100%\n    *   Value (V): 100%\nThe dominant hue of the van is **48 degrees**.\n\nBoth vehicles have a very similar dominant hue, which is a bright yellow that leans slightly towards orange on the HSV color wheel.\n\n**Results:**\n*   **School Bus:** 48 degrees\n*   **Van:** 48 degrees",
+    "ms": 9859,
+    "trial": 3,
+    "model": "gemini-2.5-flash",
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each vehicle in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)."
+  }
+}
