@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-SCE Replication: Gemini Gradient Experiment v2
-Thinking disabled, maxOutputTokens=2000.
-Models: Gemini 2.5 Pro and 2.5 Flash only.
+SCE Replication: Gemini Gradient v2
+Thinking models handled: thinking stays ON, output budget increased to 8000.
+Script strips thinking parts and keeps only the actual response text.
+Models: Gemini 2.5 Pro and 2.5 Flash.
 
 Usage:
     python3 run_gemini_gradient_v2.py --key "AIzaSy..."
@@ -32,24 +33,37 @@ def get_image_b64(filename, cache_dir=".stimuli_cache"):
         return base64.b64encode(f.read()).decode()
 
 def extract_text(result):
+    """Extract only non-thinking text from Gemini response."""
     candidates = result.get("candidates", [])
     if not candidates:
-        return "ERROR: No candidates"
+        return "ERROR: No candidates in response"
+    
     parts = candidates[0].get("content", {}).get("parts", [])
-    text_parts = []
+    if not parts:
+        return "ERROR: No parts in response"
+    
+    # First pass: collect parts that have text and are NOT thinking
+    response_text = []
+    thinking_text = []
+    
     for part in parts:
-        # Skip thinking parts, only collect actual text output
-        if "text" in part and not part.get("thought", False):
-            text_parts.append(part["text"])
-    if text_parts:
-        return "\n".join(text_parts)
-    # Fallback: any text part at all
-    for part in parts:
-        if "text" in part:
-            text_parts.append(part["text"])
-    if text_parts:
-        return "[from thinking] " + "\n".join(text_parts)
-    return f"ERROR: No text. Keys in parts: {[list(p.keys()) for p in parts]}"
+        has_text = "text" in part
+        is_thought = part.get("thought", False)
+        
+        if has_text and not is_thought:
+            response_text.append(part["text"])
+        elif has_text and is_thought:
+            thinking_text.append(part["text"])
+    
+    if response_text:
+        return "\n".join(response_text)
+    
+    # If ALL parts were thinking (no non-thought text), 
+    # the model used all output on thinking. Report this.
+    if thinking_text:
+        return "ERROR: Model produced only thinking output, no response text. Thinking was: " + thinking_text[0][:200]
+    
+    return f"ERROR: No text in any part. Part keys: {[list(p.keys()) for p in parts]}"
 
 def run_gemini(api_key, model, image_b64, prompt):
     payload = {
@@ -59,10 +73,11 @@ def run_gemini(api_key, model, image_b64, prompt):
         ]}],
         "generationConfig": {
             "temperature": TEMPERATURE,
-            "maxOutputTokens": 2000,
-            "thinkingConfig": {"thinkingBudget": 0}
+            "maxOutputTokens": 8000
         }
     }
+    # No thinkingConfig at all. Let the model think however it wants.
+    # We just give it enough output tokens and strip the thinking from the result.
     
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent?key={api_key}"
     req = urllib.request.Request(url,
@@ -118,24 +133,28 @@ def main():
                 try:
                     text, ms = run_gemini(api_key, model, images[stim], PROMPT)
                     results[key] = {"text": text, "ms": ms, "trial": trial, "model": model}
-                    print(f"{ms}ms ({len(text)} chars)")
+                    err_flag = " [!]" if text.startswith("ERROR") else ""
+                    print(f"{ms}ms ({len(text)} chars){err_flag}")
                 except Exception as e:
                     print(f"ERROR: {e}")
                     results[key] = {"text": f"ERROR: {e}", "ms": 0, "trial": trial, "model": model}
                 time.sleep(1)
         
-        # Checkpoint after each model
         with open("gemini_gradient_v2_results.json", "w") as f:
             json.dump(results, f, indent=2)
         print(f"  Checkpoint saved ({len(results)} results)")
     
     with open("gemini_gradient_v2_results.json", "w") as f:
         json.dump(results, f, indent=2)
-    print(f"\n=== COMPLETE: {len(results)} results ===")
+    
+    # Count successes and errors
+    ok = sum(1 for v in results.values() if not v["text"].startswith("ERROR"))
+    err = len(results) - ok
+    print(f"\n=== COMPLETE: {ok} OK, {err} errors, {len(results)} total ===")
     print(f"Saved to gemini_gradient_v2_results.json")
     print(f"\n  cp gemini_gradient_v2_results.json results/")
     print(f"  git add results/gemini_gradient_v2_results.json")
-    print(f"  git commit -m \"Gemini gradient v2: thinking off, 2000 tokens\"")
+    print(f"  git commit -m \"Gemini gradient v2: thinking on, 8000 tokens, stripped\"")
     print(f"  git push")
 
 if __name__ == "__main__":
