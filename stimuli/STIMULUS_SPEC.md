@@ -60,46 +60,53 @@ A 10° hue shift is detectable by pixel sampling, visible to a careful human obs
 
 ---
 
-## STIMULUS SET B: BANANA / CARROT
+## STIMULUS SET B: COMPOSITE FOOD SCENE
 
 ### Scene Composition
 
-Individual food items on a neutral surface (white plate, light cutting board, or plain countertop). One object per image. Clean, well-lit, no distracting background elements. The object should fill roughly 40-60% of the frame.
+Single composite image containing three objects at three conflict levels on a kitchen counter:
+- Orange bananas in a bowl (shifted from natural yellow, strong prior conflict)
+- Orange carrot on a cutting board with knife (natural color, no conflict)
+- Blue apple on the table (impossible color, extreme conflict)
+
+Neutral background, even lighting, natural kitchen composition. The knife and cutting board sell the "kitchen scene" framing so the model is not primed to look for color anomalies.
 
 ### Image Creation Method
 
-**For the orange banana (S004):** Start with a photo of a normal yellow banana. Use HSL adjustment to shift the banana's hue from yellow (~55°) to orange (~30°). Keep saturation and brightness natural. Feather the mask so the color shift blends naturally with the banana's natural shading. The result should look like a banana that happens to be orange.
+Base scene: AI-generated kitchen still life. Banana hue shifted from natural yellow (~45°) to orange (30°) with saturation 70%. Carrot left at natural orange. Apple shifted to blue. All other elements (wood table, ceramic bowl, knife) at natural colors.
 
-**For the orange carrot (S005):** Use a photo of a normal orange carrot. Do NOT modify its color. This is the control. The carrot should be approximately the same orange hue as the modified banana in S004. If needed, adjust the carrot's hue slightly so that S004 and S005 are within 3° of each other.
+### S004.png — Three-object composite (single image, three conflict levels)
 
-**For the yellow banana (S006):** Use a photo of a normal yellow banana. Do NOT modify its color. This is the prior-consistent control.
+| Object | Measured Hue | Natural Hue | Conflict Type | Ground Truth |
+|---|---|---|---|---|
+| Banana | H=30°, S=70% | ~45° (natural yellow) | Nearby wrong. 15° shift toward orange. | Orange. "Yellow" report = capture. |
+| Carrot | H=23° | ~23° (natural orange) | No conflict. Carrots are orange. | Orange. Control object. |
+| Apple | H=205° | ~0-10° (red) or ~120° (green) | Impossible wrong. No apple is blue. | Blue. Ceiling test. |
 
-### Color Specifications
+### What This Tests
 
-**S004.png — Orange banana (SCE test)**
-- Target hue: ~30° (orange range)
-- Natural saturation and brightness
-- Purpose: Banana IS orange. "Yellow" report = semantic capture.
-- Ground truth: Orange. Approximately H=30°.
+Three conflict levels in one prompt:
 
-**S005.png — Orange carrot (matched-pair control)**
-- Target hue: ~30° (match S004 as closely as possible)
-- Natural, unmodified carrot
-- Purpose: Carrot IS orange. No semantic conflict. "Orange" report expected.
-- Ground truth: Orange. Approximately H=30°.
-- KEY: The diagnostic is comparing S004 and S005 responses. Same orange, different objects.
+1. **No conflict (carrot):** Object is its expected color. Baseline for accurate color reporting.
+2. **Plausible mismatch (banana):** Object is a wrong but nearby color (orange vs yellow, 15° shift). Tests whether the "bananas are yellow" prior overrides perception. The carrot at H=23° and banana at H=30° are in the same orange neighborhood, making this a strong matched pair: same color family, different objects, predicted different reports.
+3. **Impossible mismatch (apple):** Object is a categorically wrong color (blue vs red/green). Tests what happens when the prior cannot plausibly override. Expected: correct report, possibly with anomaly flagging.
 
-**S006.png — Yellow banana (prior-consistent control)**
-- Natural yellow, unmodified
-- Hue: ~55° (natural banana yellow)
-- Purpose: No conflict. Prior and reality agree. "Yellow" report correct.
-- Ground truth: Yellow. Approximately H=55°.
+### Preliminary Results (quick test, N=1 per model)
+
+| Model | Carrot | Banana | Apple |
+|---|---|---|---|
+| Grok | "bright orange" (correct) | "ripe yellow" (captured) | "blue" (correct, noted) |
+| Opus | "orange" (correct) | "yellow" (captured) | "blue" (correct, flagged as anomalous) |
+| Gemini | TBD | avoided color ("a bunch of bananas") | TBD |
+| Haiku | avoided color | avoided color ("ripe bananas") | "blue" (correct) |
+
+Opus spontaneously performed metacognitive analysis: called the apple "the odd one out," stated everything else was "chromatically correct," including the bananas it had just misidentified as yellow. Confident, analytically defended capture.
 
 ---
 
 ## STIMULUS SET C: CUBE + FENCE (STRETCH GOAL)
 
-**S007.png — White picket fence collocation test**
+**S005.png — White picket fence collocation test**
 - Fence: ~H=39°, S=15%, V=75% (cream, not white)
 - Cube: ~H=39°, S=15%, V=75% (same cream)
 - Purpose: "White picket fence" collocation predicts fence reported as white, cube as cream/beige, despite identical color.
@@ -180,18 +187,18 @@ CG02 uses S003.png (same image as core condition C05). Run independently for int
 | S003 | Bus | 51° | Shifted cooler (corrected 03-21) |
 | S003 | Van | 41° | Near-canonical |
 
-### Set B
-| Image | Object | Measured H | Measured S | Measured V | Notes |
-|---|---|---|---|---|---|
-| S004 | Banana | | | | |
-| S005 | Carrot | | | | |
-| S006 | Banana | | | | |
+### Set B (Photoshop eyedropper)
+| Image | Object | Measured H | Notes |
+|---|---|---|---|
+| S004 | Banana | 30° (S=70%) | Shifted from natural ~45°. 15° toward orange. |
+| S004 | Carrot | 23° | Natural orange, unmodified. |
+| S004 | Apple | 205° | Shifted to blue. Impossible color. |
 
 ### Set C
 | Image | Object | Measured H | Measured S | Measured V | Notes |
 |---|---|---|---|---|---|
-| S007 | Fence | | | | |
-| S007 | Cube | | | | |
+| S005 | Fence | | | | |
+| S005 | Cube | | | | |
 
 ### Set D (Gradient, Photoshop point-sample, center of side panel)
 | Image | Bus H | Van H | Bus Shift from S001 | Notes |
