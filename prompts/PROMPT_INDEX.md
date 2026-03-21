@@ -5,8 +5,7 @@ Two prompts only. Minimal. Unprimed.
 
 The original study used "describe this scene" with no color-specific instructions.
 The power of the finding is that models spontaneously misreport color when not asked
-to scrutinize it. Leading prompts ("which vehicle is warmer?") would invalidate
-the experiment by priming color comparison.
+to scrutinize it. Leading prompts would invalidate the experiment by priming color comparison.
 
 ---
 
@@ -17,23 +16,38 @@ the experiment by priming color comparison.
 | P01 | P01_narrative.txt | Narrative | "Describe this scene." Unprimed. Tests what the model volunteers about color. |
 | P02 | P02_analytical.txt | Analytical | Requests hue measurement in degrees. Tests analytical bypass of semantic prior. |
 
-Both prompts are used with ALL stimuli (S001-S007). Same prompt, different images.
+Both prompts are used with ALL core stimuli (S001-S007). Same prompt, different images.
+Gradient stimuli (G001-G006) use P01 only. The gradient measures narrative capture, not analytical bypass.
 
-## Condition Matrix
+## Core Condition Matrix
 
 | Condition | Stimulus | Prompt | Tests |
 |---|---|---|---|
-| C01 | S001 (bus+van, same yellow) | P01 (narrative) | Control: no conflict, unprimed |
-| C02 | S001 (bus+van, same yellow) | P02 (analytical) | Control: analytical baseline |
-| C03 | S002 (bus warm, van cool) | P01 (narrative) | Prior-consistent split, unprimed |
-| C04 | S002 (bus warm, van cool) | P02 (analytical) | Prior-consistent split, analytical |
-| C05 | S003 (bus cool, van warm) | P01 (narrative) | Prior-conflicting split, unprimed (KEY TEST) |
-| C06 | S003 (bus cool, van warm) | P02 (analytical) | Prior-conflicting split, analytical |
-| C07 | S004 (orange banana) | P01 (narrative) | Classic SCE capture test |
-| C08 | S004 (orange banana) | P02 (analytical) | Analytical bypass test |
-| C09 | S005 (orange carrot) | P01 (narrative) | Matched-pair control (no conflict) |
-| C10 | S005 (orange carrot) | P02 (analytical) | Matched-pair control, analytical |
-| C11 | S006 (yellow banana) | P01 (narrative) | Prior-consistent control |
-| C12 | S006 (yellow banana) | P02 (analytical) | Prior-consistent control, analytical |
+| C01 | S001.png | P01 (narrative) | Control: no conflict, unprimed |
+| C02 | S001.png | P02 (analytical) | Control: analytical baseline |
+| C03 | S002.png | P01 (narrative) | Prior-consistent split, unprimed |
+| C04 | S002.png | P02 (analytical) | Prior-consistent split, analytical |
+| C05 | S003.png | P01 (narrative) | Prior-conflicting split, unprimed (KEY TEST) |
+| C06 | S003.png | P02 (analytical) | Prior-conflicting split, analytical |
+| C07 | S004.png | P01 (narrative) | SCE capture test |
+| C08 | S004.png | P02 (analytical) | Analytical bypass test |
+| C09 | S005.png | P01 (narrative) | Matched-pair control (no conflict) |
+| C10 | S005.png | P02 (analytical) | Matched-pair control, analytical |
+| C11 | S006.png | P01 (narrative) | Prior-consistent control |
+| C12 | S006.png | P02 (analytical) | Prior-consistent control, analytical |
 
-**Total:** 12 conditions x 5 models x 10 trials = 600 API calls
+## Gradient Conditions (P01 narrative only)
+
+| Condition | Stimulus | Shift from canonical |
+|---|---|---|
+| (C01) | S001.png | 0° baseline (shared with core) |
+| CG01 | G001.png | +5° |
+| CG02 | G002.png | +10° |
+| CG03 | G003.png | +15° |
+| CG04 | G004.png | +20° |
+| CG05 | G005.png | +25° |
+| CG06 | G006.png | +30° |
+
+**Note on filenames:** All stimulus files use opaque names (S001.png, G001.png) to prevent
+filename contamination. Models receive the image URL, which includes the filename.
+See STIMULUS_SPEC.md for the mapping from filenames to experimental conditions.
