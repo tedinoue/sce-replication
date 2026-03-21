@@ -1,0 +1,1 @@
+Look at this image. Estimate the dominant hue of this food item in degrees on a standard HSV/HSL color wheel (0=red, 30=orange, 60=yellow, 120=green). Report your best estimate as a number in degrees.
