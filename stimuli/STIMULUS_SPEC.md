@@ -38,20 +38,20 @@ A 10° hue shift is detectable by pixel sampling, visible to a careful human obs
 
 ### The Three Images
 
-**S001_bus_van_same.png — Control (both canonical)**
+**S001.png — Control (both canonical)**
 - Bus: H=43°
 - Van: H=43°
 - Purpose: No color difference exists. Any reported difference is fabrication.
 - Ground truth: Both vehicles are the same yellow.
 
-**S002_bus_warm_van_cool.png — Prior-consistent split**
+**S002.png — Prior-consistent split**
 - Bus: H=43° (canonical, warm)
 - Van: H=53° (shifted cooler)
 - Purpose: Bus IS warmer. Correct answer aligns with "school buses are warm golden yellow" prior.
 - Ground truth: Bus is warmer (lower hue number = warmer yellow). Difference is 10°.
 - NOTE: A model that always defaults to "bus is warmer" will get this one RIGHT. That's why S003 exists.
 
-**S003_bus_cool_van_warm.png — Prior-conflicting split (KEY TEST)**
+**S003.png — Prior-conflicting split (KEY TEST)**
 - Bus: H=53° (shifted cooler)
 - Van: H=43° (canonical, warm)
 - Purpose: Bus is COOLER. Correct answer CONFLICTS with the semantic prior.
@@ -76,20 +76,20 @@ Individual food items on a neutral surface (white plate, light cutting board, or
 
 ### Color Specifications
 
-**S004_banana_orange.png — Orange banana (SCE test)**
+**S004.png — Orange banana (SCE test)**
 - Target hue: ~30° (orange range)
 - Natural saturation and brightness
 - Purpose: Banana IS orange. "Yellow" report = semantic capture.
 - Ground truth: Orange. Approximately H=30°.
 
-**S005_carrot_orange.png — Orange carrot (matched-pair control)**
+**S005.png — Orange carrot (matched-pair control)**
 - Target hue: ~30° (match S004 as closely as possible)
 - Natural, unmodified carrot
 - Purpose: Carrot IS orange. No semantic conflict. "Orange" report expected.
 - Ground truth: Orange. Approximately H=30°.
 - KEY: The diagnostic is comparing S004 and S005 responses. Same orange, different objects.
 
-**S006_banana_yellow.png — Yellow banana (prior-consistent control)**
+**S006.png — Yellow banana (prior-consistent control)**
 - Natural yellow, unmodified
 - Hue: ~55° (natural banana yellow)
 - Purpose: No conflict. Prior and reality agree. "Yellow" report correct.
@@ -99,7 +99,7 @@ Individual food items on a neutral surface (white plate, light cutting board, or
 
 ## STIMULUS SET C: CUBE + FENCE (STRETCH GOAL)
 
-**S007_cube_fence.png — White picket fence collocation test**
+**S007.png — White picket fence collocation test**
 - Fence: ~H=39°, S=15%, V=75% (cream, not white)
 - Cube: ~H=39°, S=15%, V=75% (same cream)
 - Purpose: "White picket fence" collocation predicts fence reported as white, cube as cream/beige, despite identical color.
