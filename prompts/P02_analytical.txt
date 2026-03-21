@@ -1,0 +1,1 @@
+For each object in this image, measure the dominant hue value in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).
