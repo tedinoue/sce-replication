@@ -107,6 +107,65 @@ Individual food items on a neutral surface (white plate, light cutting board, or
 
 ---
 
+---
+
+## STIMULUS SET D: BREAKPOINT GRADIENT SERIES
+
+The gradient series maps the capture-to-detection transition curve. The bus hue shifts in 5° increments from canonical (43°) toward green while the van remains at canonical. At each step, N=10 trials determines whether the model still reports the bus as "yellow" or begins acknowledging the shift. The resulting curve characterizes each model's breakpoint, the hue distance at which the semantic prior loses its grip.
+
+### Scene Composition
+
+Identical to Set A. Same base image, same van. Only the bus hue changes.
+
+### The Gradient
+
+| Image | Bus Hue | Van Hue | Shift from canonical | Expected behavior |
+|---|---|---|---|---|
+| S001.png | 43° | 43° | 0° (same) | Control. Reuse from Set A. |
+| G001.png | 48° | 43° | +5° | Likely still captured. Subtle shift. |
+| G002.png | 53° | 43° | +10° | Matches S003 conditions. Near breakpoint for some models. |
+| G003.png | 58° | 43° | +15° | Approaching yellow-green. Some models may begin detecting. |
+| G004.png | 63° | 43° | +20° | Yellow-green range. Breakpoint for most models. |
+| G005.png | 68° | 43° | +25° | Clearly shifting. Most models should detect. |
+| G006.png | 73° | 43° | +30° | Chartreuse. Strong visual departure. Near-ceiling detection. |
+
+Note: S001 serves as the 0° baseline. No need for a separate G000.
+
+### Image Creation
+
+Same base scene as S001/S002/S003. For each gradient step:
+1. Start from the base scene with both vehicles at H=43°
+2. Mask the bus body
+3. Shift bus hue to target value
+4. Keep van at H=43°
+5. Export at 700x500 PNG
+
+### What This Measures
+
+At each gradient step, for each model, across 10 trials:
+- **Capture rate:** What percentage of trials report the bus as "yellow" or "warm yellow"?
+- **Detection rate:** What percentage correctly note the bus is cooler/greener than the van?
+- **Breakpoint:** The hue shift at which detection rate crosses 50% (interpolated from the curve).
+
+The breakpoint is model-specific. The original study suggests Claude Opus breaks later (stronger capture) than ChatGPT (weaker capture). N=10 trials per step gives error bars. The sigmoid fit gives the breakpoint estimate.
+
+### Gradient Conditions (all use P01 narrative prompt only)
+
+| Condition | Stimulus | Prompt | Trials |
+|---|---|---|---|
+| G01 | G001.png (48°) | P01 | 10 |
+| G02 | G002.png (53°) | P01 | 10 |
+| G03 | G003.png (58°) | P01 | 10 |
+| G04 | G004.png (63°) | P01 | 10 |
+| G05 | G005.png (68°) | P01 | 10 |
+| G06 | G006.png (73°) | P01 | 10 |
+
+Plus C01 (S001, 43°) as the 0° baseline = 7 gradient points.
+
+**Total gradient calls:** 7 steps x 5 models x 10 trials = 350 API calls
+**Combined with core study:** 600 + 350 = 950 total API calls
+
+
 ## MEASURED VALUES (fill in after image creation/verification)
 
 ### Set A
@@ -131,6 +190,16 @@ Individual food items on a neutral surface (white plate, light cutting board, or
 |---|---|---|---|---|---|
 | S007 | Fence | | | | |
 | S007 | Cube | | | | |
+
+### Set D (Gradient)
+| Image | Bus H | Van H | Verified Shift | Notes |
+|---|---|---|---|---|
+| G001 | 48° target | 43° target | | |
+| G002 | 53° target | 43° target | | |
+| G003 | 58° target | 43° target | | |
+| G004 | 63° target | 43° target | | |
+| G005 | 68° target | 43° target | | |
+| G006 | 73° target | 43° target | | |
 
 ---
 
