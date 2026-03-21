@@ -1,0 +1,1 @@
+Look at this image. For both the fence and the cube/block, estimate the hue, saturation, and brightness values (HSV color model). Report your best estimates as numbers. Then state whether the two objects are the same color or different colors based on your measurements.
