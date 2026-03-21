@@ -170,15 +170,15 @@ Note: CG02 uses S003.png, which is also used in core condition C05. The gradient
 
 ## MEASURED VALUES (fill in after image creation/verification)
 
-### Set A
-| Image | Vehicle | Measured H | Measured S | Measured V | Notes |
-|---|---|---|---|---|---|
-| S001 | Bus | | | | |
-| S001 | Van | | | | |
-| S002 | Bus | | | | |
-| S002 | Van | | | | |
-| S003 | Bus | | | | |
-| S003 | Van | | | | |
+### Set A (Photoshop point-sample, center of side panel)
+| Image | Vehicle | Measured H | Notes |
+|---|---|---|---|
+| S001 | Bus | 42° | Control |
+| S001 | Van | 42° | Control |
+| S002 | Bus | 42° | Canonical warm |
+| S002 | Van | 51° | Shifted cooler |
+| S003 | Bus | 51° | Shifted cooler (corrected 03-21) |
+| S003 | Van | 41° | Near-canonical |
 
 ### Set B
 | Image | Object | Measured H | Measured S | Measured V | Notes |
@@ -193,15 +193,21 @@ Note: CG02 uses S003.png, which is also used in core condition C05. The gradient
 | S007 | Fence | | | | |
 | S007 | Cube | | | | |
 
-### Set D (Gradient)
-| Image | Bus H | Van H | Verified Shift | Notes |
+### Set D (Gradient, Photoshop point-sample, center of side panel)
+| Image | Bus H | Van H | Bus Shift from S001 | Notes |
 |---|---|---|---|---|
-| G001 | 48° target | 43° target | | |
-| (S003) | 53° target | 43° target | | Reuse S003 from Set A |
-| G003 | 58° target | 43° target | | |
-| G004 | 63° target | 43° target | | |
-| G005 | 68° target | 43° target | | |
-| G006 | 73° target | 43° target | | |
+| G001 | 47° | 42° | +5° | |
+| G002 | 51° | 42° | +9° | Alternate for S003 condition. 1° van difference. |
+| (S003) | 51° | 41° | +9° | Reuse S003 from Set A for +10° gradient point |
+| G003 | 58° | 42° | +16° | |
+| G004 | 63° | 42° | +21° | |
+| G005 | 69° | 42° | +27° | |
+| G006 | 73° | 42° | +31° | |
+
+Note: Measured values differ slightly from targets due to natural variation across
+the vehicle surface. All measurements taken at center of side panel. Variation of
++/-2° across the vehicle body is expected. These measured values are ground truth
+for scoring purposes.
 
 ---
 
