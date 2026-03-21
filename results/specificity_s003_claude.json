@@ -1,0 +1,380 @@
+{
+  "OPUS|S003|PS00|T1": {
+    "text": "# Scene Description\n\nThe image shows two yellow vehicles parked side by side on a paved road:\n\n1. **A yellow school bus** (on the left) \u2014 a full-size conventional school bus with \"SCHOOL\" clearly displayed on the top front. It features the classic design with multiple windows, a flat front grille, and black/yellow color accents on the wheels.\n\n2. **A yellow cargo/commercial van** (on the right) \u2014 a full-size panel van in a similar golden-yellow color, without rear side windows, suggesting it's used for cargo or commercial purposes.\n\nThe **background** features lush green trees, including what appear to be evergreen conifers and deciduous trees, suggesting a suburban or semi-rural setting during **late spring or summer**. The road is well-maintained with curbing, and the sky is partly cloudy with blue patches visible.",
+    "ms": 7695,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene."
+  },
+  "OPUS|S003|PS00|T2": {
+    "text": "# Scene Description\n\nThe image shows two yellow vehicles parked side by side on a paved road:\n\n1. **A yellow school bus** (on the left) \u2014 a full-size conventional school bus with \"SCHOOL\" clearly displayed on the top front. It features the classic design with multiple windows along the side, a flat front nose, and standard school bus safety lights.\n\n2. **A yellow cargo/panel van** (on the right) \u2014 a full-size commercial-style van in a similar yellow/gold color, with no side windows in the cargo area.\n\nThe **background** features lush green trees, including several evergreen/conifer trees, suggesting a suburban or semi-rural setting during **summer or early fall**. The road appears to be in a quiet residential or campus-like area with well-maintained landscaping and a clear, partly cloudy sky.",
+    "ms": 7105,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene."
+  },
+  "OPUS|S003|PS00|T3": {
+    "text": "# Scene Description\n\nThe image shows two yellow vehicles parked side by side on a paved road in what appears to be a suburban or campus-like setting.\n\n**On the left** is a **yellow school bus** with \"SCHOOL\" clearly displayed on the top front. It's a conventional-style (front-engine) school bus with multiple windows along its side, red warning lights on top, and the characteristic black and yellow color scheme with black trim.\n\n**On the right** is a **yellow cargo/utility van**, similar in color to the school bus, though slightly more golden/orange in tone. It appears to be a full-size commercial van with no side windows in the cargo area.\n\n**The background** features lush **green trees**, including what appear to be evergreens (possibly pine or spruce) and deciduous trees, suggesting the photo was taken during **late spring or summer**. The sky is partly cloudy, and the overall setting looks well-maintained with manicured landscaping and a clean roadway.",
+    "ms": 8516,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene."
+  },
+  "SONNET|S003|PS00|T1": {
+    "text": "## Scene Description\n\nThe image shows **two yellow vehicles** parked side by side on a suburban street:\n\n1. **A full-size school bus** (left) \u2014 a classic American-style yellow school bus with the word **\"SCHOOL\"** displayed on the front, amber warning lights across the top, and large black windows along the side.\n\n2. **A yellow cargo van** (right) \u2014 a compact/mid-size panel van painted in a matching **bright yellow**, with no side windows in the cargo area.\n\n### Setting\n- The vehicles are on a **paved road** with a sidewalk and **grassy median**\n- The background features **lush green and yellow-green trees**, suggesting **late summer or early fall**\n- The sky appears **clear and sunny**\n\n### Notable Detail\nBoth vehicles share nearly the **same shade of yellow**, creating a visually striking contrast in **size** \u2014 from the large school bus to the much smaller van. This may be an intentional or coincidental color coordination. \ud83d\ude8c\ud83d\ude90",
+    "ms": 7068,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene."
+  },
+  "SONNET|S003|PS00|T2": {
+    "text": "## Scene Description\n\nThe image shows **two yellow vehicles** parked side by side on a suburban street:\n\n### Vehicles\n1. **A full-size school bus** (left) \u2014 the classic American yellow school bus with \"SCHOOL\" displayed on the front, amber warning lights, and large black windows along the side\n2. **A yellow cargo/work van** (right) \u2014 a compact panel van in a matching bright yellow color\n\n### Setting\n- A **well-maintained suburban road** with a sidewalk and curb\n- **Lush green trees** in the background, including what appears to be evergreens and deciduous trees\n- **Clear, sunny day** with bright natural lighting\n- Neatly trimmed **grass** along the roadside\n\n### Notable Detail\nBoth vehicles share a very similar **shade of yellow**, creating a visually striking color-coordinated pairing, though they differ significantly in size and purpose.",
+    "ms": 7051,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene."
+  },
+  "SONNET|S003|PS00|T3": {
+    "text": "## Scene Description\n\nThe image shows **two yellow vehicles** parked side by side on a suburban street:\n\n### Vehicles\n1. **School Bus** (left) - A classic full-sized American school bus with \"SCHOOL\" written on the front, featuring amber warning lights and the standard flat-nose design\n2. **Yellow Cargo Van** (right) - A compact/mid-size cargo van, also painted in a matching bright yellow\n\n### Setting\n- A **well-maintained suburban road** with a sidewalk\n- **Lush green trees** in the background, suggesting **late summer or early fall**\n- The area appears to be near a **school zone or residential neighborhood**\n- Clear, sunny day with good visibility\n\n### Notable Detail\nBoth vehicles share nearly **identical shades of yellow**, creating a visually cohesive pairing that contrasts with the green foliage behind them. The size difference between the large bus and the smaller van is quite striking.",
+    "ms": 6463,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene."
+  },
+  "HAIKU|S003|PS00|T1": {
+    "text": "# Scene Description\n\nThis image shows two yellow vehicles parked side by side in what appears to be a school or institutional setting:\n\n## Vehicles\n- **Left**: A classic yellow school bus with \"SCHOOL\" prominently displayed on the front sign above the windshield, featuring the distinctive design with multiple windows along the side for student seating\n- **Right**: A yellow commercial utility van or service vehicle, likely used for maintenance or support services\n\n## Setting\n- Paved parking lot or driveway\n- Lush green trees in the background, showing full foliage typical of summer or early fall\n- Well-maintained landscaping with grass visible in the foreground\n- Clear blue sky\n- The scene appears to be at a school campus or educational facility\n\n## Overall Impression\nThe scene captures school transportation and support vehicles in a peaceful, tree-lined environment, suggesting an active school day or facility operation.",
+    "ms": 3069,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene."
+  },
+  "HAIKU|S003|PS00|T2": {
+    "text": "# School Transportation Scene\n\nThis image depicts two bright yellow vehicles parked side by side:\n\n## School Bus (Left)\n- Large, traditional full-size school bus\n- Features the word \"SCHOOL\" prominently displayed on the front\n- Black horizontal stripe running along the side\n- Multiple large windows for student seating\n- Standard heavy-duty design typical of district transportation\n\n## Service Vehicle (Right)\n- Yellow commercial van/utility vehicle\n- Smaller, compact design compared to the bus\n- Appears to be a support or maintenance vehicle\n- Could be used for supplies, equipment, or staff transport\n\n## Setting\n- Paved parking lot with clear markings\n- Tree-lined background with evergreens and deciduous trees\n- Clear, sunny day with good visibility\n- Well-maintained grounds suggesting a school campus or facility\n- Residential or suburban environment\n\nThis appears to be promotional or documentation imagery showcasing school district transportation fleet vehicles, likely highlighting the various vehicles used for educational purposes and school operations.",
+    "ms": 3249,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene."
+  },
+  "HAIKU|S003|PS00|T3": {
+    "text": "# Scene Description\n\nThis image shows two bright yellow vehicles parked side by side in what appears to be a school or institutional setting:\n\n## Vehicles\n1. **School Bus (Left)**: A full-size yellow school bus with the word \"SCHOOL\" clearly displayed on the front. It features the characteristic design with multiple windows along the side, a large windshield, and traditional school bus styling.\n\n2. **Utility Van (Right)**: A smaller yellow commercial/service van with a more modern design, featuring a closed cargo area and standard vehicle windows.\n\n## Setting\n- **Background**: Mature trees with mixed green and golden autumn foliage\n- **Ground**: Clean asphalt parking lot with manicured grass area visible on the right\n- **Weather**: Clear, sunny day with blue skies\n- **Environment**: Residential or school district area with well-maintained landscaping\n\nBoth vehicles are painted in the same distinctive school bus yellow color, suggesting they may be part of the same transportation fleet or district service.",
+    "ms": 3205,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene."
+  },
+  "OPUS|S003|PS01|T1": {
+    "text": "# Vehicles in the Image\n\nThe image shows two yellow vehicles parked side by side on a road:\n\n1. **School Bus** (left) \u2013 A full-size, traditional **yellow school bus** with the word **\"SCHOOL\"** displayed prominently on the top front. It features multiple windows along the side, standard red warning lights on top, a flat front-engine design, and black/yellow wheel hubs. It appears to be a conventional Type C school bus.\n\n2. **Cargo Van** (right) \u2013 A **yellow/gold cargo van** with no side windows in the rear cargo area, suggesting it's designed for transporting goods rather than passengers. It appears to be a full-size commercial van, similar in style to a **Chevrolet Express** or similar model.\n\nBoth vehicles share a similar **yellow color scheme** and are parked on what appears to be a suburban or campus-style road lined with **green trees** in the background.",
+    "ms": 7856,
+    "trial": 1,
+    "prompt_id": "PS01",
+    "prompt_text": "Describe the vehicles."
+  },
+  "OPUS|S003|PS01|T2": {
+    "text": "# Vehicles in the Image\n\nThe image shows two yellow vehicles parked side by side on a road:\n\n1. **School Bus** (left) \u2013 A full-sized, traditional **yellow school bus** with the word **\"SCHOOL\"** displayed prominently on the top front. It features multiple windows along the side, red warning lights on top, a flat front-end design (conventional style with a hood), black bumper, and yellow wheel hubs. It appears to be a modern model, likely a **Blue Bird** or similar brand.\n\n2. **Cargo Van** (right) \u2013 A **yellow/golden cargo van** with no side windows in the cargo area, indicating it's designed for hauling goods rather than passengers. It appears to resemble a **Chevrolet Express** or similar full-size van. It has a smooth, rounded front end and is a slightly different shade of yellow compared to the bus.\n\nBoth vehicles are parked on a paved road with green trees and a suburban setting in the background.",
+    "ms": 9021,
+    "trial": 2,
+    "prompt_id": "PS01",
+    "prompt_text": "Describe the vehicles."
+  },
+  "OPUS|S003|PS01|T3": {
+    "text": "# Vehicles in the Image\n\nThe image shows two yellow vehicles parked side by side on a road:\n\n1. **School Bus** (left) \u2014 A full-size, traditional **yellow school bus** with the word **\"SCHOOL\"** displayed prominently on the top front. It features multiple rows of windows, black trim, a flat front hood design, flashing red/amber warning lights on top, and a yellow wheel hub, typical of a **Type C conventional school bus**.\n\n2. **Cargo Van** (right) \u2014 A **yellow/gold cargo van** with no side windows in the rear cargo area. It appears to be a full-size commercial-style van, similar in color to the school bus, suggesting it may also be part of a school or institutional fleet.\n\nBoth vehicles are parked on a paved road with **green trees** and a well-maintained landscape in the background.",
+    "ms": 8201,
+    "trial": 3,
+    "prompt_id": "PS01",
+    "prompt_text": "Describe the vehicles."
+  },
+  "SONNET|S003|PS01|T1": {
+    "text": "## Vehicles in the Image\n\n### 1. **School Bus** (Left)\n- Classic **American yellow school bus**\n- **Flat-front (transit-style)** design, typical of modern school buses\n- Features **amber warning lights** on the roof\n- **\"SCHOOL\"** signage on the front\n- Standard **black trim** and large windows along the side\n- Heavy-duty construction\n\n### 2. **Yellow Cargo Van** (Right)\n- Appears to be a **full-size cargo van** (resembling a Chevrolet Express or similar)\n- Painted in a **matching bright yellow** color\n- **No rear side windows**, indicating a cargo/work configuration\n- Smaller and more maneuverable than the bus\n- Standard commercial van profile\n\n### Notable Similarities\n- Both vehicles are painted in virtually **identical shades of yellow**\n- Both are parked on what appears to be a **suburban road**\n- The color match creates an interesting **visual pairing**",
+    "ms": 7618,
+    "trial": 1,
+    "prompt_id": "PS01",
+    "prompt_text": "Describe the vehicles."
+  },
+  "SONNET|S003|PS01|T2": {
+    "text": "## Vehicles in the Image\n\n### 1. **School Bus** (left)\n- Classic **American yellow school bus**\n- **Flat-front (transit-style)** design\n- Displays **\"SCHOOL\"** on the front header\n- Features **amber warning lights** across the top\n- Large black windows along the side\n- Standard **black bumper** and dual front headlights\n\n### 2. **Cargo Van** (right)\n- A **yellow cargo/work van**\n- Appears to be based on a **Chevrolet Express** or similar full-size van\n- **No rear side windows** (solid panel sides), typical of cargo vans\n- Matching yellow color to the school bus\n- Smaller and more compact in comparison\n\n---\n\n### Common Features\n- Both vehicles are painted in **nearly identical yellow tones**\n- Both are parked on what appears to be a **suburban street**\n- The matching colors create a visually striking pairing",
+    "ms": 6835,
+    "trial": 2,
+    "prompt_id": "PS01",
+    "prompt_text": "Describe the vehicles."
+  },
+  "SONNET|S003|PS01|T3": {
+    "text": "## Vehicles in the Image\n\n### 1. **School Bus** (left)\n- Classic **American yellow school bus**\n- **Flat-nose/transit-style** front design\n- Displays **\"SCHOOL\"** on the front header\n- Features **amber warning lights** across the top\n- Standard **black window trim** with multiple passenger windows\n- Large, full-size bus\n\n### 2. **Yellow Cargo Van** (right)\n- Compact to mid-size **cargo/work van**\n- Painted in a matching **bright yellow** color\n- **No rear side windows** (solid panel sides)\n- Appears to be a **Chevrolet Express** or similar model\n- Smaller and lower profile compared to the bus\n\n---\n\n### Common Features\n- Both vehicles are painted in virtually **identical yellow tones**\n- Both are parked on a **suburban street**\n- The matching colors create a visually striking **coordinated appearance**",
+    "ms": 6730,
+    "trial": 3,
+    "prompt_id": "PS01",
+    "prompt_text": "Describe the vehicles."
+  },
+  "HAIKU|S003|PS01|T1": {
+    "text": "# Vehicle Description\n\n## School Bus (Left)\n- **Type:** Full-size yellow school bus\n- **Color:** Bright yellow with black trim\n- **Features:**\n  - \"SCHOOL\" text on the front display panel\n  - Red and amber warning lights on roof\n  - Multiple tinted windows along the side\n  - Large front grille and headlights\n  - Commercial-grade construction\n  - Designed to safely transport students\n\n## Utility Van (Right)\n- **Type:** Yellow commercial utility/service van\n- **Color:** Matching bright yellow\n- **Features:**\n  - Smaller, more compact than the school bus\n  - Enclosed cargo area with minimal windows\n  - Single cab with two front seats\n  - Modern commercial van design\n  - Suitable for business deliveries or service work\n\n## Setting\n- Both vehicles are parked on a clean, paved lot\n- Green grass and mature trees in the background\n- Clear blue sky with nice weather\n- Professional outdoor setting suggesting a school or transportation facility",
+    "ms": 2998,
+    "trial": 1,
+    "prompt_id": "PS01",
+    "prompt_text": "Describe the vehicles."
+  },
+  "HAIKU|S003|PS01|T2": {
+    "text": "# Vehicles Description\n\n## School Bus (Left)\n- **Type:** Full-size school bus\n- **Color:** Bright yellow with black stripes\n- **Key Features:**\n  - Large passenger capacity\n  - \"SCHOOL\" sign displayed on front\n  - Multiple side windows for passenger visibility\n  - Red and amber warning lights on roof\n  - Standard long wheelbase design\n  - Designed for transporting students\n\n## Commercial Van (Right)\n- **Type:** Compact commercial delivery van\n- **Color:** Bright yellow\n- **Key Features:**\n  - Smaller, more maneuverable size\n  - Enclosed cargo area\n  - Single front cab design\n  - Modern commercial vehicle styling\n  - Suitable for commercial deliveries or services\n  - Tinted windows\n\n## Setting\nBoth vehicles are parked in a tree-lined area, suggesting a school or institutional setting. The matching yellow color creates a cohesive fleet appearance, possibly indicating they're part of the same organization or service.",
+    "ms": 2875,
+    "trial": 2,
+    "prompt_id": "PS01",
+    "prompt_text": "Describe the vehicles."
+  },
+  "HAIKU|S003|PS01|T3": {
+    "text": "# Yellow Vehicles Description\n\n## School Bus\n- **Type:** Full-size passenger bus\n- **Color:** Bright yellow with black trim\n- **Features:**\n  - \"SCHOOL\" text prominently displayed on the front\n  - Red stop light bar on roof\n  - Multiple large windows along the sides for passenger visibility\n  - Black horizontal stripe running along the body\n  - Standard commercial bus design with rounded front\n  - Built for transporting students safely\n\n## Utility Van\n- **Type:** Commercial service/utility van\n- **Color:** Matching bright yellow\n- **Features:**\n  - Smaller, more compact design than the bus\n  - Smooth, rounded modern styling\n  - Windshield design typical of commercial vans\n  - Suitable for delivery, service, or transportation purposes\n  - Single-row cabin design\n\n## Setting\nBoth vehicles are parked on a paved lot surrounded by green trees and landscaping, suggesting a school or educational facility location during what appears to be late summer or early fall.",
+    "ms": 3077,
+    "trial": 3,
+    "prompt_id": "PS01",
+    "prompt_text": "Describe the vehicles."
+  },
+  "OPUS|S003|PS02|T1": {
+    "text": "The image shows two vehicles:\n\n1. **School Bus** \u2013 It is the classic **bright yellow** (often called \"school bus yellow\" or National School Bus Glossy Yellow), with **black** trim and **yellow/black wheels**.\n\n2. **Van** \u2013 It is a **golden yellow** or **amber/marigold** color, slightly darker and more orange-toned than the school bus.\n\nBoth vehicles share a similar yellow color family, though the van has a warmer, deeper tone compared to the bus's more vibrant, standard yellow.",
+    "ms": 5322,
+    "trial": 1,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the vehicles."
+  },
+  "OPUS|S003|PS02|T2": {
+    "text": "The image shows two vehicles:\n\n1. **School Bus** \u2013 It is the classic **bright yellow** (often called \"National School Bus Glossy Yellow\") with **black** trim and lettering, and **yellow/black wheels**.\n\n2. **Van** \u2013 It is a **golden yellow/amber** color, slightly darker and more orange-toned than the school bus.\n\nBoth vehicles share a similar yellow color family, though the van's shade is noticeably warmer and deeper compared to the bus's standard school bus yellow.",
+    "ms": 5924,
+    "trial": 2,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the vehicles."
+  },
+  "OPUS|S003|PS02|T3": {
+    "text": "The image shows two vehicles:\n\n1. **School Bus** \u2013 It is the classic **bright yellow** (officially known as \"National School Bus Glossy Yellow\"), with **black** trim and lettering, **red** and **amber** warning lights on top, and **yellow/black wheels**.\n\n2. **Van** \u2013 It is a **golden yellow** or **amber/marigold** color, slightly darker and warmer in tone compared to the school bus, with **silver/chrome** accents on the grille and **dark gray/black** trim around the windows and bumper.\n\nBoth vehicles share a similar yellow color family, though the van's shade is noticeably deeper and more golden compared to the bus's brighter, more vivid yellow.",
+    "ms": 6490,
+    "trial": 3,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the vehicles."
+  },
+  "SONNET|S003|PS02|T1": {
+    "text": "## Vehicle Colors\n\nBoth vehicles in the image are **yellow**:\n\n1. **School Bus** \u2013 Painted in the classic **\"school bus yellow\"** (also known as National School Bus Chrome Yellow), a bright, standardized yellow-orange hue required by regulations.\n\n2. **Van** \u2013 Also painted in a **bright yellow**, appearing slightly more pure/vibrant yellow compared to the traditional school bus yellow tone.\n\nThe matching color scheme makes the two vehicles visually cohesive in the image.",
+    "ms": 4030,
+    "trial": 1,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the vehicles."
+  },
+  "SONNET|S003|PS02|T2": {
+    "text": "## Vehicle Colors\n\nBoth vehicles in the image are **yellow**:\n\n1. **School Bus** - Painted in the classic **\"school bus yellow\"** (also known as National School Bus Glossy Yellow), a bright, standardized yellow-orange hue required by regulations.\n\n2. **Van** - Also painted in a **bright yellow**, appearing slightly more vibrant/pure yellow compared to the traditional school bus yellow of the larger vehicle.",
+    "ms": 3527,
+    "trial": 2,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the vehicles."
+  },
+  "SONNET|S003|PS02|T3": {
+    "text": "## Vehicle Colors\n\nBoth vehicles in the image are **yellow**:\n\n1. **School Bus** \u2013 Painted in the classic **\"school bus yellow\"** (also known as National School Bus Glossy Yellow), a standardized bright amber-yellow color\n2. **Van** \u2013 Also painted in a **bright yellow** color, very similar in shade to the school bus beside it\n\nThe matching yellow colors make the two vehicles appear as a coordinated pair, though they differ significantly in size.",
+    "ms": 4410,
+    "trial": 3,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the vehicles."
+  },
+  "HAIKU|S003|PS02|T1": {
+    "text": "# Vehicle Colors\n\nBoth vehicles in the image are **bright yellow**:\n\n1. **School Bus (left)**: Distinctive school bus yellow with the word \"SCHOOL\" displayed on the front sign above the windshield. It also features black horizontal stripes along the side.\n\n2. **Utility Van (right)**: A solid bright yellow commercial or service van with a boxy design.\n\nThe matching yellow color is typical for school transportation and municipal service vehicles, making them highly visible and recognizable on the road.",
+    "ms": 1986,
+    "trial": 1,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the vehicles."
+  },
+  "HAIKU|S003|PS02|T2": {
+    "text": "# Vehicle Colors\n\nBoth vehicles in the image are **bright yellow**:\n\n1. **School Bus (left)**: Iconic school bus yellow with black horizontal stripes along the sides and a black \"SCHOOL\" sign on the front\n2. **Utility Van (right)**: Solid bright yellow commercial van\n\nThis matching yellow color scheme is typical for school transportation and related service vehicles.",
+    "ms": 2300,
+    "trial": 2,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the vehicles."
+  },
+  "HAIKU|S003|PS02|T3": {
+    "text": "# Vehicle Colors\n\nBoth vehicles in the image are **bright yellow**:\n\n1. **School Bus** (left): Classic bright yellow with \"SCHOOL\" written on the front, featuring black stripes along the sides and a black bumper.\n\n2. **Utility Van** (right): Solid bright yellow commercial van with a similar shade to the school bus.\n\nThe matching yellow color scheme is typical for school transportation and related service vehicles, making them highly visible and easily recognizable on the road.",
+    "ms": 1877,
+    "trial": 3,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the vehicles."
+  },
+  "OPUS|S003|PS03|T1": {
+    "text": "The two vehicles are **similar in color but not exactly the same**. The **school bus** on the left is a traditional **bright, slightly orange-tinted yellow** (often called \"National School Bus Glossy Yellow\" or \"Chrome Yellow\"), while the **van** on the right is a **slightly more golden or deeper yellow**. Both are in the yellow family, but there is a subtle difference in shade, with the van appearing a touch more saturated or golden compared to the bus's more standard school-bus yellow.",
+    "ms": 4773,
+    "trial": 1,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?"
+  },
+  "OPUS|S003|PS03|T2": {
+    "text": "The two vehicles are **similar but not exactly the same color**. The **school bus** on the left is a classic **National School Bus Yellow** (a deeper, slightly more orange-tinted yellow), while the **van** on the right is a **lighter, more golden/amber yellow**. Both are in the yellow family, but there is a noticeable difference in shade and tone.",
+    "ms": 3719,
+    "trial": 2,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?"
+  },
+  "OPUS|S003|PS03|T3": {
+    "text": "The two vehicles are **similar but not exactly the same color**. The **school bus** on the left is a classic **\"school bus yellow\"** (officially known as National School Bus Glossy Yellow), while the **van** on the right is more of a **golden/amber yellow** \u2014 slightly darker and warmer in tone. Both are in the yellow family, but there is a noticeable difference in shade.",
+    "ms": 3997,
+    "trial": 3,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?"
+  },
+  "SONNET|S003|PS03|T1": {
+    "text": "## Color Comparison\n\nBoth vehicles are **yellow**, but there are **subtle differences** in their shades:\n\n- **School Bus**: Displays the classic **\"National School Bus Chrome Yellow\"** \u2014 a standardized, slightly **deeper/golden yellow** required by regulations\n- **Cargo Van**: Appears to be a **brighter, more saturated yellow** \u2014 closer to a standard commercial or factory yellow\n\n### Summary\nWhile they are **both yellow** and appear very similar, they are **not exactly the same shade**. The school bus has a more **regulated, specific hue**, while the van's yellow is slightly **more vivid/bright**.",
+    "ms": 5536,
+    "trial": 1,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?"
+  },
+  "SONNET|S003|PS03|T2": {
+    "text": "## Color Comparison\n\nBoth vehicles are **yellow**, but there are subtle differences:\n\n| Vehicle | Color Description |\n|---------|------------------|\n| **School Bus** | **Bright \"School Bus Yellow\"** \u2013 a standardized, slightly orange-tinted yellow |\n| **Van** | **Slightly lighter/purer yellow** \u2013 appears a touch more vibrant or lemon-yellow |\n\n### Conclusion:\nWhile they are **very similar** and both clearly yellow, they are **not exactly the same shade**. The school bus displays the classic regulated **National School Bus Glossy Yellow**, while the van's yellow appears marginally different in tone. This could also be influenced by **lighting, paint finish, and angle** in the photo.",
+    "ms": 5863,
+    "trial": 2,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?"
+  },
+  "SONNET|S003|PS03|T3": {
+    "text": "## Color Comparison\n\nBoth vehicles are **yellow**, but there are subtle differences:\n\n- **School Bus**: Classic **\"school bus yellow\"** (National School Bus Glossy Yellow) \u2014 a slightly **orange-tinted, deeper yellow** as mandated by safety regulations\n- **Cargo Van**: A **brighter, more saturated yellow** \u2014 appearing slightly more **vivid/pure yellow** compared to the bus\n\n### Conclusion:\nWhile they appear **very similar** at first glance, they are **not exactly the same shade**. The school bus has the distinctive regulated yellow-orange hue, while the van appears to be a slightly **brighter, cleaner yellow**.",
+    "ms": 5203,
+    "trial": 3,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?"
+  },
+  "HAIKU|S003|PS03|T1": {
+    "text": "# Vehicle Color Comparison\n\nThe two vehicles are **the same color** \u2014 both are bright **yellow**. \n\nHowever, there is a slight difference in shade/tone:\n- The **school bus** (left) appears to be a slightly more golden or mustard yellow\n- The **van** (right) appears to be a slightly brighter or more pure yellow\n\nBut overall, they are both distinctly yellow vehicles, so the colors are essentially the same.",
+    "ms": 1692,
+    "trial": 1,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?"
+  },
+  "HAIKU|S003|PS03|T2": {
+    "text": "The two vehicles are essentially the **same color** - both are bright yellow. However, there may be very subtle differences in shade or tone due to factors like:\n\n- Different lighting angles on each vehicle\n- Different paint finishes or manufacturers\n- The van's reflective surfaces potentially appearing slightly different\n\nBut for practical purposes, they are the same yellow color. The school bus on the left and the service van on the right are both painted in the standard bright yellow used for school and utility vehicles.",
+    "ms": 1768,
+    "trial": 2,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?"
+  },
+  "HAIKU|S003|PS03|T3": {
+    "text": "# Vehicle Color Comparison\n\nThe two vehicles are **the same color** - both are **bright yellow**. \n\nThe school bus on the left and the utility van on the right are painted in the same vibrant yellow shade, which is the standard color for school buses and related transportation vehicles in the United States.",
+    "ms": 1655,
+    "trial": 3,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?"
+  },
+  "OPUS|S003|PS04|T1": {
+    "text": "# Color Analysis of the Two Vehicles\n\n## School Bus (Left)\nThe school bus displays the classic **\"School Bus Yellow\"** (also known as National School Bus Glossy Yellow). This hue leans toward a **lemon-chrome yellow** with a slightly **greenish** undertone. It's a more **pure, saturated yellow** that sits closer to the center of the yellow spectrum or even tips slightly toward yellow-green.\n\n## Cargo Van (Right)\nThe van is painted in a **golden/amber-toned yellow** \u2014 noticeably warmer, leaning toward **yellow-orange**. It has a deeper, more **honey-like or marigold** quality with clear **orange/red undertones**.\n\n## Verdict\n\n| Vehicle | Hue Character | Temperature |\n|---------|--------------|-------------|\n| School Bus | Bright yellow, slightly greenish | **Cooler** |\n| Cargo Van | Golden yellow, slightly orangish | **Warmer** |\n\nThe **cargo van is warmer** \u2014 its golden-amber tone pushes it toward the red/orange side of the color wheel. The **school bus is cooler** \u2014 its cleaner, slightly greenish yellow sits closer to the green side of the spectrum.\n\nThis is a subtle but clear distinction: both are \"yellow,\" but they sit on opposite sides of yellow's temperature divide.",
+    "ms": 9805,
+    "trial": 1,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each vehicle. Which is warmer, which is cooler?"
+  },
+  "OPUS|S003|PS04|T2": {
+    "text": "# Color Analysis of the Two Vehicles\n\n## School Bus (Left)\nThe school bus displays the classic **\"School Bus Yellow\"** (officially National School Bus Glossy Yellow), which is actually a yellow with a **slight greenish undertone**. This is a more **cool-leaning** yellow \u2014 it pulls slightly toward the green side of the spectrum.\n\n## Van (Right)\nThe van is a **golden/amber yellow** \u2014 a deeper, more **orange-leaning** yellow. It has warmer undertones, trending toward a butterscotch or marigold hue.\n\n## Verdict\n\n| Vehicle | Hue | Temperature |\n|---------|-----|-------------|\n| School Bus | Lemon/greenish yellow | **Cooler** |\n| Van | Golden/amber yellow | **Warmer** |\n\nThe **van is warmer** and the **school bus is cooler**. Despite both appearing \"yellow\" at a glance, the van's hue shifts toward orange/gold on the color wheel, while the school bus's chrome yellow has that characteristic slightly greenish cast \u2014 making it the cooler of the two.\n\nThis is actually a subtle but well-known distinction: \"School Bus Yellow\" was specifically formulated to lean cool because it's more visible in peripheral vision and in low-light conditions.",
+    "ms": 9557,
+    "trial": 2,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each vehicle. Which is warmer, which is cooler?"
+  },
+  "OPUS|S003|PS04|T3": {
+    "text": "# Color Analysis of the Two Vehicles\n\n## School Bus (Left)\nThe school bus displays the classic **\"National School Bus Chrome Yellow\"** \u2014 a hue that leans slightly toward **green/lemon**. It has a cooler, more pure yellow tone with a slight greenish undertone. This is actually the federally standardized color specifically designed for high visibility.\n\n## Van (Right)\nThe van is painted in a **golden/amber yellow** that leans noticeably toward **orange**. It has more red undertone, giving it a deeper, more saturated warmth \u2014 almost a marigold or saffron tone.\n\n## Verdict\n\n**The van is warmer** \ud83d\udfe1\u27a1\ufe0f\ud83d\udfe0\nIts yellow shifts toward orange/amber on the color spectrum.\n\n**The school bus is cooler** \ud83d\udfe1\u27a1\ufe0f\ud83d\udfe2\nIts yellow shifts ever so slightly toward green/lemon.\n\nThis is somewhat counterintuitive since we associate school buses with \"bright yellow,\" but the bus color actually sits on the *cooler* side of yellow, while the van's golden-amber tone carries distinctly *warmer* red undertones. On a color wheel, the van's hue sits closer to orange, while the bus's hue sits closer to the yellow-green boundary.",
+    "ms": 9221,
+    "trial": 3,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each vehicle. Which is warmer, which is cooler?"
+  },
+  "SONNET|S003|PS04|T1": {
+    "text": "## Color Temperature Analysis\n\n### \ud83d\ude8c School Bus (left)\n- Displays a **warmer, more orange-yellow** hue\n- Has **amber/golden** undertones\n- This is the classic **\"National School Bus Chrome Yellow\"** \u2014 a regulated warm yellow with red undertones\n\n### \ud83d\ude90 Van (right)\n- Displays a **cooler, more pure/greenish-yellow**\n- Appears slightly **brighter and more saturated**\n- Has subtle **green undertones**, pushing it toward a **lemon yellow**\n\n---\n\n## Summary\n\n| Vehicle | Hue | Temperature |\n|--------|-----|-------------|\n| School Bus | Amber-yellow / Golden | **Warmer** \ud83d\udd25 |\n| Van | Lemon-yellow / Bright yellow | **Cooler** \u2744\ufe0f |\n\nThe difference is subtle but visible \u2014 the bus leans **toward orange** on the color spectrum, while the van leans **toward green**, making the bus the warmer of the two yellows.",
+    "ms": 7091,
+    "trial": 1,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each vehicle. Which is warmer, which is cooler?"
+  },
+  "SONNET|S003|PS04|T2": {
+    "text": "## Color Temperature Analysis\n\n### School Bus (left)\n- Hue: **Deeper, more saturated golden-yellow**\n- Contains more **orange undertones**\n- This makes it the **warmer** of the two\n- Consistent with the standard **\"National School Bus Chrome Yellow\"** specification\n\n### Van (right)\n- Hue: **Brighter, slightly more neutral yellow**\n- Contains subtle **green undertones** comparatively\n- Appears slightly **cooler** and more pure yellow\n- Less orange warmth than the bus\n\n---\n\n## Summary\n\n| Vehicle | Warmth | Undertone |\n|---------|--------|-----------|\n| School Bus | **Warmer** \ud83d\udd34 | Orange-leaning |\n| Van | **Cooler** \ud83d\udfe1 | More neutral/slightly green-leaning |\n\nThe difference is subtle, but the **school bus reads warmer** due to its deeper amber-gold quality, while the **van appears cooler** with a cleaner, more lemony yellow tone \u2014 especially noticeable when comparing their side panels directly.",
+    "ms": 6293,
+    "trial": 2,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each vehicle. Which is warmer, which is cooler?"
+  },
+  "SONNET|S003|PS04|T3": {
+    "text": "## Color Temperature Analysis\n\n### School Bus (left)\n- Displays a **warmer yellow** \u2014 leaning toward **amber/golden yellow**\n- Has an **orange undertone**, especially visible on the hood and front panels\n- This is consistent with the traditional **\"National School Bus Chrome Yellow\"** standard\n\n### Van (right)\n- Displays a **cooler yellow** \u2014 leaning toward **pure/bright yellow**\n- Has a slightly **greenish or neutral undertone**\n- Appears more **saturated and clean**, without the orange warmth\n\n---\n\n## Summary\n\n| Vehicle | Hue Character | Temperature |\n|--------|--------------|-------------|\n| School Bus | Amber-gold yellow | **Warmer** \ud83d\udd25 |\n| Van | Pure/neutral yellow | **Cooler** \u2744\ufe0f |\n\nThe difference is subtle but clear \u2014 the bus pulls toward the **red/orange** side of the color wheel, while the van sits closer to a **neutral or slightly green-leaning** yellow, making it the cooler of the two.",
+    "ms": 6606,
+    "trial": 3,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each vehicle. Which is warmer, which is cooler?"
+  },
+  "HAIKU|S003|PS04|T1": {
+    "text": "# Color Temperature Analysis\n\nLooking at the exact hues of both yellow vehicles:\n\n**School Bus (Left):** This yellow has a **cooler, more lemon-yellow tone** with slight greenish undertones. It leans toward the brighter, more saturated end of the yellow spectrum.\n\n**Service Van (Right):** This yellow appears **warmer and more golden**, with subtle orange undertones that give it a softer, more amber-like quality.\n\n**Conclusion:** The **service van's yellow is warmer** (more golden/orange), while the **school bus's yellow is cooler** (more lemon/chartreuse). The difference is subtle but noticeable when compared side-by-side\u2014the bus yellow is more vibrant and bright, while the van's yellow is richer and more muted.",
+    "ms": 2389,
+    "trial": 1,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each vehicle. Which is warmer, which is cooler?"
+  },
+  "HAIKU|S003|PS04|T2": {
+    "text": "# Color Temperature Analysis\n\nLooking at the exact hues of these two yellow vehicles:\n\n**The School Bus (left):** Has a **warmer yellow** tone\u2014it's a golden, rich yellow with more orange undertones, creating a vibrant, saturated warm appearance.\n\n**The Service Van (right):** Has a **cooler yellow** tone\u2014it's a brighter, more lemon-like yellow with slightly more neutral or even greenish undertones, giving it a crisper, cooler quality.\n\nThe school bus's warmer yellow makes it appear more inviting and traditional, while the service van's cooler yellow appears more contemporary and crisp. This difference is subtle but noticeable when comparing them side-by-side.",
+    "ms": 2242,
+    "trial": 2,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each vehicle. Which is warmer, which is cooler?"
+  },
+  "HAIKU|S003|PS04|T3": {
+    "text": "# Color Temperature Analysis\n\nLooking at the exact hues of these yellow vehicles:\n\n**The School Bus (left):** Has a **warmer, more golden-yellow** tone with orange undertones. This is a classic school bus yellow that leans toward the warmer end of the yellow spectrum.\n\n**The Utility Van (right):** Appears to have a **cooler, brighter yellow** with slightly more lemon or chartreuse undertones, making it less warm than the bus.\n\n**Winner - Warmer:** The **school bus** displays the warmer yellow due to its richer, more saturated golden-orange character, while the van's yellow is somewhat brighter and cooler in comparison.",
+    "ms": 2805,
+    "trial": 3,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each vehicle. Which is warmer, which is cooler?"
+  },
+  "OPUS|S003|PS05|T1": {
+    "text": "# Dominant Hue Analysis\n\n## School Bus (left)\n**Hue: ~48-52\u00b0**\nThe school bus displays the classic \"National School Bus Chrome Yellow\" \u2014 a warm yellow with a slight orange lean, placing it just below pure yellow on the HSV wheel.\n\n## Van (right)\n**Hue: ~42-46\u00b0**\nThe van appears to be a slightly warmer, more golden/amber yellow compared to the bus, shifting a few degrees closer toward orange.\n\n## Summary\n\n| Vehicle | Estimated Hue |\n|---------|--------------|\n| School Bus | **~50\u00b0** |\n| Van | **~44\u00b0** |\n\nBoth vehicles fall in the **yellow-gold range** (between orange at 30\u00b0 and pure yellow at 60\u00b0), with the van reading slightly warmer/more orange than the school bus. The difference is subtle (~6\u00b0), but the van's deeper golden tone is visually distinguishable from the bus's brighter, more saturated school-bus yellow.",
+    "ms": 7647,
+    "trial": 1,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each vehicle in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)."
+  },
+  "OPUS|S003|PS05|T2": {
+    "text": "# Dominant Hue Analysis\n\n## School Bus (left)\n**Hue: ~48-52\u00b0**\nThe school bus displays the classic \"school bus yellow\" (officially \"National School Bus Glossy Yellow\"), which leans slightly toward orange-yellow rather than pure yellow.\n\n## Van (right)\n**Hue: ~40-45\u00b0**\nThe van appears to be a slightly warmer, more golden/amber yellow, shifting a few degrees more toward orange compared to the bus.\n\n## Summary\n\n| Vehicle | Estimated Hue |\n|---------|--------------|\n| School Bus | **~50\u00b0** |\n| Van | **~42\u00b0** |\n\nBoth vehicles sit in the yellow range but notably fall **short of pure 60\u00b0 yellow**, leaning toward the orange-yellow spectrum. The van reads as slightly warmer/more golden than the bus by roughly 5-8 degrees.",
+    "ms": 6602,
+    "trial": 2,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each vehicle in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)."
+  },
+  "OPUS|S003|PS05|T3": {
+    "text": "# Dominant Hue Analysis\n\n## School Bus (left)\n**Hue: ~48-52\u00b0**\nThe school bus displays the classic \"National School Bus Glossy Yellow\" (also called Chrome Yellow), which leans slightly orange-ward from pure yellow. This puts it at approximately **50\u00b0** on the HSV wheel.\n\n## Cargo Van (right)\n**Hue: ~42-46\u00b0**\nThe van appears to be a slightly warmer, more golden/amber yellow compared to the bus. It reads approximately **44\u00b0** on the HSV wheel, leaning a touch more toward orange.\n\n## Summary\n| Vehicle | Estimated Hue |\n|---------|--------------|\n| School Bus | ~50\u00b0 |\n| Cargo Van | ~44\u00b0 |\n\nBoth vehicles sit in the yellow zone but notably fall **below pure yellow (60\u00b0)**, shifting toward the orange-yellow range. The van is marginally warmer/more orange than the bus, despite both appearing \"yellow\" at a glance.",
+    "ms": 8286,
+    "trial": 3,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each vehicle in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)."
+  },
+  "SONNET|S003|PS05|T1": {
+    "text": "## HSV Hue Analysis\n\n### School Bus\n- **Dominant Hue: ~50\u201355\u00b0**\n- A classic **school bus yellow** (National School Bus Glossy Yellow), which sits slightly orange-leaning on the yellow spectrum, closer to the yellow-orange transition zone.\n\n---\n\n### Yellow Van\n- **Dominant Hue: ~45\u201350\u00b0**\n- A slightly **warmer/more saturated yellow**, trending marginally more toward orange (~45\u00b0) compared to the bus, suggesting a slightly more golden or amber-yellow tone.\n\n---\n\n## Summary Table\n\n| Vehicle | Estimated Hue (HSV) | Description |\n|---|---|---|\n| School Bus | ~52\u00b0 | Yellow (standard school bus yellow) |\n| Yellow Van | ~47\u00b0 | Slightly warmer/deeper yellow |\n\nBoth vehicles fall within the **yellow band (40\u00b0\u201365\u00b0)** of the HSV wheel, with neither reaching true green (120\u00b0) or true red/orange (0\u201330\u00b0). The van appears **marginally more orange-shifted** than the bus.",
+    "ms": 7424,
+    "trial": 1,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each vehicle in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)."
+  },
+  "SONNET|S003|PS05|T2": {
+    "text": "## HSV Hue Analysis\n\n### School Bus\n- **Dominant Hue: ~50\u201355\u00b0**\n- A classic **\"school bus yellow\"** (National School Bus Glossy Yellow), which sits slightly **orange-leaning yellow** on the HSV wheel \u2014 just below pure yellow (60\u00b0).\n\n### Yellow Van\n- **Dominant Hue: ~55\u201360\u00b0**\n- A slightly **purer, brighter yellow**, sitting closer to the **60\u00b0 pure yellow** mark on the HSV wheel, appearing marginally less orange than the bus.\n\n---\n\n### Summary Table\n\n| Vehicle | Estimated Hue (HSV) | Description |\n|---|---|---|\n| School Bus | ~50\u201355\u00b0 | Amber-yellow (slightly orange-shifted) |\n| Yellow Van | ~55\u201360\u00b0 | Pure/bright yellow |\n\n---\n\n### Notes\n- Both fall within the **yellow band (40\u00b0\u201365\u00b0)** of the HSV wheel\n- The school bus follows **FMVSS/SAE standard** for National School Bus Yellow, which is specifically formulated to be slightly **amber/orange-shifted** for visibility\n- The van appears to be a more **saturated, neutral yellow**",
+    "ms": 8135,
+    "trial": 2,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each vehicle in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)."
+  },
+  "SONNET|S003|PS05|T3": {
+    "text": "## HSV Hue Measurement Analysis\n\n### School Bus (left vehicle)\n- **Dominant Hue: ~47\u201352\u00b0**\n- A classic **\"School Bus Yellow\"** (Federal Standard), which sits slightly orange-shifted from pure yellow, landing between orange-yellow territory on the HSV wheel.\n\n### Cargo Van (right vehicle)\n- **Dominant Hue: ~52\u201358\u00b0**\n- A slightly **cleaner, brighter yellow**, closer to pure yellow (60\u00b0), appearing less orange-shifted than the bus.\n\n---\n\n### Summary Table\n\n| Vehicle | Estimated Hue | Description |\n|---|---|---|\n| School Bus | ~47\u201352\u00b0 | Orange-yellow / School Bus Yellow |\n| Cargo Van | ~52\u201358\u00b0 | Bright yellow, near pure yellow |\n\n---\n\n### Key Observation\nBoth vehicles are within the **yellow range (40\u201360\u00b0)** on the HSV wheel, but the **school bus leans slightly warmer/more orange** (~47\u00b0) while the **van is closer to pure yellow** (~55\u00b0). The difference is subtle \u2014 roughly **5\u20138\u00b0** apart on the color wheel.",
+    "ms": 7120,
+    "trial": 3,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each vehicle in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)."
+  },
+  "HAIKU|S003|PS05|T1": {
+    "text": "# HSV Hue Measurements for Vehicles\n\nBoth vehicles in the image display the same dominant hue:\n\n- **School Bus**: **60 degrees** (yellow)\n- **Utility Van**: **60 degrees** (yellow)\n\nBoth vehicles are painted in a standard school bus yellow, which corresponds to approximately 60\u00b0 on the HSV color wheel, the position designated for pure yellow.",
+    "ms": 1846,
+    "trial": 1,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each vehicle in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)."
+  },
+  "HAIKU|S003|PS05|T2": {
+    "text": "# HSV Hue Analysis\n\nBased on the standard HSV color wheel where yellow is at 60\u00b0:\n\n## School Bus (left)\n**Hue: approximately 45-55\u00b0**\n- This is a bright, pure yellow with slight warmth\n- Closer to yellow than orange on the spectrum\n\n## Service Van (right)\n**Hue: approximately 35-45\u00b0**\n- This yellow appears slightly more golden/amber-toned\n- Slightly warmer than the school bus, with more orange influence\n\n**Summary:**\n- School Bus: ~50\u00b0\n- Service Van: ~40\u00b0\n\nBoth vehicles display yellow hues, with the service van appearing marginally warmer (more orange-shifted) compared to the more saturated, pure yellow of the school bus.",
+    "ms": 2717,
+    "trial": 2,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each vehicle in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)."
+  },
+  "HAIKU|S003|PS05|T3": {
+    "text": "# HSV Hue Analysis of Vehicles\n\nBased on the standard HSV color wheel where yellow is at 60\u00b0:\n\n## School Bus (Left)\n- **Hue: approximately 50-55\u00b0**\n- A bright yellow with slight orange undertones\n\n## Utility Van (Right)\n- **Hue: approximately 45-50\u00b0**\n- A slightly more golden/warmer yellow compared to the bus\n\nBoth vehicles display yellow hues in the 45-55\u00b0 range on the HSV color wheel, with the van appearing marginally warmer (more orange-shifted) than the school bus, though the difference is minimal.",
+    "ms": 2303,
+    "trial": 3,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each vehicle in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)."
+  }
+}
