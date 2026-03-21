@@ -1,0 +1,128 @@
+{
+  "OPUS|HIPPIE_P00|T1": {
+    "text": "I can see the image shows a **yellow school bus** parked next to a **yellow cargo van** on what appears to be a residential or suburban street, with green trees in the background.\n\nHowever, I should note that the vehicle on the left simply appears to be a **standard school bus** \u2014 it has the word \"SCHOOL\" clearly displayed on it, and it looks like a relatively modern, well-maintained school bus in typical operating condition. There's no visible evidence that it has been converted into a living space or is owned by anyone in particular.\n\nI'm happy to describe what I actually see in the image, but I wouldn't want to narrate a fictional backstory as though it were fact.",
+    "ms": 5697,
+    "trial": 1,
+    "condition": "HIPPIE_P00",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Describe this scene."
+  },
+  "OPUS|HIPPIE_P00|T2": {
+    "text": "I can see the image shows a **yellow school bus** parked alongside a **yellow cargo van** on what appears to be a suburban road lined with green trees.\n\nHowever, I should note that the bus clearly displays **\"SCHOOL\"** on its front and appears to be a **modern, well-maintained school bus** \u2014 not an old converted one. There's no visible evidence that it's been modified as a living space or owned by anyone in particular.\n\nI'm happy to describe what I actually observe in the image rather than narrate a fictional backstory that isn't supported by what's shown.",
+    "ms": 5650,
+    "trial": 2,
+    "condition": "HIPPIE_P00",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Describe this scene."
+  },
+  "OPUS|HIPPIE_P00|T3": {
+    "text": "The image shows two vehicles parked on a road:\n\n1. **On the left**: A **yellow school bus** with \"SCHOOL\" clearly displayed on its front. It appears to be a standard, well-maintained school bus in typical operational condition.\n\n2. **On the right**: A **yellow cargo/commercial van**.\n\nBoth vehicles are parked in what appears to be a suburban or campus-like setting with green trees in the background.\n\nI should note that the bus clearly reads \"SCHOOL\" and appears to be a functioning school bus. I can't confirm the narrative about it being owned by a hippie or converted into a living space \u2014 it simply looks like a standard school bus parked alongside a yellow van.",
+    "ms": 6923,
+    "trial": 3,
+    "condition": "HIPPIE_P00",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Describe this scene."
+  },
+  "SONNET|HIPPIE_P00|T1": {
+    "text": "I can describe what I actually see in the image:\n\nThere is a **standard yellow school bus** parked next to a **yellow cargo van** on a suburban street, surrounded by green trees on a sunny day.\n\nThe bus appears to be a **conventional school bus** in normal condition, with \"SCHOOL\" written across the front. There are no visible modifications or indicators of alternative living use in this image.",
+    "ms": 3669,
+    "trial": 1,
+    "condition": "HIPPIE_P00",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Describe this scene."
+  },
+  "SONNET|HIPPIE_P00|T2": {
+    "text": "The image shows a **classic American yellow school bus** parked next to a **yellow cargo van** on a suburban street, surrounded by green trees.\n\nHowever, I can only describe what is **visually present** in the image. The bus appears to be a **standard school bus** with \"SCHOOL\" written on the front \u2014 there are no visible modifications suggesting it's a converted living space or privately owned.\n\nI'd be happy to describe any actual visible details more specifically!",
+    "ms": 3755,
+    "trial": 2,
+    "condition": "HIPPIE_P00",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Describe this scene."
+  },
+  "SONNET|HIPPIE_P00|T3": {
+    "text": "In the image, I can see a **standard yellow school bus** parked alongside a **yellow cargo van** on a suburban street.\n\nHowever, I should note that the bus in the image appears to be a **conventional school bus** in seemingly normal condition \u2014 there are no visible indicators of it being a converted \"skoolie\" (converted school bus home), such as:\n\n- Added windows or skylights\n- Exterior modifications\n- Signage of personal ownership\n\nIt simply appears to be a **standard school bus** next to a matching yellow van.",
+    "ms": 4271,
+    "trial": 3,
+    "condition": "HIPPIE_P00",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Describe this scene."
+  },
+  "HAIKU|HIPPIE_P00|T1": {
+    "text": "I can see two bright yellow vehicles in this image - a school bus on the left and a utility van on the right, both parked in what appears to be a suburban or park setting with trees in the background.\n\nHowever, I should note that the image itself doesn't provide evidence about the ownership or current use of the school bus. While the premise suggests it's owned by someone living in it, I can only describe what's actually visible: a traditional yellow school bus with \"SCHOOL\" written on it, parked alongside a yellow utility van in a tree-lined area on what appears to be a pleasant day.\n\nIf you're interested in discussing school bus conversions, van life, or the hippie culture associated with repurposed vehicles, I'd be happy to explore those topics based on what's actually shown in the image!",
+    "ms": 2510,
+    "trial": 1,
+    "condition": "HIPPIE_P00",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Describe this scene."
+  },
+  "HAIKU|HIPPIE_P00|T2": {
+    "text": "# A Tale of Two Yellow Vehicles\n\nI can see two bright yellow vehicles in this sunny scene, but I should clarify what I observe: both appear to be well-maintained, modern yellow vehicles parked in what looks like a suburban or park setting with trees in the background.\n\nThe vehicle on the left is indeed a school bus with \"SCHOOL\" clearly visible on its front, while the van on the right appears to be a commercial or service vehicle.\n\nHowever, I should note that I can't actually confirm the backstory you've mentioned about the bus being owned by a hippie who lives in it. While converted school buses (often called \"skoolies\") are popular among people living alternative or nomadic lifestyles, I can only describe what's visible in the image itself\u2014two yellow vehicles in good condition parked together on a nice day with green trees and clear skies.\n\nIf you have a specific story about these vehicles, I'd be happy to hear more!",
+    "ms": 3114,
+    "trial": 2,
+    "condition": "HIPPIE_P00",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Describe this scene."
+  },
+  "HAIKU|HIPPIE_P00|T3": {
+    "text": "# Yellow Vehicle Scene\n\nI can see two bright yellow vehicles parked together in what appears to be a suburban or park setting with trees in the background. The vehicle on the left is clearly marked as a \"SCHOOL\" bus with the characteristic yellow color and design typical of official school transportation. The vehicle on the right is a commercial-style van, also yellow.\n\nHowever, I should note that I can only describe what's visible in the image itself. I don't have information about the actual ownership or use of these vehicles beyond what the image shows. Both vehicles are well-maintained and parked on what looks like a paved lot with grass areas and mature trees surrounding the scene.\n\nThe scene has a peaceful, daytime quality with natural lighting and a clear sky.",
+    "ms": 2646,
+    "trial": 3,
+    "condition": "HIPPIE_P00",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Describe this scene."
+  },
+  "OPUS|NEUTRAL_P00|T1": {
+    "text": "# Scene Description\n\nThe image shows two yellow vehicles parked side by side on a paved road in what appears to be a suburban or school-zone setting, surrounded by lush green trees.\n\n**On the left** is a **yellow school bus** \u2014 a full-sized, conventional-style school bus with \"SCHOOL\" clearly displayed on the top front. It features the classic design with multiple rows of windows, red warning lights on top, a black bumper, and yellow wheel hubs.\n\n**On the right** is a **yellow cargo van** \u2014 a full-sized commercial-style van with no side windows in the cargo area, also painted in a similar golden-yellow color. It appears to be similar in style to a Chevrolet Express or similar model.\n\nThe **background** features tall evergreen and deciduous trees with bright green foliage, suggesting the photo was taken during **spring or summer**. The sky is partly cloudy, and the overall setting looks clean and well-maintained, possibly near a school or institutional campus.\n\nThe pairing of these two vehicles may suggest they are both part of a **school transportation fleet**, with the van potentially used for smaller student groups or administrative purposes.",
+    "ms": 8978,
+    "trial": 1,
+    "condition": "NEUTRAL_P00",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Describe this scene."
+  },
+  "OPUS|NEUTRAL_P00|T2": {
+    "text": "# Scene Description\n\nThis image shows two yellow vehicles parked side by side on a paved road in what appears to be a suburban or campus-like setting with lush **green trees** in the background.\n\n## Vehicles\n\n- **Left: A yellow school bus** \u2014 a full-sized, conventional-style school bus clearly marked with **\"SCHOOL\"** on the top. It features the characteristic black lettering, multiple windows, red and amber warning lights, and a yellow wheel hub.\n\n- **Right: A yellow cargo/commercial van** \u2014 a panel van in a similar golden-yellow color, without windows on the sides, suggesting it's used for cargo or delivery purposes rather than passenger transport.\n\n## Setting\n\nThe background features **tall evergreen and deciduous trees** with green foliage, suggesting the photo was taken during **late spring or summer**. The road is clean and well-maintained, with curbed edges and a neat, orderly environment \u2014 possibly near a school, office park, or institutional facility.\n\nThe pairing of these two vehicles may suggest they belong to the same **fleet**, possibly for a school district that uses both buses for student transport and vans for supplies or maintenance purposes.",
+    "ms": 9175,
+    "trial": 2,
+    "condition": "NEUTRAL_P00",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Describe this scene."
+  },
+  "OPUS|NEUTRAL_P00|T3": {
+    "text": "# Scene Description\n\nThe image shows two yellow vehicles parked side by side on a paved road in what appears to be a suburban or school-area setting, surrounded by lush green trees.\n\n## Vehicles\n\n- **Left: A yellow school bus** \u2014 a full-sized, conventional-style school bus with \"SCHOOL\" clearly displayed on the top front. It features the classic yellow paint, multiple windows along the side, flashing red lights on top, and a prominent front grille with a flat-nosed (Type C) design.\n\n- **Right: A yellow cargo/commercial van** \u2014 a large panel van in a similar golden-yellow color. It has no side windows in the cargo area, suggesting it's designed for transporting goods rather than passengers.\n\n## Setting\n\nThe background features **tall evergreen and deciduous trees** in full summer foliage, with a clear sky visible above. The road is well-maintained asphalt with curbing, suggesting a well-kept residential or institutional area. The overall scene is bright and well-lit, indicating a clear day.\n\nThe pairing of these two vehicles may suggest a **fleet or commercial context**, possibly related to school transportation services.",
+    "ms": 9025,
+    "trial": 3,
+    "condition": "NEUTRAL_P00",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Describe this scene."
+  },
+  "SONNET|NEUTRAL_P00|T1": {
+    "text": "## Scene Description\n\nThe image shows **two yellow vehicles** parked side by side on a suburban road, surrounded by green and yellow-leafed trees, suggesting a **late summer or early fall** setting.\n\n### Vehicle on the Left:\n- A **full-size yellow school bus** with the word **\"SCHOOL\"** displayed on the front\n- Features the characteristic **flat-nosed (transit-style) design**\n- Has amber warning lights across the top front\n- Standard black windows along the side\n\n### Vehicle on the Right:\n- A **yellow cargo van** (resembling a Chevrolet Express or similar model)\n- Notably painted in a **matching bright yellow**, similar in shade to the school bus\n- Has no rear windows, indicating it's a **cargo/work van**\n\n### Overall Scene:\nThe striking visual element is that **both vehicles share nearly identical yellow coloring**, creating an interesting visual pairing. The setting appears to be a **quiet suburban street or school zone**, with well-maintained landscaping and a clear, sunny day. The size contrast between the large bus and the smaller van is quite pronounced when viewed side by side.",
+    "ms": 8232,
+    "trial": 1,
+    "condition": "NEUTRAL_P00",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Describe this scene."
+  },
+  "SONNET|NEUTRAL_P00|T2": {
+    "text": "## Scene Description\n\nThe image shows **two yellow vehicles** parked side by side on a road, surrounded by lush green trees on a sunny day.\n\n### Vehicle on the Left:\n- A **full-size yellow school bus** with the word **\"SCHOOL\"** displayed prominently on the front\n- Features the classic flat-front (transit-style) design\n- Equipped with amber warning lights across the top front\n- Multiple windows line the side of the bus\n\n### Vehicle on the Right:\n- A **yellow cargo van** (appearing to be a mid-size commercial van)\n- Notably painted in a **matching bright yellow** color\n- Has a solid rear cargo area with no side windows\n- Smaller in scale compared to the school bus\n\n### Overall Scene:\n- Both vehicles share a **strikingly similar shade of yellow**, creating a visually cohesive pairing\n- The setting appears to be a **suburban street or parking area**\n- The background features **green deciduous and evergreen trees**\n- The scene is well-lit with **bright, natural sunlight**\n\nThe juxtaposition of the two differently-sized yellow vehicles makes for an interesting visual comparison of scale.",
+    "ms": 7374,
+    "trial": 2,
+    "condition": "NEUTRAL_P00",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Describe this scene."
+  },
+  "SONNET|NEUTRAL_P00|T3": {
+    "text": "## Scene Description\n\nThe image shows **two yellow vehicles** parked side by side on a paved road or parking area, surrounded by **green and yellow-leafed trees** suggesting a **late summer or early fall** setting.\n\n### Vehicle on the Left:\n- A **full-size yellow school bus** with the word **\"SCHOOL\"** displayed on the front\n- Features the characteristic **flat-nose/transit-style design**\n- Equipped with **amber warning lights** across the roof\n- Standard **large rectangular windows** along the side\n\n### Vehicle on the Right:\n- A **yellow cargo van** (resembling a Chevrolet Express or similar model)\n- Notably painted in a **matching bright yellow** to the school bus\n- Has a **solid panel side** with no windows in the cargo area\n\n### Overall Scene:\n- Both vehicles share a **nearly identical shade of yellow**, creating a visually cohesive pairing\n- The setting appears to be a **suburban street or school zone**\n- The trees in the background are lush, with some showing hints of **autumn color**\n- The scene is well-lit with **bright, natural sunlight**\n\nThe image appears to be **AI-generated**, given the perfect color matching and idealized composition.",
+    "ms": 8126,
+    "trial": 3,
+    "condition": "NEUTRAL_P00",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Describe this scene."
+  },
+  "HAIKU|NEUTRAL_P00|T1": {
+    "text": "# School Transportation Scene\n\nThis image shows two yellow vehicles parked side by side on a residential street:\n\n## Left Vehicle - School Bus\nA large, iconic **yellow school bus** with \"SCHOOL\" prominently displayed on the front. It features:\n- Classic rectangular design with multiple windows along the sides\n- Large windshield and headlights\n- Heavy-duty construction typical of full-size buses\n- Black horizontal stripe running along the middle\n\n## Right Vehicle - Cargo Van\nA **yellow utility van** or cargo vehicle with:\n- More compact, modern design compared to the bus\n- Smooth, streamlined body\n- Cargo area in the back\n- Appears to be a commercial or service vehicle\n\n## Setting\nThe scene is set in what appears to be a suburban or residential area with:\n- Well-maintained asphalt parking lot/street\n- Green grass verges on either side\n- Mature trees in the background showing autumn foliage\n- Clear, sunny weather\n- Peaceful, neighborhood environment\n\nBoth vehicles are painted in the same distinctive bright yellow color, creating a cohesive visual composition that emphasizes their transportation or service roles in the community.",
+    "ms": 3411,
+    "trial": 1,
+    "condition": "NEUTRAL_P00",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Describe this scene."
+  },
+  "HAIKU|NEUTRAL_P00|T2": {
+    "text": "# Scene Description\n\nThis image shows two bright yellow vehicles parked side by side on a paved surface:\n\n## Left Vehicle - School Bus\n- A full-size yellow school bus with the word \"SCHOOL\" clearly visible on the front sign\n- Features the characteristic design with large windows along the sides for passenger seating\n- Equipped with standard safety features including red brake lights\n- Represents traditional student transportation\n\n## Right Vehicle - Cargo Van\n- A compact yellow commercial/service van\n- Smaller in scale compared to the school bus\n- Features a solid cargo body design with minimal windows\n- Likely used for delivery or utility services\n\n## Setting\n- Located in what appears to be a suburban or residential area\n- Tree-lined surroundings with a mix of deciduous and evergreen trees\n- Clear blue sky visible overhead\n- Well-maintained asphalt parking area with grass visible on the sides\n- Professional presentation suggesting this may be a fleet or comparison photograph\n\nBoth vehicles share the distinctive bright yellow color, though they serve very different transportation purposes.",
+    "ms": 3260,
+    "trial": 2,
+    "condition": "NEUTRAL_P00",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Describe this scene."
+  },
+  "HAIKU|NEUTRAL_P00|T3": {
+    "text": "# School Transportation Scene\n\nThis image shows two bright yellow vehicles parked side by side on a residential street:\n\n**Left Vehicle - School Bus:**\n- A large, full-size school bus with \"SCHOOL\" clearly displayed on the front\n- Features the characteristic elongated design with multiple passenger windows\n- Standard yellow and black color scheme typical of American school buses\n- Equipped with safety lights on the roof\n\n**Right Vehicle - Service Van:**\n- A yellow commercial utility van with a boxy, compact design\n- Appears to be a service or delivery vehicle\n- Significantly smaller than the school bus\n\n**Setting:**\n- Suburban neighborhood with mature trees lining the street\n- Well-maintained residential area with green lawns\n- Trees showing early autumn foliage\n- Clear, pleasant weather conditions\n- Paved parking area with sidewalk visible\n\nThe contrast between the large school bus and the smaller service van highlights the difference in scale and purpose between these two types of vehicles commonly seen in neighborhoods and commercial settings.",
+    "ms": 3028,
+    "trial": 3,
+    "condition": "NEUTRAL_P00",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Describe this scene."
+  }
+}
