@@ -1,0 +1,1 @@
+Look at this image. For each of the two vehicles, estimate the hue value in degrees (on a standard HSV/HSL color wheel where 0=red, 60=yellow, 120=green). Report your best estimate for each vehicle's dominant body color as a number in degrees. Then state which vehicle has the higher hue value.
