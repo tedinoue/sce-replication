@@ -42,7 +42,7 @@ Gradient stimuli (G001-G006) use P01 only. The gradient measures narrative captu
 |---|---|---|
 | (C01) | S001.png | 0° baseline (shared with core) |
 | CG01 | G001.png | +5° |
-| CG02 | G002.png | +10° |
+| CG02 | S003.png | +10° (reuse from core set) |
 | CG03 | G003.png | +15° |
 | CG04 | G004.png | +20° |
 | CG05 | G005.png | +25° |
