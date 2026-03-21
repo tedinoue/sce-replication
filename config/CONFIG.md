@@ -65,12 +65,12 @@ Two prompts. Minimal. Unprimed.
 ### Gradient Series
 | File | Condition | Notes |
 |---|---|---|
-| G001.png | Gradient step 1 (+5° from canonical) | Near-threshold |
-| (S003.png) | Gradient step 2 (+10°) | Reuse from core set. No separate image. |
-| G003.png | Gradient step 3 (+15°) | Approaching breakpoint |
-| G004.png | Gradient step 4 (+20°) | Likely breakpoint zone |
-| G005.png | Gradient step 5 (+25°) | Post-breakpoint for most models |
-| G006.png | Gradient step 6 (+30°) | Near-ceiling detection |
+| G001.png | Bus 47°, Van 42° (+5°) | Near-threshold |
+| (S003.png) | Bus 51°, Van 41° (+10°) | Reuse from core set |
+| G003.png | Bus 58°, Van 42° (+16°) | Approaching breakpoint |
+| G004.png | Bus 63°, Van 42° (+21°) | Likely breakpoint zone |
+| G005.png | Bus 69°, Van 42° (+27°) | Post-breakpoint for most models |
+| G006.png | Bus 73°, Van 42° (+31°) | Near-ceiling detection |
 
 S001.png serves as the 0° baseline for the gradient series.
 
@@ -97,7 +97,7 @@ S001.png serves as the 0° baseline for the gradient series.
 |---|---|---|---|
 | (C01) | S001.png | 0° baseline | 10 (shared with core) |
 | CG01 | G001.png | +5° | 10 |
-| CG02 | S003.png | +10° | 10 (shared with C05, or run independently as replication check) |
+| CG02 | S003.png | +10° | 10 (run independently, doubles as C05 replication check) |
 | CG03 | G003.png | +15° | 10 |
 | CG04 | G004.png | +20° | 10 |
 | CG05 | G005.png | +25° | 10 |
@@ -132,4 +132,5 @@ Estimated cost: $20-45
 - Detection rate per step (proportion correctly noting cooler/greener bus)
 - Breakpoint estimate (50% detection crossing, interpolated)
 
-Ground truth in STIMULUS_SPEC.md.
+Ground truth values are Photoshop eyedropper measurements from center of vehicle side panel.
+Do not use AI-based pixel sampling. See STIMULUS_SPEC.md for all measured values.
