@@ -1,36 +1,39 @@
 # Prompt Index
 ## SCE Color Replication Study
 
-Each prompt is stored as a plain text file. The harness reads the file and inserts it as the user message alongside the stimulus image.
+Two prompts only. Minimal. Unprimed.
 
-No system prompt is used. Raw model behavior only.
+The original study used "describe this scene" with no color-specific instructions.
+The power of the finding is that models spontaneously misreport color when not asked
+to scrutinize it. Leading prompts ("which vehicle is warmer?") would invalidate
+the experiment by priming color comparison.
 
 ---
 
 ## Prompt Files
 
-| ID | File | Type | Used With | Purpose |
-|---|---|---|---|---|
-| P01 | P01_describe_vehicles.txt | Narrative | S001, S002, S003 | Open-ended color description of both vehicles |
-| P02 | P02_measure_vehicles.txt | Analytical | S001, S002, S003 | Request hue measurement in degrees |
-| P03 | P03_describe_fruit.txt | Narrative | S004, S005, S006 | Open-ended color description of single food item |
-| P04 | P04_measure_fruit.txt | Analytical | S004, S005, S006 | Request hue measurement in degrees |
-| P05 | P05_describe_scene.txt | Narrative | S007 | Open-ended color description of cube and fence |
-| P06 | P06_measure_scene.txt | Analytical | S007 | Request hue measurement in degrees |
+| ID | File | Type | Purpose |
+|---|---|---|---|
+| P01 | P01_narrative.txt | Narrative | "Describe this scene." Unprimed. Tests what the model volunteers about color. |
+| P02 | P02_analytical.txt | Analytical | Requests hue measurement in degrees. Tests analytical bypass of semantic prior. |
 
-## Condition-to-Prompt Mapping
+Both prompts are used with ALL stimuli (S001-S007). Same prompt, different images.
 
-| Condition | Stimulus | Prompt |
-|---|---|---|
-| C01 | S001 | P01 |
-| C02 | S001 | P02 |
-| C03 | S002 | P01 |
-| C04 | S002 | P02 |
-| C05 | S003 | P01 |
-| C06 | S003 | P02 |
-| C07 | S004 | P03 |
-| C08 | S004 | P04 |
-| C09 | S005 | P03 |
-| C10 | S005 | P04 |
-| C11 | S006 | P03 |
-| C12 | S006 | P04 |
+## Condition Matrix
+
+| Condition | Stimulus | Prompt | Tests |
+|---|---|---|---|
+| C01 | S001 (bus+van, same yellow) | P01 (narrative) | Control: no conflict, unprimed |
+| C02 | S001 (bus+van, same yellow) | P02 (analytical) | Control: analytical baseline |
+| C03 | S002 (bus warm, van cool) | P01 (narrative) | Prior-consistent split, unprimed |
+| C04 | S002 (bus warm, van cool) | P02 (analytical) | Prior-consistent split, analytical |
+| C05 | S003 (bus cool, van warm) | P01 (narrative) | Prior-conflicting split, unprimed (KEY TEST) |
+| C06 | S003 (bus cool, van warm) | P02 (analytical) | Prior-conflicting split, analytical |
+| C07 | S004 (orange banana) | P01 (narrative) | Classic SCE capture test |
+| C08 | S004 (orange banana) | P02 (analytical) | Analytical bypass test |
+| C09 | S005 (orange carrot) | P01 (narrative) | Matched-pair control (no conflict) |
+| C10 | S005 (orange carrot) | P02 (analytical) | Matched-pair control, analytical |
+| C11 | S006 (yellow banana) | P01 (narrative) | Prior-consistent control |
+| C12 | S006 (yellow banana) | P02 (analytical) | Prior-consistent control, analytical |
+
+**Total:** 12 conditions x 5 models x 10 trials = 600 API calls
