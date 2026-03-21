@@ -16,57 +16,47 @@
 
 ## STIMULUS SET A: SCHOOL BUS + PANEL VAN
 
+These images already exist from the original study. Reuse them at 700x500.
+
 ### Scene Composition
 
-Same scene for all three images: a school bus and a plain panel van (no branding, no text) parked side by side or near each other in a parking lot or roadside setting. Both vehicles should be clearly identifiable as their respective types. The van should be generic, not a branded delivery vehicle. No other strongly colored objects competing for attention.
-
-### Image Creation Method
-
-Start with a photograph or AI-generated base image of a yellow school bus and yellow panel van together. Then use image editing software (Photoshop, GIMP, or equivalent) to precisely control the hue of each vehicle using HSL/HSV adjustment layers masked to each vehicle.
+Same scene for all three images: a school bus and a plain panel van (no branding, no text) parked side by side or near each other. Both vehicles clearly identifiable. No other strongly colored objects competing for attention.
 
 ### Color Specifications (HSV color space)
 
-**Canonical "school bus yellow":**
-- Hue: 48° (this is the standard National School Bus Glossy Yellow, approximately)
+**Canonical "school bus yellow" (warm):**
+- Hue: 43°
 - Saturation: 85-95%
 - Value/Brightness: 85-95%
 
 **Cooler shift target:**
-- Hue: 41° (7° cooler than canonical, shifting toward lemon/green-yellow)
+- Hue: 53° (10° cooler than canonical, shifting toward lemon/green-yellow)
 - Saturation: same as canonical
 - Value: same as canonical
 
-A 7° hue shift is detectable by pixel sampling but subtle to visual inspection. This matches the effect sizes in the original study.
+A 10° hue shift is detectable by pixel sampling, visible to a careful human observer, but ambiguous enough that AI models routinely misreport it. This matches the effect sizes in the published study.
 
 ### The Three Images
 
 **S001_bus_van_same.png — Control (both canonical)**
-- Bus: H=48°, S=90%, V=90%
-- Van: H=48°, S=90%, V=90%
+- Bus: H=43°
+- Van: H=43°
 - Purpose: No color difference exists. Any reported difference is fabrication.
 - Ground truth: Both vehicles are the same yellow.
 
 **S002_bus_warm_van_cool.png — Prior-consistent split**
-- Bus: H=48° (canonical, warm)
-- Van: H=41° (shifted cooler)
+- Bus: H=43° (canonical, warm)
+- Van: H=53° (shifted cooler)
 - Purpose: Bus IS warmer. Correct answer aligns with "school buses are warm golden yellow" prior.
-- Ground truth: Bus is warmer (higher hue value). Difference is 7°.
-- NOTE: A model that always guesses "bus is warmer" will get this one RIGHT. That's why S003 exists.
+- Ground truth: Bus is warmer (lower hue number = warmer yellow). Difference is 10°.
+- NOTE: A model that always defaults to "bus is warmer" will get this one RIGHT. That's why S003 exists.
 
 **S003_bus_cool_van_warm.png — Prior-conflicting split (KEY TEST)**
-- Bus: H=41° (shifted cooler)
-- Van: H=48° (canonical, warm)
+- Bus: H=53° (shifted cooler)
+- Van: H=43° (canonical, warm)
 - Purpose: Bus is COOLER. Correct answer CONFLICTS with the semantic prior.
-- Ground truth: Van is warmer (higher hue value). Difference is 7°.
-- NOTE: This is the critical test. If the model reports the bus as warmer here, the semantic prior is overriding perception.
-
-### Verification
-
-After creating each image, verify with an eyedropper/color picker tool:
-1. Sample 5+ pixels from each vehicle's main body panel (avoid highlights, shadows, edges)
-2. Record average H, S, V values
-3. Confirm the hue difference matches spec (0° for S001, 7° for S002/S003)
-4. Document measured values in this file under MEASURED VALUES below
+- Ground truth: Van is warmer (lower hue number). Difference is 10°.
+- NOTE: This is the critical matched-pair test. If the model reports the bus as warmer here, the semantic prior is overriding perception. The asymmetry between S002 and S003 accuracy rates is the primary measure.
 
 ---
 
@@ -78,9 +68,9 @@ Individual food items on a neutral surface (white plate, light cutting board, or
 
 ### Image Creation Method
 
-**For the orange banana (S004):** Start with a photo of a normal yellow banana. Use HSL adjustment to shift the banana's hue from yellow (~55°) to orange (~30°). Keep saturation and brightness natural. The result should look like a banana that happens to be orange, not like a digitally manipulated image with harsh edges or unnatural gradients. Feather the mask if needed so the color shift blends naturally with the banana's natural shading.
+**For the orange banana (S004):** Start with a photo of a normal yellow banana. Use HSL adjustment to shift the banana's hue from yellow (~55°) to orange (~30°). Keep saturation and brightness natural. Feather the mask so the color shift blends naturally with the banana's natural shading. The result should look like a banana that happens to be orange.
 
-**For the orange carrot (S005):** Use a photo of a normal orange carrot. Do NOT modify its color. This is the control. The carrot should be approximately the same orange hue as the modified banana in S004. If needed, adjust the carrot's hue slightly so that S004 and S005 are within 3° of each other in hue.
+**For the orange carrot (S005):** Use a photo of a normal orange carrot. Do NOT modify its color. This is the control. The carrot should be approximately the same orange hue as the modified banana in S004. If needed, adjust the carrot's hue slightly so that S004 and S005 are within 3° of each other.
 
 **For the yellow banana (S006):** Use a photo of a normal yellow banana. Do NOT modify its color. This is the prior-consistent control.
 
@@ -105,21 +95,9 @@ Individual food items on a neutral surface (white plate, light cutting board, or
 - Purpose: No conflict. Prior and reality agree. "Yellow" report correct.
 - Ground truth: Yellow. Approximately H=55°.
 
-### Verification
-
-Same as Set A: eyedropper 5+ sample points per object, record average HSV, confirm S004 and S005 are within 3° of each other.
-
 ---
 
 ## STIMULUS SET C: CUBE + FENCE (STRETCH GOAL)
-
-### Scene Composition
-
-A solid-colored cube or block sitting on grass near a white picket fence. Both the cube and the fence should be approximately the same cream/off-white color.
-
-### Image Creation Method
-
-Use a photo of a white picket fence. Place or composite a cube/block of matching color nearby. If the fence is naturally cream/off-white (many are), no color modification needed. If needed, tint both objects to match at approximately H=38-40°, S=15-25%, V=75-85%.
 
 **S007_cube_fence.png — White picket fence collocation test**
 - Fence: ~H=39°, S=15%, V=75% (cream, not white)
@@ -129,7 +107,7 @@ Use a photo of a white picket fence. Place or composite a cube/block of matching
 
 ---
 
-## MEASURED VALUES (fill in after image creation)
+## MEASURED VALUES (fill in after image creation/verification)
 
 ### Set A
 | Image | Vehicle | Measured H | Measured S | Measured V | Notes |
