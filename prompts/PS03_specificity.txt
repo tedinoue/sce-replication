@@ -1,0 +1,1 @@
+Compare the colors of the two vehicles. Are they the same or different?
