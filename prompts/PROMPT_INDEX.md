@@ -29,12 +29,8 @@ Gradient stimuli (G001-G006) use P01 only. The gradient measures narrative captu
 | C04 | S002.png | P02 (analytical) | Prior-consistent split, analytical |
 | C05 | S003.png | P01 (narrative) | Prior-conflicting split, unprimed (KEY TEST) |
 | C06 | S003.png | P02 (analytical) | Prior-conflicting split, analytical |
-| C07 | S004.png | P01 (narrative) | SCE capture test |
-| C08 | S004.png | P02 (analytical) | Analytical bypass test |
-| C09 | S005.png | P01 (narrative) | Matched-pair control (no conflict) |
-| C10 | S005.png | P02 (analytical) | Matched-pair control, analytical |
-| C11 | S006.png | P01 (narrative) | Prior-consistent control |
-| C12 | S006.png | P02 (analytical) | Prior-consistent control, analytical |
+| C07 | S004.png | P01 (narrative) | Composite: banana capture, carrot control, apple ceiling |
+| C08 | S004.png | P02 (analytical) | Composite: analytical bypass on all three objects |
 
 ## Gradient Conditions (P01 narrative only)
 
