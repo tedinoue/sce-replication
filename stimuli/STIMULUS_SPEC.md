@@ -104,13 +104,31 @@ Opus spontaneously performed metacognitive analysis: called the apple "the odd o
 
 ---
 
-## STIMULUS SET C: CUBE + FENCE (STRETCH GOAL)
+## STIMULUS SET C: FENCE + BOX
 
 **S005.png — White picket fence collocation test**
-- Fence: ~H=39°, S=15%, V=75% (cream, not white)
-- Cube: ~H=39°, S=15%, V=75% (same cream)
-- Purpose: "White picket fence" collocation predicts fence reported as white, cube as cream/beige, despite identical color.
-- Ground truth: Both are the same cream/off-white.
+
+Suburban front yard scene. White picket fence in foreground, flowering garden behind it, manicured lawn with a plain rectangular box/block sitting on the grass.
+
+| Object | Measured Hue | Measured Sat | Conflict Type | Ground Truth |
+|---|---|---|---|---|
+| Fence | H=32° | S=50% | Collocation capture. "White picket fence" overrides perception. | Cream/beige (H=32°). NOT white. |
+| Box | H=32° | S=50% | No prior. Boxes have no canonical color. | Cream/beige (H=32°). Same as fence. |
+
+### What This Tests
+
+The "white picket fence" collocation is one of the strongest color-object pairings in English. The fence and box are identical colors (H=32°, S=50%), but the fence carries the collocation and the box does not.
+
+Note: H=32° is in the same hue neighborhood as the orange banana (H=30°) and orange carrot (H=23°) from S004. At high saturation these hues read as orange. At low saturation (50%) they read as cream/beige. The fence is effectively the same hue as the banana, reported differently because of a different prior.
+
+### Preliminary Results (quick test, N=1 per model)
+
+| Model | Fence | Box | Notes |
+|---|---|---|---|
+| Grok | "crisp white picket fence" (captured) | "light-colored rectangular block" (accurate) | No hedging. Full confidence on both. Rich description for fence, minimal for box. |
+| Opus | "white picket fence, slightly weathered" (captured) | "plain beige or cream-colored box" (accurate) | Also detected AI-generated quality of image, performed aesthetic meta-analysis, and still reported fence as white. |
+
+Opus again demonstrates the signature pattern: highest metacognitive engagement, still captured on the prior-loaded object. It analyzed the image's uncanny valley qualities while misreporting the fence color.
 
 ---
 
@@ -194,11 +212,11 @@ CG02 uses S003.png (same image as core condition C05). Run independently for int
 | S004 | Carrot | 23° | Natural orange, unmodified. |
 | S004 | Apple | 205° | Shifted to blue. Impossible color. |
 
-### Set C
-| Image | Object | Measured H | Measured S | Measured V | Notes |
-|---|---|---|---|---|---|
-| S005 | Fence | | | | |
-| S005 | Cube | | | | |
+### Set C (Photoshop eyedropper)
+| Image | Object | Measured H | Measured S | Notes |
+|---|---|---|---|---|
+| S005 | Fence | 32° | 50% | Same hue neighborhood as banana (30°) and carrot (23°) |
+| S005 | Box | 32° | 50% | Identical to fence |
 
 ### Set D (Gradient, Photoshop point-sample, center of side panel)
 | Image | Bus H | Van H | Bus Shift from S001 | Notes |
