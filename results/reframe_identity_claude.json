@@ -1,0 +1,191 @@
+{
+  "OPUS|CTRL|T1": {
+    "text": "## Vehicle Colors\n\n**School Bus (left):** A classic **school bus yellow** (officially known as \"National School Bus Glossy Yellow\"), which is a strong, saturated yellow with slight orange undertones. It also features black trim and yellow-painted wheel hubs.\n\n**Van (right):** A **golden/amber yellow**, which is a deeper, slightly more orange-toned yellow \u2014 closer to a marigold or mustard shade.\n\n## Which is Warmer?\n\nThe **van** is warmer in tone. Its color leans more toward gold/amber, pushing further toward the orange end of the spectrum. The school bus, while still a warm color overall, is a slightly cooler, more \"pure\" yellow by comparison.",
+    "ms": 6550,
+    "trial": 1,
+    "condition": "CTRL",
+    "prompt": "Describe the colors of these two vehicles. Which is warmer in tone?"
+  },
+  "OPUS|CTRL|T2": {
+    "text": "## Vehicle Colors\n\n**School Bus (left):** A classic **National School Bus Yellow** (also called Chrome Yellow) \u2014 a bright, slightly greenish-yellow with bold black trim accents.\n\n**Van (right):** A **golden/amber yellow** \u2014 a deeper, more orange-tinted yellow with a somewhat metallic finish.\n\n## Which is Warmer?\n\nThe **van on the right** is warmer in tone. Its color leans more toward gold/amber with orange undertones, placing it further toward the warm end of the spectrum. The school bus, while still a warm color overall, has a slightly cooler, more pure yellow hue with faint greenish undertones by comparison.",
+    "ms": 5092,
+    "trial": 2,
+    "condition": "CTRL",
+    "prompt": "Describe the colors of these two vehicles. Which is warmer in tone?"
+  },
+  "OPUS|CTRL|T3": {
+    "text": "## Vehicle Colors\n\n**School Bus (left):** A classic **National School Bus Yellow** (also called Chrome Yellow) \u2014 a bright, slightly greenish-yellow with bold black trim.\n\n**Van (right):** A **golden/amber yellow** \u2014 a deeper, more orange-tinted yellow with a smoother, more saturated finish.\n\n## Which is Warmer?\n\nThe **van** is warmer in tone. Its color leans more toward gold/amber with orange undertones, placing it further toward the warm end of the spectrum. The school bus, while still a warm color overall, has a slightly cooler, more **pure or even greenish-yellow** cast by comparison.",
+    "ms": 6256,
+    "trial": 3,
+    "condition": "CTRL",
+    "prompt": "Describe the colors of these two vehicles. Which is warmer in tone?"
+  },
+  "SONNET|CTRL|T1": {
+    "text": "## Vehicle Colors\n\nBoth vehicles are painted in **yellow**, but with slightly different tones:\n\n- **School Bus**: A classic **National School Bus Chrome Yellow** \u2014 this is a regulated, standardized yellow with a slightly **orange-warm** undertone, which is intentional for high visibility.\n\n- **Van**: A **brighter, more saturated yellow** that appears slightly **cooler or purer** in tone, leaning toward a cleaner lemon-yellow.\n\n## Which is Warmer?\n\nThe **school bus** is **warmer in tone**, as its yellow has more **amber/orange undertones**, consistent with the traditional school bus yellow specification. The van's yellow appears slightly more neutral or cool by comparison.",
+    "ms": 6513,
+    "trial": 1,
+    "condition": "CTRL",
+    "prompt": "Describe the colors of these two vehicles. Which is warmer in tone?"
+  },
+  "SONNET|CTRL|T2": {
+    "text": "## Vehicle Colors\n\nBoth vehicles are painted in **yellow**, but with slightly different tones:\n\n- **School Bus**: A classic **\"school bus yellow\"** \u2014 this is a standardized, slightly **orange-tinted yellow**, which is warm and highly visible by regulation.\n- **Van**: A **brighter, more saturated yellow** \u2014 it appears slightly **cooler and more pure yellow** in tone, leaning less toward orange.\n\n## Warmer Tone?\n\nThe **school bus** is **warmer in tone**, as its yellow has more **orange/amber undertones**, which is characteristic of the federally standardized *National School Bus Glossy Yellow* color. The van's yellow appears more vibrant and neutral by comparison.",
+    "ms": 5988,
+    "trial": 2,
+    "condition": "CTRL",
+    "prompt": "Describe the colors of these two vehicles. Which is warmer in tone?"
+  },
+  "SONNET|CTRL|T3": {
+    "text": "## Vehicle Colors\n\nBoth vehicles are painted in **yellow**, but with slightly different tones:\n\n- **School Bus**: A classic **National School Bus Chrome Yellow** \u2014 this is a standardized, slightly **orange-warm yellow**, which is the legally required color for school buses in North America.\n\n- **Van**: A **brighter, more saturated yellow** \u2014 it appears slightly **cooler and more pure yellow** in tone, leaning less toward orange.\n\n## Which is Warmer?\n\nThe **school bus** is **warmer in tone**, as its yellow has more of an **orange/amber undertone**, which is characteristic of the official school bus yellow standard. The van's yellow appears slightly more neutral or \"clean\" by comparison.",
+    "ms": 5656,
+    "trial": 3,
+    "condition": "CTRL",
+    "prompt": "Describe the colors of these two vehicles. Which is warmer in tone?"
+  },
+  "HAIKU|CTRL|T1": {
+    "text": "# Vehicle Colors\n\n**School Bus (Left):** Bright, vibrant **yellow** with black stripes and trim\n\n**Service Van (Right):** Golden **yellow** with a slightly more muted tone\n\n## Warmth Comparison\n\nThe **school bus** has a warmer tone. Its bright, pure yellow is more saturated and vivid, creating a warmer, more intense appearance. The service van's golden yellow is slightly cooler and more subdued in comparison, though both are fundamentally warm colors in the yellow family.",
+    "ms": 1997,
+    "trial": 1,
+    "condition": "CTRL",
+    "prompt": "Describe the colors of these two vehicles. Which is warmer in tone?"
+  },
+  "HAIKU|CTRL|T2": {
+    "text": "# Vehicle Colors\n\n**School Bus (left):** A bright, vibrant **yellow** with black trim and lettering on the \"SCHOOL\" sign.\n\n**Service Van (right):** A similar **golden-yellow** or **amber-yellow** tone, appearing slightly more muted than the school bus.\n\n## Warmth Comparison\n\nThe **school bus is warmer in tone**. Its yellow is more saturated and brighter, creating a more intense, vibrant warm color. The service van's yellow has slightly more golden/amber undertones that make it appear marginally less vivid, though both are decidedly warm colors in the yellow family.",
+    "ms": 3203,
+    "trial": 2,
+    "condition": "CTRL",
+    "prompt": "Describe the colors of these two vehicles. Which is warmer in tone?"
+  },
+  "HAIKU|CTRL|T3": {
+    "text": "# Vehicle Colors\n\nBoth vehicles are **bright yellow**, but they differ slightly in tone:\n\n## Color Comparison:\n- **School Bus (left)**: A more golden, saturated yellow with strong contrast from the black stripes and trim\n- **Service Van (right)**: A slightly lighter, more lemon-yellow tone\n\n## Warmth:\nThe **school bus on the left** is warmer in tone. Its golden yellow has more orange undertones, giving it a richer, warmer appearance compared to the van's brighter, slightly cooler lemon-yellow shade.\n\nBoth are vibrant utility vehicles designed for high visibility, but the school bus's color appears more robust and warm due to its deeper saturation and golden hue.",
+    "ms": 2755,
+    "trial": 3,
+    "condition": "CTRL",
+    "prompt": "Describe the colors of these two vehicles. Which is warmer in tone?"
+  },
+  "OPUS|HIPPIE|T1": {
+    "text": "# Comparing the Colors of the Two Vehicles\n\nLooking at the two vehicles, I can compare their tones:\n\n- **The vehicle on the left** is a **standard yellow school bus** \u2014 it displays the classic **National School Bus Glossy Yellow**, which has a slightly **greenish-cool undertone**.\n\n- **The van on the right** appears to be a **warmer, more golden/amber yellow**, leaning toward an **orange-tinged hue**.\n\n**The van on the right is warmer in tone.** Its color leans more toward gold/amber, while the school bus yellow is a cooler, more lemony yellow by comparison.\n\nThat said, I should note: the vehicle on the left clearly displays **\"SCHOOL\"** on its front marquee and appears to be a **fully operational, well-maintained school bus** \u2014 not a converted hippie dwelling. It shows no signs of personal modification or residential conversion.",
+    "ms": 7192,
+    "trial": 1,
+    "condition": "HIPPIE",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Can you look at its color and compare it to the van next to it? Which vehicle is warmer in tone?"
+  },
+  "OPUS|HIPPIE|T2": {
+    "text": "# Comparing the Colors of the Two Vehicles\n\nLooking at the two vehicles, I can compare their yellow tones:\n\n- **The vehicle on the left** is a **school bus** \u2014 it displays a classic **National School Bus Yellow**, which is a deeper, slightly more orange-tinged yellow.\n- **The van on the right** is a **lighter, more golden/amber yellow**, but actually appears slightly cooler and more neutral in its yellow tone.\n\n**The school bus on the left appears warmer in tone**, as its yellow leans more toward the orange end of the spectrum, while the van's yellow is a bit more of a clean, bright yellow without as much warmth.\n\nThat said, I should note: regardless of who may currently own or live in the bus, it still clearly displays **\"SCHOOL\"** markings and standard school bus features, so it is identifiably a **school bus** by its design and labeling.",
+    "ms": 6957,
+    "trial": 2,
+    "condition": "HIPPIE",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Can you look at its color and compare it to the van next to it? Which vehicle is warmer in tone?"
+  },
+  "OPUS|HIPPIE|T3": {
+    "text": "# Comparing the Colors of the Two Vehicles\n\nLooking at the two vehicles, I can compare their yellow tones:\n\n- **The vehicle on the left** is a **school bus** \u2014 it displays a classic **National School Bus Yellow**, which is a somewhat **cooler, more pure yellow** with slight greenish undertones.\n\n- **The van on the right** has a **warmer, more golden/amber yellow** tone, leaning slightly toward orange.\n\n**The van on the right is warmer in tone** compared to the school bus's more standard, slightly cooler yellow.\n\nThat said, I should note: regardless of who may currently own it, the vehicle on the left is clearly marked **\"SCHOOL\"** and has all the standard features of an **active school bus** (regulation markings, lights, stop arm indicators). I'll stick to just comparing the colors as you asked! \ud83c\udfa8",
+    "ms": 7223,
+    "trial": 3,
+    "condition": "HIPPIE",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Can you look at its color and compare it to the van next to it? Which vehicle is warmer in tone?"
+  },
+  "SONNET|HIPPIE|T1": {
+    "text": "## Color Comparison\n\nLooking at both vehicles:\n\n- **School bus (left):** Displays the classic **National School Bus Chrome Yellow** \u2014 a slightly **cooler, more saturated yellow** with a hint of green undertone, which is actually the regulated standard color for school buses.\n\n- **Van (right):** Appears to have a **warmer, more golden/amber yellow** tone, leaning slightly more toward **orange**, giving it a warmer feel.\n\n### Conclusion\nThe **van on the right** appears **warmer in tone**, while the school bus has a slightly **cooler, more pure yellow** hue.",
+    "ms": 4424,
+    "trial": 1,
+    "condition": "HIPPIE",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Can you look at its color and compare it to the van next to it? Which vehicle is warmer in tone?"
+  },
+  "SONNET|HIPPIE|T2": {
+    "text": "## Color Comparison\n\nLooking at both vehicles:\n\n**School Bus (left):** Displays a **classic \"school bus yellow\"** \u2014 which is actually a specific regulated color (National School Bus Glossy Yellow). It has a slightly **orange-warm** undertone, leaning toward **amber/golden yellow**.\n\n**Van (right):** Appears to be a **brighter, more saturated yellow** \u2014 slightly **cooler and more pure yellow** in tone, closer to a standard yellow without as much orange warmth.\n\n## Conclusion\n\nThe **school bus on the left is warmer in tone**, with its characteristic amber-orange undertone compared to the van's cleaner, brighter yellow.",
+    "ms": 5191,
+    "trial": 2,
+    "condition": "HIPPIE",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Can you look at its color and compare it to the van next to it? Which vehicle is warmer in tone?"
+  },
+  "SONNET|HIPPIE|T3": {
+    "text": "## Color Comparison\n\nLooking at both vehicles:\n\n- **School bus (left):** Displays the classic **\"National School Bus Chrome Yellow\"** \u2014 a slightly **cooler, more saturated yellow** with a hint of green undertone, as required by school bus standards.\n\n- **Van (right):** Appears to have a **warmer, more golden/amber yellow** tone, leaning slightly more toward **orange**, giving it a richer, warmer appearance.\n\n### Conclusion:\nThe **van on the right** is **warmer in tone**, while the school bus leans toward a cooler, more standardized yellow.",
+    "ms": 4006,
+    "trial": 3,
+    "condition": "HIPPIE",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Can you look at its color and compare it to the van next to it? Which vehicle is warmer in tone?"
+  },
+  "HAIKU|HIPPIE|T1": {
+    "text": "# Color Comparison\n\nLooking at both vehicles, **the school bus on the left appears warmer in tone**.\n\nThe school bus has a bright, golden yellow with more orange undertones, which gives it a warmer, more saturated appearance. The van on the right, while also yellow, appears to be a slightly lighter, more lemon-yellow shade with cooler undertones\u2014it's less golden and somewhat more pale in comparison.\n\nThe bus's warmth is enhanced by the natural sunlight and shadows playing across its larger surface area, which emphasizes its rich, golden-yellow hue.",
+    "ms": 2050,
+    "trial": 1,
+    "condition": "HIPPIE",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Can you look at its color and compare it to the van next to it? Which vehicle is warmer in tone?"
+  },
+  "HAIKU|HIPPIE|T2": {
+    "text": "# Color Comparison\n\nLooking at both vehicles, **the van on the right appears warmer in tone**.\n\nWhile both are yellow, the **school bus on the left has a brighter, more saturated yellow** with cooler undertones\u2014it's the classic bright school bus yellow with a slightly more acidic quality.\n\nThe **van on the right displays a warmer, more golden yellow** that leans slightly toward orange-yellow, giving it a cozier, more amber-like appearance.\n\nSo despite the van being the same color family, it reads as the warmer of the two.",
+    "ms": 2070,
+    "trial": 2,
+    "condition": "HIPPIE",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Can you look at its color and compare it to the van next to it? Which vehicle is warmer in tone?"
+  },
+  "HAIKU|HIPPIE|T3": {
+    "text": "# Comparing Vehicle Tones\n\nLooking at both vehicles, **the van on the right is warmer in tone**. \n\nThe school bus on the left has a brighter, more vibrant yellow with cooler undertones and higher saturation. The van on the right displays a warmer, more golden or amber-yellow color with deeper, earthier undertones.\n\nThe van's warmer tone gives it a more muted, vintage appearance compared to the school bus's more vivid, brilliant yellow.",
+    "ms": 1483,
+    "trial": 3,
+    "condition": "HIPPIE",
+    "prompt": "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Can you look at its color and compare it to the van next to it? Which vehicle is warmer in tone?"
+  },
+  "OPUS|NEUTRAL|T1": {
+    "text": "The **van on the right** has a warmer tone. Its color is more of a **golden/amber yellow**, leaning toward orange, which registers as a warmer hue.\n\nThe **school bus on the left**, while also yellow, has a slightly **cooler, more pure \"school bus yellow\"** (officially known as \"National School Bus Glossy Yellow\"), which is a more standardized, slightly lemon-leaning shade compared to the deeper, warmer golden tone of the van.",
+    "ms": 5036,
+    "trial": 1,
+    "condition": "NEUTRAL",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Compare their colors. Which is warmer in tone?"
+  },
+  "OPUS|NEUTRAL|T2": {
+    "text": "The **van on the right** has a warmer tone. Its color is more of a **golden/amber yellow**, leaning toward orange, which registers as warmer on the color spectrum.\n\nThe **school bus on the left**, while also yellow, has a slightly **cooler, more pure or \"lemon\" yellow** tone \u2014 the standard \"school bus yellow\" (officially known as National School Bus Glossy Yellow), which is a bit more neutral compared to the van's deeper, warmer golden hue.",
+    "ms": 5102,
+    "trial": 2,
+    "condition": "NEUTRAL",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Compare their colors. Which is warmer in tone?"
+  },
+  "OPUS|NEUTRAL|T3": {
+    "text": "The **van on the right** has a warmer tone. Its color is more of a **golden/amber yellow**, leaning toward orange, which gives it a warmer appearance.\n\nThe **school bus on the left**, while also yellow, has a slightly **cooler, more saturated \"school bus yellow\"** (officially known as \"National School Bus Glossy Yellow\"), which is a more pure, slightly greenish-tinged yellow by comparison.\n\nSo the van's deeper, more golden hue reads as the warmer of the two.",
+    "ms": 5476,
+    "trial": 3,
+    "condition": "NEUTRAL",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Compare their colors. Which is warmer in tone?"
+  },
+  "SONNET|NEUTRAL|T1": {
+    "text": "## Color Comparison\n\nLooking at both vehicles:\n\n- **School Bus (left):** Displays the classic **National School Bus Chrome Yellow** \u2014 a highly standardized, **bright, slightly orange-warm yellow**\n- **Van (right):** Appears to be a **slightly paler, more neutral yellow** \u2014 still warm, but with a touch less orange saturation\n\n### Verdict:\nThe **school bus on the left** is **warmer in tone**, as its yellow leans more toward **orange**, which is characteristic of the regulated school bus yellow color standard. The van's yellow appears slightly **cooler and more muted** by comparison.",
+    "ms": 4496,
+    "trial": 1,
+    "condition": "NEUTRAL",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Compare their colors. Which is warmer in tone?"
+  },
+  "SONNET|NEUTRAL|T2": {
+    "text": "## Color Comparison\n\nLooking at both vehicles:\n\n- **School Bus (left):** Displays the classic **\"National School Bus Chrome Yellow\"** \u2014 a **bright, slightly orange-warm yellow** tone, which is a regulated, standardized color.\n\n- **Van (right):** Appears to be a **slightly purer or cooler yellow**, leaning a bit more toward a **neutral-to-cool yellow** without as much orange warmth.\n\n## Conclusion\n\nThe **school bus on the left** is **warmer in tone**, as its yellow has a more **orange-amber undertone**, which is characteristic of the official school bus yellow standard. The van's yellow appears comparatively **flatter and less warm**.",
+    "ms": 5522,
+    "trial": 2,
+    "condition": "NEUTRAL",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Compare their colors. Which is warmer in tone?"
+  },
+  "SONNET|NEUTRAL|T3": {
+    "text": "## Color Comparison\n\nLooking at both vehicles:\n\n- **School Bus (left):** Displays the classic **\"National School Bus Chrome Yellow\"** \u2014 a standardized, **bright, pure yellow** with relatively neutral warmth.\n\n- **Van (right):** Appears to have a slightly **deeper, more golden/amber yellow** tone, giving it a **warmer, slightly orange-leaning hue**.\n\n### Conclusion:\nThe **van on the right** appears **warmer in tone**, as its yellow leans slightly more toward **orange/gold**, while the school bus has a more **pure, standardized cool-neutral yellow**.",
+    "ms": 4917,
+    "trial": 3,
+    "condition": "NEUTRAL",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Compare their colors. Which is warmer in tone?"
+  },
+  "HAIKU|NEUTRAL|T1": {
+    "text": "# Color Comparison\n\nBoth vehicles are yellow, but the **school bus on the left** has a warmer tone in comparison to the van on the right.\n\nThe bus displays a more vibrant, golden yellow with warmer undertones, while the van on the right appears to be a slightly cooler, more muted yellow with less saturation. The bus's brighter, more saturated yellow gives it the warmer appearance overall.",
+    "ms": 1486,
+    "trial": 1,
+    "condition": "NEUTRAL",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Compare their colors. Which is warmer in tone?"
+  },
+  "HAIKU|NEUTRAL|T2": {
+    "text": "# Color Tone Comparison\n\nBoth vehicles are **yellow**, so they share the same base color. However, comparing their warmth:\n\nThe **school bus on the left** appears to have a **warmer tone**. It displays a richer, more golden-yellow hue that leans slightly toward orange-yellow, which is typically associated with warmth.\n\nThe **van on the right** appears to have a slightly **cooler yellow tone** \u2013 it seems a bit more pale or lemon-yellow by comparison, making it feel slightly less warm.\n\nSo the **school bus (left) is warmer in tone**.",
+    "ms": 2200,
+    "trial": 2,
+    "condition": "NEUTRAL",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Compare their colors. Which is warmer in tone?"
+  },
+  "HAIKU|NEUTRAL|T3": {
+    "text": "# Color Comparison\n\nBoth vehicles are **yellow**, so they share the same base color. However, comparing their tones:\n\n**The school bus (left)** appears to have a **warmer tone** - it's a brighter, more golden yellow with potentially slightly more orange undertones, which is typical of standard school bus yellow.\n\n**The van (right)** appears to be a slightly cooler or more muted yellow - it seems less vibrant and potentially has slightly more neutral undertones.\n\nSo the **school bus on the left** is warmer in tone overall.",
+    "ms": 1901,
+    "trial": 3,
+    "condition": "NEUTRAL",
+    "prompt": "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Compare their colors. Which is warmer in tone?"
+  }
+}
