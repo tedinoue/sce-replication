@@ -54,13 +54,11 @@ Two prompts. Minimal. Unprimed.
 ### Core Set
 | File | Condition | Notes |
 |---|---|---|
-| S001.png | Control (both vehicles same hue) | No conflict |
-| S002.png | Prior-consistent split | Correct answer aligns with prior |
-| S003.png | Prior-conflicting split | Correct answer conflicts with prior (KEY TEST) |
-| S004.png | Object with color conflict | SCE capture test |
-| S005.png | Matched-pair control object | Same color, no prior conflict |
-| S006.png | Prior-consistent control | No conflict |
-| S007.png | Collocation test | Stretch goal |
+| S001.png | Bus+van, same hue (control) | No conflict |
+| S002.png | Bus+van, prior-consistent split | Correct answer aligns with prior |
+| S003.png | Bus+van, prior-conflicting split | Correct answer conflicts with prior (KEY TEST) |
+| S004.png | Food composite: orange banana, orange carrot, blue apple | Three conflict levels in one scene |
+| S005.png | Cube+fence collocation test | Stretch goal |
 
 ### Gradient Series
 | File | Condition | Notes |
@@ -84,12 +82,8 @@ S001.png serves as the 0° baseline for the gradient series.
 | C04 | S002.png | P02 (analytical) | Prior-consistent split, analytical |
 | C05 | S003.png | P01 (narrative) | Prior-conflicting split (KEY TEST) |
 | C06 | S003.png | P02 (analytical) | Prior-conflicting split, analytical |
-| C07 | S004.png | P01 (narrative) | SCE capture test |
-| C08 | S004.png | P02 (analytical) | Analytical bypass test |
-| C09 | S005.png | P01 (narrative) | Matched-pair control |
-| C10 | S005.png | P02 (analytical) | Matched-pair control, analytical |
-| C11 | S006.png | P01 (narrative) | Prior-consistent control |
-| C12 | S006.png | P02 (analytical) | Prior-consistent control, analytical |
+| C07 | S004.png | P01 (narrative) | Composite: banana capture, carrot control, apple ceiling |
+| C08 | S004.png | P02 (analytical) | Composite: analytical bypass on all three objects |
 
 ## Gradient Conditions (P01 narrative only)
 
@@ -107,11 +101,11 @@ S001.png serves as the 0° baseline for the gradient series.
 
 | Component | Conditions | Models | Trials | Total |
 |---|---|---|---|---|
-| Core study | 12 | 5 | 10 | 600 |
+| Core study | 8 | 5 | 10 | 400 |
 | Gradient series | 6 (+ shared baseline) | 5 | 10 | 300 |
-| **Total** | | | | **900** |
+| **Total** | | | | **700** |
 
-Estimated cost: $20-45
+Estimated cost: $15-35
 
 ## Scoring Criteria
 
