@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 SCE Replication: Gemini Gradient Experiment v2
-Fixed: maxOutputTokens=2000, thinking budget separate.
-Also disabled thinking for 2.5 models to get clean text output.
+Thinking disabled, maxOutputTokens=2000.
+Models: Gemini 2.5 Pro and 2.5 Flash only.
 
 Usage:
     python3 run_gemini_gradient_v2.py --key "AIzaSy..."
@@ -11,8 +11,8 @@ Usage:
 import urllib.request, json, time, base64, sys, os, argparse
 
 MODELS = [
-    ("gemini-2.5-flash", "GEMINI_25_FLASH"),
     ("gemini-2.5-pro", "GEMINI_25_PRO"),
+    ("gemini-2.5-flash", "GEMINI_25_FLASH"),
 ]
 
 GRADIENT = ["S001", "G001", "S003", "G003", "G004", "G005", "G006"]
@@ -38,17 +38,18 @@ def extract_text(result):
     parts = candidates[0].get("content", {}).get("parts", [])
     text_parts = []
     for part in parts:
+        # Skip thinking parts, only collect actual text output
         if "text" in part and not part.get("thought", False):
             text_parts.append(part["text"])
     if text_parts:
         return "\n".join(text_parts)
-    # Fallback: any text part
+    # Fallback: any text part at all
     for part in parts:
         if "text" in part:
             text_parts.append(part["text"])
     if text_parts:
-        return "\n".join(text_parts)
-    return f"ERROR: No text. Parts: {json.dumps(parts)[:300]}"
+        return "[from thinking] " + "\n".join(text_parts)
+    return f"ERROR: No text. Keys in parts: {[list(p.keys()) for p in parts]}"
 
 def run_gemini(api_key, model, image_b64, prompt):
     payload = {
@@ -77,14 +78,14 @@ def run_gemini(api_key, model, image_b64, prompt):
             text = extract_text(result)
             return text, ms
     except urllib.error.HTTPError as e:
-        body = e.read().decode()[:300] if hasattr(e, "read") else ""
+        body = e.read().decode()[:500] if hasattr(e, "read") else ""
         raise Exception(f"HTTP {e.code}: {body}")
 
 def main():
     parser = argparse.ArgumentParser(description="SCE Gemini Gradient v2")
     parser.add_argument("--key", help="Gemini API key")
     parser.add_argument("--trials", type=int, default=TRIALS)
-    parser.add_argument("--models", nargs="+", help="Model IDs")
+    parser.add_argument("--models", nargs="+", help="Model IDs to test")
     args = parser.parse_args()
     
     api_key = args.key or os.environ.get("GEMINI_API_KEY")
@@ -123,6 +124,7 @@ def main():
                     results[key] = {"text": f"ERROR: {e}", "ms": 0, "trial": trial, "model": model}
                 time.sleep(1)
         
+        # Checkpoint after each model
         with open("gemini_gradient_v2_results.json", "w") as f:
             json.dump(results, f, indent=2)
         print(f"  Checkpoint saved ({len(results)} results)")
@@ -133,7 +135,7 @@ def main():
     print(f"Saved to gemini_gradient_v2_results.json")
     print(f"\n  cp gemini_gradient_v2_results.json results/")
     print(f"  git add results/gemini_gradient_v2_results.json")
-    print(f"  git commit -m \"Gemini gradient v2: thinking disabled, 2000 tokens\"")
+    print(f"  git commit -m \"Gemini gradient v2: thinking off, 2000 tokens\"")
     print(f"  git push")
 
 if __name__ == "__main__":
