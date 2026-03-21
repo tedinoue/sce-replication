@@ -58,7 +58,7 @@ Two prompts. Minimal. Unprimed.
 | S002.png | Bus+van, prior-consistent split | Correct answer aligns with prior |
 | S003.png | Bus+van, prior-conflicting split | Correct answer conflicts with prior (KEY TEST) |
 | S004.png | Food composite: orange banana, orange carrot, blue apple | Three conflict levels in one scene |
-| S005.png | Cube+fence collocation test | Stretch goal |
+| S005.png | Fence+box: H=32° both, "white picket fence" collocation test | Ready |
 
 ### Gradient Series
 | File | Condition | Notes |
@@ -84,6 +84,8 @@ S001.png serves as the 0° baseline for the gradient series.
 | C06 | S003.png | P02 (analytical) | Prior-conflicting split, analytical |
 | C07 | S004.png | P01 (narrative) | Composite: banana capture, carrot control, apple ceiling |
 | C08 | S004.png | P02 (analytical) | Composite: analytical bypass on all three objects |
+| C09 | S005.png | P01 (narrative) | Fence+box collocation capture test |
+| C10 | S005.png | P02 (analytical) | Fence+box analytical bypass |
 
 ## Gradient Conditions (P01 narrative only)
 
@@ -101,11 +103,11 @@ S001.png serves as the 0° baseline for the gradient series.
 
 | Component | Conditions | Models | Trials | Total |
 |---|---|---|---|---|
-| Core study | 8 | 5 | 10 | 400 |
+| Core study | 10 | 5 | 10 | 500 |
 | Gradient series | 6 (+ shared baseline) | 5 | 10 | 300 |
-| **Total** | | | | **700** |
+| **Total** | | | | **800** |
 
-Estimated cost: $15-35
+Estimated cost: $18-40
 
 ## Scoring Criteria
 
