@@ -66,7 +66,7 @@ Two prompts. Minimal. Unprimed.
 | File | Condition | Notes |
 |---|---|---|
 | G001.png | Gradient step 1 (+5° from canonical) | Near-threshold |
-| G002.png | Gradient step 2 (+10°) | Matches core split condition |
+| (S003.png) | Gradient step 2 (+10°) | Reuse from core set. No separate image. |
 | G003.png | Gradient step 3 (+15°) | Approaching breakpoint |
 | G004.png | Gradient step 4 (+20°) | Likely breakpoint zone |
 | G005.png | Gradient step 5 (+25°) | Post-breakpoint for most models |
@@ -97,7 +97,7 @@ S001.png serves as the 0° baseline for the gradient series.
 |---|---|---|---|
 | (C01) | S001.png | 0° baseline | 10 (shared with core) |
 | CG01 | G001.png | +5° | 10 |
-| CG02 | G002.png | +10° | 10 |
+| CG02 | S003.png | +10° | 10 (shared with C05, or run independently as replication check) |
 | CG03 | G003.png | +15° | 10 |
 | CG04 | G004.png | +20° | 10 |
 | CG05 | G005.png | +25° | 10 |
