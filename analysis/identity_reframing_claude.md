@@ -1,94 +1,100 @@
-# Identity Reframing Experiment
-## Can you break semantic capture by changing how the model identifies the object?
+# Identity Reframing Experiment — CORRECTED
+## Preliminary exploration, not a definitive study
+## S003 (Bus H=51°, Van H=41°)
 ## Date: 03-21-2026
-## Stimulus: S003 (Bus H=51°, Van H=41°)
 
 ---
 
-## The Insight
+## STATUS: PRELIMINARY
 
-The semantic prior ("school buses are warm golden yellow") is not attached to the
-visual features of the vehicle. It's attached to the LABEL "school bus." If you
-change what the model thinks the object IS, the prior changes with it.
+These are quick exploratory tests of a hypothesis, N=3 per cell, single stimulus.
+The findings below are directional signals worth pursuing, not conclusions.
+A proper study would need N=10+, multiple stimuli, and cross-vendor replication.
 
-## Conditions
+---
 
-| Condition | Prompt | What it tests |
-|---|---|---|
-| CTRL | "Describe the colors of these two vehicles. Which is warmer in tone?" | Baseline. Model identifies it as school bus, prior activates. |
-| HIPPIE | "The vehicle on the left is an old school bus, now owned by a hippie who lives in it. Can you look at its color and compare it to the van next to it? Which vehicle is warmer in tone?" | Reframe. "Hippie bus" carries no canonical color. Disrupts the prior. |
-| NEUTRAL | "The vehicle on the left is a large yellow vehicle. The vehicle on the right is a van. Compare their colors. Which is warmer in tone?" | Partial strip. Removes "school bus" label but doesn't replace it with a counter-prior. |
+## CORRECTION FROM INITIAL ANALYSIS
 
-## Results: Correct Direction (Van Warmer)
+The first version of this analysis contained a confound. The "control" prompt in the
+reframing experiment was "Describe the colors of these two vehicles. Which is warmer in
+tone?" — which is functionally a PS04-level prompt (analytical, forces directional judgment).
+This made the control condition much stronger than the actual PS00 baseline ("Describe this
+scene."), inflating the apparent performance and obscuring the reframe's real contribution.
 
-| Condition | Opus | Sonnet | Haiku |
-|---|---|---|---|
-| CTRL | 3/3 | 0/3 | 0/3 |
-| HIPPIE | 2/3 | **2/3** | **2/3** |
-| NEUTRAL | 3/3 | 1/3 | 0/3 |
+### What we got wrong:
+The initial report claimed the hippie reframe was a standalone intervention. It is not.
 
-## Key Findings
+### What we found when we fixed it:
+At PS00-level prompting ("Describe this scene." with or without reframe), no model
+volunteers color comparisons. Reframe or no reframe, the direction question never arises,
+so there's nothing for the reframe to improve. 0/3 across all conditions, all models.
 
-### 1. The hippie reframe is the most effective intervention for lower-capability models
-Sonnet goes from 0/3 (CTRL) to 2/3 (HIPPIE). Haiku goes from 0/3 to 2/3.
-This is better than PS04 ("carefully analyze the hue, warmer/cooler?") which got
-0/3 from both Sonnet and Haiku. Better than PS05 (measurement) which got 1/3 and 0/3.
+---
 
-### 2. Identity reframing beats analytical demand
-PS04 asks: "Think harder about the color." The prior thinks harder too.
-The hippie reframe says: "This isn't a standard school bus." The prior loses its anchor.
-Changing the object's identity is more effective than changing the prompt's analytical demand.
+## CORRECTED RESULTS
 
-### 3. The neutral condition (label stripping) only helps Opus
-"A large yellow vehicle" instead of "school bus" — Opus 3/3, Sonnet 1/3, Haiku 0/3.
-Simply removing the label isn't enough for smaller models. They may re-identify it
-from visual features ("that's clearly a school bus") and re-activate the prior.
-The hippie reframe works better because it provides a REPLACEMENT identity that carries
-no color prior. Not just label removal, but label substitution.
+### Test 1: PS00-level prompts (no forced comparison)
 
-### 4. Opus already breaks through at CTRL
-The CTRL prompt is similar to PS04 in specificity. Opus gets 3/3 at both.
-The hippie reframe doesn't help Opus (2/3, slight regression). This is consistent
-with the gradient finding: Opus breaks through on analytical demand alone. The
-reframe intervention is designed for models where analytical demand fails.
+| Condition | Prompt | Opus | Sonnet | Haiku |
+|---|---|---|---|---|
+| Baseline | "Describe this scene." | 0/3 | 0/3 | 0/3 |
+| Hippie reframe | "[hippie framing] Describe this scene." | 0/3 | 0/3 | 0/3 |
+| Neutral strip | "[neutral framing] Describe this scene." | 0/3 | 0/3 | 0/3 |
 
-### 5. The prior is attached to the label, not the percept
-This is the central theoretical finding. The model's color report is shaped by
-what it thinks the object IS, not by what the pixels show. Change the label,
-change the report. Same pixels, same prompt structure, different object identity,
-different color judgment.
+No effect. Models don't volunteer color comparisons at PS00, so the reframe has nothing to act on.
 
-## Practical Implication
+### Test 2: PS04-level prompts (forced directional comparison)
 
-For applications requiring accurate color assessment from VLMs:
-- Don't ask "what color is the school bus?" (activates prior)
-- Don't ask "carefully analyze the hue" (prior analyzes too)
-- Do strip or neutralize object labels: "what color is the vehicle on the left?"
-- Better yet, provide a counter-identity that carries no color prior
+| Condition | Prompt | Opus | Sonnet | Haiku |
+|---|---|---|---|---|
+| With "school bus" label + "which is warmer?" | "Describe the colors of these two vehicles. Which is warmer in tone?" | 3/3 | 0/3 | 0/3 |
+| Hippie reframe + "which is warmer?" | "[hippie framing] Which vehicle is warmer in tone?" | 2/3 | 2/3 | 2/3 |
 
-## Connection to Other Findings
+The reframe effect only appears when combined with a forced directional judgment.
 
-| Experiment | Axis | What it varies | Best intervention |
-|---|---|---|---|
-| Exp 1: Gradient | Stimulus | Hue shift magnitude | Make the color extreme enough to overcome the prior |
-| Exp 2: Specificity | Prompt | Analytical demand | PS04 for Opus only; nothing works for Haiku |
-| **Exp 3: Reframing** | **Identity** | **Object label** | **Hippie reframe: 2/3 for Sonnet AND Haiku** |
+---
 
-The identity reframe is the only intervention that improved Haiku's direction accuracy above 0%.
+## WHAT THIS ACTUALLY SHOWS
 
-## Future Work
+### 1. The identity reframe is a modifier, not an independent intervention
+It doesn't change what the model sees or volunteers. It changes how the model answers
+a directional question when one is asked. No directional question, no effect.
 
-### Multi-turn priming (Ted's idea)
-Instead of a single reframe prompt, build a conversation:
-- Turn 1-3: Discuss converted buses, how people paint them wild colors
-- Turn 4: Show the image with hippie framing
-This builds a REPLACEMENT prior across multiple turns. The model's context is saturated
-with "buses come in all colors" before the image arrives. Predicted effect: stronger
-than single-turn reframe, possibly approaching ceiling performance.
+### 2. Combined with directional prompt, the reframe helps Sonnet and Haiku
+Sonnet: 0/3 (baseline+PS04) -> 2/3 (hippie+PS04). Haiku: 0/3 -> 2/3.
+This is still a real and interesting signal. The hippie framing loosened the directional
+prior for models where analytical demand alone (PS04) couldn't break through.
+
+### 3. The mechanism is label-dependent direction shaping
+When forced to say "which is warmer," the model's answer is shaped by what it thinks
+the object IS. "School bus" activates "warm, golden, amber." "Hippie's converted bus"
+carries no canonical warmth. The prior loses its anchor on the directional judgment.
+
+### 4. BUT: we can't separate the reframe from the prompt confound cleanly
+The hippie condition included both the identity reframe AND the "which is warmer" question.
+To fully isolate the reframe effect, we would need:
+- PS04 with standard "school bus" identification (existing data: Opus 3/3, Sonnet 0/3, Haiku 0/3)
+- PS04 with hippie reframe (partially tested: Opus 2/3, Sonnet 2/3, Haiku 2/3)
+- PS04 with neutral label strip (not cleanly tested at PS04 level)
+
+## FUTURE WORK
+
+### Multi-turn priming (Ted's idea, not yet tested)
+Build a conversational context about converted buses and their wild paint jobs over
+several turns before showing the image. This would construct a replacement prior
+("buses come in all colors") rather than just removing the existing one. Predicted
+to be stronger than single-turn reframe.
+
+### Clean factorial design needed
+Cross prompt level (PS00-PS05) with identity condition (standard, hippie, neutral)
+for a full 6x3 matrix. That's 18 cells. At N=5 with 3 models = 270 calls. ~$3.
 
 ## Raw Data
-results/reframe_identity_claude.json
+- results/reframe_identity_claude.json (original PS04-level confounded experiment)
+- results/reframe_identity_clean_claude.json (PS00-level clean comparison)
+- results/specificity_s003_claude.json (PS00-PS05 baseline data)
 
 ---
 
-*The prior is attached to the label, not the percept. Change the name, change the perception.*
+*The reframe works, but only as a modifier on forced directional judgments. Not standalone.
+These are preliminary explorations, not definitive studies. N=3, single stimulus, single vendor.*
