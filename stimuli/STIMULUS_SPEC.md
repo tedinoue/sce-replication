@@ -123,13 +123,13 @@ Identical to Set A. Same base image, same van. Only the bus hue changes.
 |---|---|---|---|---|
 | S001.png | 43° | 43° | 0° (same) | Control. Reuse from Set A. |
 | G001.png | 48° | 43° | +5° | Likely still captured. Subtle shift. |
-| G002.png | 53° | 43° | +10° | Matches S003 conditions. Near breakpoint for some models. |
+| S003.png | 53° | 43° | +10° | Reuse from Set A (identical conditions). Near breakpoint for some models. |
 | G003.png | 58° | 43° | +15° | Approaching yellow-green. Some models may begin detecting. |
 | G004.png | 63° | 43° | +20° | Yellow-green range. Breakpoint for most models. |
 | G005.png | 68° | 43° | +25° | Clearly shifting. Most models should detect. |
 | G006.png | 73° | 43° | +30° | Chartreuse. Strong visual departure. Near-ceiling detection. |
 
-Note: S001 serves as the 0° baseline. No need for a separate G000.
+Note: S001 serves as the 0° baseline. S003 serves as the +10° step (bus=53°, van=43° is the same condition). No duplicate images.
 
 ### Image Creation
 
@@ -153,17 +153,19 @@ The breakpoint is model-specific. The original study suggests Claude Opus breaks
 
 | Condition | Stimulus | Prompt | Trials |
 |---|---|---|---|
-| G01 | G001.png (48°) | P01 | 10 |
-| G02 | G002.png (53°) | P01 | 10 |
-| G03 | G003.png (58°) | P01 | 10 |
-| G04 | G004.png (63°) | P01 | 10 |
-| G05 | G005.png (68°) | P01 | 10 |
-| G06 | G006.png (73°) | P01 | 10 |
+| CG01 | G001.png (48°) | P01 | 10 |
+| CG02 | S003.png (53°) | P01 | 10 |
+| CG03 | G003.png (58°) | P01 | 10 |
+| CG04 | G004.png (63°) | P01 | 10 |
+| CG05 | G005.png (68°) | P01 | 10 |
+| CG06 | G006.png (73°) | P01 | 10 |
 
 Plus C01 (S001, 43°) as the 0° baseline = 7 gradient points.
 
 **Total gradient calls:** 7 steps x 5 models x 10 trials = 350 API calls
-**Combined with core study:** 600 + 350 = 950 total API calls
+**Combined with core study:** 600 + 300 = 900 total API calls (CG02 shares S003 trials from C05, saving 50 calls)
+
+Note: CG02 uses S003.png, which is also used in core condition C05. The gradient trial data for the +10° step can be drawn from C05 results, or run independently. If run independently, the C05 and CG02 results also serve as an internal replication check.
 
 
 ## MEASURED VALUES (fill in after image creation/verification)
@@ -195,7 +197,7 @@ Plus C01 (S001, 43°) as the 0° baseline = 7 gradient points.
 | Image | Bus H | Van H | Verified Shift | Notes |
 |---|---|---|---|---|
 | G001 | 48° target | 43° target | | |
-| G002 | 53° target | 43° target | | |
+| (S003) | 53° target | 43° target | | Reuse S003 from Set A |
 | G003 | 58° target | 43° target | | |
 | G004 | 63° target | 43° target | | |
 | G005 | 68° target | 43° target | | |
