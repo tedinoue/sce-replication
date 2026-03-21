@@ -4,6 +4,16 @@
 
 ---
 
+## IMPORTANT: Filename Opacity
+
+Stimulus images use opaque names (S001.png, G001.png) to prevent filename contamination.
+Models receive the image URL, which includes the filename. Descriptive names like
+"bus_cool_van_warm.png" would leak the experimental condition into the model's context.
+The mapping from opaque names to experimental conditions lives in STIMULUS_SPEC.md only.
+The harness and scoring scripts reference that mapping. The models never see it.
+
+---
+
 ## Models
 
 | Model ID | Provider | API Endpoint | Default Temp | Vision Support |
@@ -19,77 +29,107 @@
 All stimulus images hosted at:
 `https://raw.githubusercontent.com/tedinoue/sce-replication/main/stimuli/{filename}`
 
+Filenames are opaque (S001.png, G001.png). No descriptive names.
 Passed to each API as image URL. No base64 encoding.
 
 ## Experiment Parameters
 
 - **Trials per condition:** 10
 - **Temperature (primary study):** Default for each model (1.0 across all, verify Grok)
-- **Temperature (follow-up study):** Single model, vary temperature (0.0, 0.5, 1.0, 1.5) to test stochastic effects
+- **Temperature (follow-up study):** Single model, vary temperature (0.0, 0.5, 1.0, 1.5)
 - **Max tokens per response:** 500
-- **System prompt:** None. Raw model behavior. No persona, no instructions beyond the user prompt.
+- **System prompt:** None. Raw model behavior only.
 
 ## Prompts
 
-Two prompts only. Both minimal and unprimed.
+Two prompts. Minimal. Unprimed.
 
 | ID | File | Text | Purpose |
 |---|---|---|---|
-| P01 | P01_narrative.txt | "Describe this scene." | Unprimed. Tests what model volunteers about color. |
-| P02 | P02_analytical.txt | "For each object in this image, measure the dominant hue value in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)." | Analytical bypass of semantic prior. |
+| P01 | P01_narrative.txt | "Describe this scene." | Unprimed. Tests what model volunteers. |
+| P02 | P02_analytical.txt | "For each object in this image, measure the dominant hue value in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green)." | Analytical bypass. |
 
-The narrative prompt matches the original study protocol exactly. No color-specific language.
-No leading questions. The model must volunteer any color observations unprompted.
+## Stimuli (opaque filenames, see STIMULUS_SPEC.md for full details)
 
-## Stimuli
+### Core Set
+| File | Condition | Notes |
+|---|---|---|
+| S001.png | Control (both vehicles same hue) | No conflict |
+| S002.png | Prior-consistent split | Correct answer aligns with prior |
+| S003.png | Prior-conflicting split | Correct answer conflicts with prior (KEY TEST) |
+| S004.png | Object with color conflict | SCE capture test |
+| S005.png | Matched-pair control object | Same color, no prior conflict |
+| S006.png | Prior-consistent control | No conflict |
+| S007.png | Collocation test | Stretch goal |
 
-| ID | Description | Bus Hue | Van Hue | Difference | Notes |
-|---|---|---|---|---|---|
-| S001 | Bus + van, same yellow | 43° | 43° | 0° | Control |
-| S002 | Bus warm, van cool | 43° | 53° | 10° | Prior-consistent split |
-| S003 | Bus cool, van warm | 53° | 43° | 10° | Prior-conflicting split (KEY) |
+### Gradient Series
+| File | Condition | Notes |
+|---|---|---|
+| G001.png | Gradient step 1 (+5° from canonical) | Near-threshold |
+| G002.png | Gradient step 2 (+10°) | Matches core split condition |
+| G003.png | Gradient step 3 (+15°) | Approaching breakpoint |
+| G004.png | Gradient step 4 (+20°) | Likely breakpoint zone |
+| G005.png | Gradient step 5 (+25°) | Post-breakpoint for most models |
+| G006.png | Gradient step 6 (+30°) | Near-ceiling detection |
 
-| ID | Description | Target Hue | Notes |
-|---|---|---|---|
-| S004 | Orange banana | ~30° | SCE capture test |
-| S005 | Orange carrot | ~30° | Matched-pair control |
-| S006 | Yellow banana | ~55° | Prior-consistent control |
-| S007 | Cube + fence | ~39° both | White picket fence collocation (stretch) |
+S001.png serves as the 0° baseline for the gradient series.
 
-## Conditions Matrix
+## Core Conditions Matrix
 
 | Condition | Stimulus | Prompt | Tests |
 |---|---|---|---|
-| C01 | S001 (same yellow) | P01 (narrative) | Control: no conflict, unprimed |
-| C02 | S001 (same yellow) | P02 (analytical) | Control: analytical baseline |
-| C03 | S002 (bus warm) | P01 (narrative) | Prior-consistent split, unprimed |
-| C04 | S002 (bus warm) | P02 (analytical) | Prior-consistent split, analytical |
-| C05 | S003 (bus cool) | P01 (narrative) | Prior-conflicting split (KEY TEST) |
-| C06 | S003 (bus cool) | P02 (analytical) | Prior-conflicting split, analytical |
-| C07 | S004 (orange banana) | P01 (narrative) | Classic SCE capture test |
-| C08 | S004 (orange banana) | P02 (analytical) | Analytical bypass test |
-| C09 | S005 (orange carrot) | P01 (narrative) | Matched-pair control (no conflict) |
-| C10 | S005 (orange carrot) | P02 (analytical) | Matched-pair control, analytical |
-| C11 | S006 (yellow banana) | P01 (narrative) | Prior-consistent control |
-| C12 | S006 (yellow banana) | P02 (analytical) | Prior-consistent control, analytical |
+| C01 | S001.png | P01 (narrative) | Control: no conflict, unprimed |
+| C02 | S001.png | P02 (analytical) | Control: analytical baseline |
+| C03 | S002.png | P01 (narrative) | Prior-consistent split, unprimed |
+| C04 | S002.png | P02 (analytical) | Prior-consistent split, analytical |
+| C05 | S003.png | P01 (narrative) | Prior-conflicting split (KEY TEST) |
+| C06 | S003.png | P02 (analytical) | Prior-conflicting split, analytical |
+| C07 | S004.png | P01 (narrative) | SCE capture test |
+| C08 | S004.png | P02 (analytical) | Analytical bypass test |
+| C09 | S005.png | P01 (narrative) | Matched-pair control |
+| C10 | S005.png | P02 (analytical) | Matched-pair control, analytical |
+| C11 | S006.png | P01 (narrative) | Prior-consistent control |
+| C12 | S006.png | P02 (analytical) | Prior-consistent control, analytical |
 
-**Total calls (primary study):** 12 conditions x 5 models x 10 trials = 600
-**Estimated cost:** $15-30
+## Gradient Conditions (P01 narrative only)
+
+| Condition | Stimulus | Shift | Trials |
+|---|---|---|---|
+| (C01) | S001.png | 0° baseline | 10 (shared with core) |
+| CG01 | G001.png | +5° | 10 |
+| CG02 | G002.png | +10° | 10 |
+| CG03 | G003.png | +15° | 10 |
+| CG04 | G004.png | +20° | 10 |
+| CG05 | G005.png | +25° | 10 |
+| CG06 | G006.png | +30° | 10 |
+
+## Call Counts
+
+| Component | Conditions | Models | Trials | Total |
+|---|---|---|---|---|
+| Core study | 12 | 5 | 10 | 600 |
+| Gradient series | 6 (+ shared baseline) | 5 | 10 | 300 |
+| **Total** | | | | **900** |
+
+Estimated cost: $20-45
 
 ## Scoring Criteria
 
-Each response is graded against known ground truth:
+**Narrative responses (P01):**
+- Color mentioned (binary)
+- Color accuracy (binary)
+- Direction accuracy, split conditions (binary)
+- Capture detected (binary)
+- Confabulation detected (binary)
+- Difference fabricated, control S001 (binary)
 
-**For narrative responses (P01):**
-- **Color mentioned:** Did the model mention the color of the target object(s)? (binary)
-- **Color accuracy:** If color was mentioned, was it correct? (binary)
-- **Direction accuracy (S002/S003):** If warmth comparison was mentioned, was direction correct? (binary)
-- **Capture detected:** Did the model report a color consistent with semantic prior rather than pixel reality? (binary)
-- **Confabulation detected:** Did the model fabricate a justification for an incorrect report? (binary)
-- **Difference fabricated (S001):** Did the model report a color difference where none exists? (binary)
+**Analytical responses (P02):**
+- Hue estimate accuracy (absolute error in degrees)
+- Direction accuracy (binary)
 
-**For analytical responses (P02):**
-- **Hue estimate accuracy:** Absolute error in degrees from ground truth.
-- **Direction accuracy (S002/S003):** Did the model correctly identify which object has the lower/higher hue? (binary)
+**Gradient responses:**
+- Capture rate per step (proportion of trials reporting bus as "yellow"/"warm")
+- Detection rate per step (proportion correctly noting cooler/greener bus)
+- Breakpoint estimate (50% detection crossing, interpolated)
 
-Ground truth values in STIMULUS_SPEC.md.
+Ground truth in STIMULUS_SPEC.md.
