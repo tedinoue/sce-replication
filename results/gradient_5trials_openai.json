@@ -1,0 +1,2417 @@
+{
+  "GPT54|S001|PS00|T1": {
+    "text": "A yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. The road is lined with green trees and neatly kept grass, giving the scene a calm, residential feel.",
+    "ms": 3333,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 69,
+      "total_tokens": 477,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S001|PS00|T2": {
+    "text": "A yellow school bus and a yellow cargo van are parked side by side on a quiet, tree-lined suburban street. The bus is larger and on the left, with \u201cSCHOOL\u201d displayed above the windshield, while the van is on the right. The road is clean and bordered by sidewalks and green grass, with tall leafy trees in the background under daylight. The whole scene has a calm, orderly neighborhood feel.",
+    "ms": 2416,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 86,
+      "total_tokens": 494,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S001|PS00|T3": {
+    "text": "A yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right facing the same direction. The road is lined with green trees and neatly kept grass, giving the scene a calm, residential feel on a bright day.",
+    "ms": 2941,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 77,
+      "total_tokens": 485,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S001|PS00|T4": {
+    "text": "A yellow school bus and a yellow cargo van are stopped side by side on a quiet suburban street. The bus is on the left, with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right, slightly ahead. The road is lined with green trees and grass, and the scene appears to be on a calm, sunny day in a residential neighborhood.",
+    "ms": 2336,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 78,
+      "total_tokens": 486,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S001|PS00|T5": {
+    "text": "A bright yellow school bus and a matching yellow cargo van are parked side by side on a quiet suburban street. The bus is larger and positioned on the left, with \u201cSCHOOL\u201d displayed above its windshield and rows of side windows visible. The van is on the right, slightly in front of the bus, with no side windows in the cargo area.\n\nThe street is lined with green trees and neat sidewalks, giving the area a calm residential feel. The weather appears clear and sunny, with soft daylight and mild shadows on the road.",
+    "ms": 3405,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 110,
+      "total_tokens": 518,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003|PS00|T1": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked or stopped side by side on a suburban street. The bus is on the left with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. The road is lined with green trees and neatly kept grass, giving the scene a calm neighborhood feel on a clear day.",
+    "ms": 2327,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 73,
+      "total_tokens": 481,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003|PS00|T2": {
+    "text": "A bright yellow school bus and a matching yellow cargo van are parked side by side on a quiet suburban street. The bus, labeled \u201cSCHOOL\u201d on the front, is larger and positioned slightly behind the van. Trees with dense green foliage line both sides of the road, and there\u2019s a sidewalk and neatly trimmed grass along the curb. The scene appears calm and sunny, with a neighborhood feel.",
+    "ms": 1994,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 83,
+      "total_tokens": 491,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003|PS00|T3": {
+    "text": "A bright yellow school bus and a matching yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right, slightly in front of it. The road is lined with sidewalks, grass, and tall leafy trees, giving the scene a calm neighborhood feel on a clear day.",
+    "ms": 2096,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 81,
+      "total_tokens": 489,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003|PS00|T4": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. The road is lined with green trees and neat sidewalks, giving the scene a calm, residential feel on a clear day.",
+    "ms": 2240,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 72,
+      "total_tokens": 480,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003|PS00|T5": {
+    "text": "A bright yellow school bus and a matching yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. Trees with dense green foliage line both sides of the road, and there\u2019s a sidewalk and neatly kept grass along the curb. The scene appears calm and well-lit, likely during daytime.",
+    "ms": 2406,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 86,
+      "total_tokens": 494,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G001|PS00|T1": {
+    "text": "A large yellow school bus and a smaller yellow cargo van are parked side by side on a quiet suburban street. The bus has \u201cSCHOOL\u201d displayed above the windshield, and both vehicles are painted in bright yellow, making them visually match. The street is lined with leafy trees and trimmed grass, suggesting a calm residential neighborhood on a clear day.",
+    "ms": 2150,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 72,
+      "total_tokens": 480,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G001|PS00|T2": {
+    "text": "A yellow school bus and a yellow cargo van are parked side by side on a quiet, tree-lined suburban street. The school bus is on the left with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right, slightly in front of it. The road is wide and clean, bordered by curbs, grass, and leafy trees, suggesting a calm neighborhood or school-area setting on a clear day.",
+    "ms": 2959,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 88,
+      "total_tokens": 496,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G001|PS00|T3": {
+    "text": "A bright yellow school bus and a matching yellow cargo van are parked side by side on a quiet suburban street. The bus is larger and sits on the left, with \u201cSCHOOL\u201d displayed above the windshield, while the van is on the right. The road is lined with green trees and neatly maintained grass, giving the scene a calm, residential feel on a clear day.",
+    "ms": 2083,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 78,
+      "total_tokens": 486,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G001|PS00|T4": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right, slightly in front of it. The road is lined with green trees and a sidewalk, giving the scene a calm, daytime neighborhood feel.",
+    "ms": 2048,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 76,
+      "total_tokens": 484,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G001|PS00|T5": {
+    "text": "A bright yellow school bus and a matching yellow cargo van are parked side by side on a suburban street. The bus is on the left with the word \u201cSCHOOL\u201d displayed above the windshield, while the van is on the right, slightly in front of it. The road is lined with sidewalks, grass, and tall leafy trees, giving the scene a calm neighborhood feel on a clear day.",
+    "ms": 2182,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 82,
+      "total_tokens": 490,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G003|PS00|T1": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is larger and clearly marked \u201cSCHOOL\u201d above the windshield. Both vehicles are facing left. The road is lined with green trees and grass, and the scene appears calm and sunny, likely during daytime in a residential neighborhood.",
+    "ms": 3099,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 71,
+      "total_tokens": 479,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G003|PS00|T2": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a suburban street. The school bus is on the left with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. The road is lined with trees and neatly kept grass, giving the scene a calm neighborhood feel.",
+    "ms": 2631,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 67,
+      "total_tokens": 475,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G003|PS00|T3": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a suburban street. The school bus is on the left with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. The road is lined with green trees and a sidewalk, giving the scene a calm, residential feel on a clear day.",
+    "ms": 2052,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 72,
+      "total_tokens": 480,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G003|PS00|T4": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The school bus is on the left, with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. The road is lined with leafy trees and neat sidewalks, giving the scene a calm neighborhood feel on a clear day.",
+    "ms": 2192,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 73,
+      "total_tokens": 481,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G003|PS00|T5": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a suburban street. The bus is on the left with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. The road is lined with green trees and neatly kept grass, suggesting a quiet residential neighborhood on a clear day.",
+    "ms": 2047,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 69,
+      "total_tokens": 477,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G004|PS00|T1": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet, tree-lined suburban street. The school bus is on the left, with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. The road is wide and clean, with sidewalks and green grass along the edges. Tall leafy trees and a few evergreens fill the background, giving the scene a calm daytime neighborhood feel.",
+    "ms": 2699,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 90,
+      "total_tokens": 498,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G004|PS00|T2": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a paved suburban street. The bus is on the left with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right, slightly in front of it. The road is lined with green grass and tall leafy trees, giving the scene a calm, residential feel on a clear day.",
+    "ms": 2808,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 79,
+      "total_tokens": 487,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G004|PS00|T3": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, clearly marked \u201cSCHOOL\u201d above the windshield, and the van is on the right. The road is lined with green trees and neat grassy edges, giving the scene a calm, residential feel in daylight.",
+    "ms": 2210,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 72,
+      "total_tokens": 480,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G004|PS00|T4": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a suburban street. The bus is on the left and clearly marked \u201cSCHOOL\u201d above the windshield. The van is on the right, slightly in front of the bus. The road is lined with green trees and grass, and the scene appears to be in daylight with calm, clear weather.",
+    "ms": 2155,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 78,
+      "total_tokens": 486,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G004|PS00|T5": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street lined with trees. The school bus is on the left, with \u201cSCHOOL\u201d displayed prominently above the windshield, and the van is on the right, slightly in front of it. The road is bordered by sidewalks and grass, and the background is filled with leafy green trees, giving the scene a calm daytime neighborhood setting.",
+    "ms": 2579,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 88,
+      "total_tokens": 496,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G005|PS00|T1": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is larger and positioned on the left, with the word \u201cSCHOOL\u201d displayed above the windshield. The van is on the right, slightly in front of the bus. The road is lined with green trees and neatly maintained grass, giving the scene a calm, residential feel on a clear day.",
+    "ms": 2911,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 85,
+      "total_tokens": 493,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G005|PS00|T2": {
+    "text": "A bright yellow-green school bus and a yellow cargo van are stopped side by side on a suburban street lined with trees. The bus is larger and labeled \u201cSCHOOL\u201d above the windshield, while the van is parked or driving next to it in the adjacent lane. The road is clean and quiet, with sidewalks, grass, and leafy trees suggesting a calm neighborhood setting on a clear day.",
+    "ms": 3516,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 81,
+      "total_tokens": 489,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G005|PS00|T3": {
+    "text": "A bright yellow-green school bus and a yellow cargo van are stopped side by side on a suburban street. The bus is larger and positioned on the left, with \u201cSCHOOL\u201d displayed above the windshield, while the van is on the right, slightly in front of it. The road is lined with leafy trees and grassy sidewalks, suggesting a quiet residential or school-area neighborhood on a clear day.",
+    "ms": 2202,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 82,
+      "total_tokens": 490,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G005|PS00|T4": {
+    "text": "A bright yellow-green school bus and a yellow cargo van are parked or stopped side by side on a suburban street. The bus is on the left, with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. The road is lined with leafy trees and neatly kept grass, suggesting a quiet residential or school-area neighborhood on a clear day.",
+    "ms": 2280,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 76,
+      "total_tokens": 484,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G005|PS00|T5": {
+    "text": "A bright yellow-green school bus and a yellow cargo van are parked side by side on a quiet suburban street. The school bus is on the left with a clear \u201cSCHOOL\u201d sign above the windshield, and the van is on the right, slightly in front of it. The road is lined with leafy trees and neat grass, giving the scene a calm, residential feel on what looks like a sunny day.",
+    "ms": 2258,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 85,
+      "total_tokens": 493,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G006|PS00|T1": {
+    "text": "A bright yellow-green school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus has \u201cSCHOOL\u201d displayed prominently above the windshield, and both vehicles are facing toward the left. The road is lined with leafy trees and well-kept grass, giving the scene a calm, daytime neighborhood feel.",
+    "ms": 2106,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 70,
+      "total_tokens": 478,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G006|PS00|T2": {
+    "text": "A bright yellow-green school bus and a yellow cargo van are parked side by side on a quiet, tree-lined suburban street. The bus has \u201cSCHOOL\u201d displayed across the top front, and the van is positioned slightly in front of it. The road is wide and clean, with sidewalks and neatly maintained grass along the sides. Tall leafy trees and a few evergreens fill the background, suggesting a calm daytime setting in a residential or school-area neighborhood.",
+    "ms": 2805,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 94,
+      "total_tokens": 502,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G006|PS00|T3": {
+    "text": "A bright lime-green school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus has a large \u201cSCHOOL\u201d sign on the front, and both vehicles face toward the left. Tall leafy trees line the road, with sidewalks and neatly kept grass along the edges, giving the scene a calm neighborhood feel.",
+    "ms": 2173,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 72,
+      "total_tokens": 480,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G006|PS00|T4": {
+    "text": "A bright yellow-green school bus and a yellow cargo van are parked side by side on a suburban street. The bus has a large \u201cSCHOOL\u201d sign on the front, and both vehicles face toward the left. The road is lined with sidewalks, grass, and tall leafy trees, giving the scene a calm, neighborhood feel on a clear day.",
+    "ms": 2308,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 73,
+      "total_tokens": 481,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|G006|PS00|T5": {
+    "text": "A bright lime-green school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus has a \u201cSCHOOL\u201d sign above the windshield and is larger, positioned slightly behind the van. Both vehicles are facing left. The street is lined with leafy trees and neatly kept grass, giving the scene a calm, residential feel on a clear day.",
+    "ms": 2716,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 78,
+      "total_tokens": 486,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S001|PS00|T1": {
+    "text": "A bright yellow school bus and a matching yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. Both vehicles are in front of a tree-lined area with green and autumn-colored foliage, and the road appears clean and empty. The scene feels calm and orderly, with a neat curb and sidewalk visible along the right edge.",
+    "ms": 1675,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 94,
+      "total_tokens": 502,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S001|PS00|T2": {
+    "text": "A bright yellow school bus and a matching yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left with \u201cSCHOOL\u201d displayed on the front, while the van is on the right, both facing slightly toward the camera. They\u2019re lined up along a clean road bordered by a curb and grass, with tall trees and leafy greenery in the background, suggesting a calm, tree-lined neighborhood in daylight.",
+    "ms": 1508,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 91,
+      "total_tokens": 499,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S001|PS00|T3": {
+    "text": "A bright yellow school bus and a matching yellow cargo van are parked side by side on a quiet suburban street. The school bus is on the left, facing slightly toward the viewer, with \u201cSCHOOL\u201d clearly displayed on the sign above the windshield. The van is on the right, also angled toward the viewer, with no visible markings. Both vehicles are in good condition and stand out against the calm setting.\n\nThe street is lined with trees showing green and yellow foliage, suggesting early autumn. There\u2019s a sidewalk and curb along the right side, and the road appears empty with no pedestrians or other traffic. The overall scene feels peaceful and orderly.",
+    "ms": 1920,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 132,
+      "total_tokens": 540,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S001|PS00|T4": {
+    "text": "A bright yellow school bus and a matching yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. Both vehicles face slightly toward the viewer and are framed by leafy trees and a grassy roadside, suggesting a calm neighborhood or school-area setting on a pleasant day.",
+    "ms": 1096,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 81,
+      "total_tokens": 489,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S001|PS00|T5": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right, both facing slightly toward the viewer. They\u2019re surrounded by green trees and a neatly maintained roadside, suggesting a calm neighborhood or school-area setting on a clear day.",
+    "ms": 1208,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 81,
+      "total_tokens": 489,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003|PS00|T1": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a tree-lined suburban street. The school bus is on the left, with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. Tall green trees and neatly kept lawns frame the road, giving the scene a calm, quiet neighborhood feel on a clear day.",
+    "ms": 1387,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 76,
+      "total_tokens": 484,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003|PS00|T2": {
+    "text": "A bright yellow school bus is parked or stopped on a tree-lined suburban street, with a yellow cargo van beside it. The bus has \u201cSCHOOL\u201d displayed on the front and is positioned on the left, while the van is on the right, both facing slightly toward the viewer. The street is clean and quiet, bordered by sidewalks, grass, and tall leafy trees in the background, giving the scene a calm, orderly daytime feel.",
+    "ms": 1074,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 91,
+      "total_tokens": 499,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003|PS00|T3": {
+    "text": "A bright yellow school bus and a matching yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right, both facing toward the viewer at a slight angle. They\u2019re lined up along the curb on a paved road bordered by grass and tall trees with green and yellow foliage, giving the scene a calm, tree-lined neighborhood feel.",
+    "ms": 1222,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 93,
+      "total_tokens": 501,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003|PS00|T4": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus has \u201cSCHOOL\u201d displayed on the front and is larger, with rows of windows and black trim. The van is smaller and boxy, with a plain work-vehicle look. They\u2019re on the road beside a curb and grassy verge, with tall leafy trees in the background, suggesting a calm neighborhood or school-area setting on a clear day.",
+    "ms": 1307,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 96,
+      "total_tokens": 504,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003|PS00|T5": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left with \u201cSCHOOL\u201d displayed on the front, and the van is on the right in the foreground. Both vehicles stand out against the green trees and leafy neighborhood backdrop, with a curb, sidewalk, and clear road visible under daylight.",
+    "ms": 1397,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 77,
+      "total_tokens": 485,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G001|PS00|T1": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, with \u201cSCHOOL\u201d displayed on the front and black stripes along its side. The van is on the right, facing slightly toward the camera. Both vehicles are clean and prominently colored yellow, making them stand out against the green trees and neatly kept roadside. The scene is sunny and calm, with leafy trees lining the street and no people visible.",
+    "ms": 1620,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 100,
+      "total_tokens": 508,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G001|PS00|T2": {
+    "text": "A bright yellow school bus and a matching yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, facing forward, with \u201cSCHOOL\u201d displayed above the windshield and rows of windows along the side. The van is on the right, also facing forward, with a plain panel-sided body. Both vehicles stand on an asphalt road bordered by a curb and grass, with tall green trees and a calm, leafy neighborhood in the background.",
+    "ms": 1519,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 98,
+      "total_tokens": 506,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G001|PS00|T3": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, with \u201cSCHOOL\u201d clearly displayed on the front, and the van is on the right, both facing slightly toward the viewer. They\u2019re lined up on a paved road bordered by a curb and a narrow grass strip, with leafy trees and greenery filling the background. The scene feels calm and orderly, with no people visible.",
+    "ms": 1604,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 96,
+      "total_tokens": 504,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G001|PS00|T4": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The school bus is on the left, facing forward with \u201cSCHOOL\u201d displayed above the windshield, while the van is on the right, slightly angled toward the camera. Both vehicles are clean and stationary. The road is lined with sidewalks, grass, and tall leafy trees, giving the scene a calm, neighborhood feel on a clear day.",
+    "ms": 1278,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 92,
+      "total_tokens": 500,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G001|PS00|T5": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, clearly marked \u201cSCHOOL\u201d on the front, with rows of windows and black trim. The van is on the right, facing slightly toward the camera. Both vehicles stand out against a tree-lined background with green and early autumn-colored foliage. The road is empty, and the scene feels calm and orderly in a residential neighborhood.",
+    "ms": 1544,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 96,
+      "total_tokens": 504,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G003|PS00|T1": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, facing slightly toward the camera, with \u201cSCHOOL\u201d displayed on the front and rows of windows along the side. The van is on the right, also angled toward the viewer, with a plain panel-sided body. Both vehicles stand on a paved road bordered by curbs and grass, with leafy trees and a calm neighborhood setting in the background.",
+    "ms": 1370,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 100,
+      "total_tokens": 508,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G003|PS00|T2": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The school bus is larger and sits on the left, with \u201cSCHOOL\u201d displayed above the windshield. The van is parked to its right, slightly ahead, and appears to be the same yellow color. Both vehicles are on an asphalt road lined with sidewalks, grass, and tall leafy trees, suggesting a calm neighborhood or school area on a pleasant day.",
+    "ms": 1486,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 95,
+      "total_tokens": 503,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G003|PS00|T3": {
+    "text": "A bright yellow school bus is parked or stopped on the left side of a road, facing forward, with the word \u201cSCHOOL\u201d displayed above the windshield. Next to it on the right is a matching yellow cargo van, also facing forward. Both vehicles are on a quiet suburban street lined with trees and greenery, with a curb and sidewalk visible in the foreground. The scene is well lit, suggesting a clear day.",
+    "ms": 1365,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 87,
+      "total_tokens": 495,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G003|PS00|T4": {
+    "text": "A bright yellow school bus and a yellow delivery van are parked side by side on a paved suburban street. The bus is on the left with \u201cSCHOOL\u201d displayed on its front sign, and the van is on the right, both facing slightly toward the viewer. They\u2019re surrounded by tall trees with green foliage, and the scene looks calm and orderly on a clear day.",
+    "ms": 1176,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 78,
+      "total_tokens": 486,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G003|PS00|T5": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, larger and more prominent, with \u201cSCHOOL\u201d displayed on the front. The van is on the right, slightly in front of the bus, and has a matching yellow color. Both vehicles are on a paved road lined with a curb, grass, and tall trees with green and golden leaves, suggesting a calm day in a leafy neighborhood.",
+    "ms": 1473,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 99,
+      "total_tokens": 507,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G004|PS00|T1": {
+    "text": "A bright yellow school bus and a matching yellow cargo van are parked side by side on a paved suburban street. The bus is on the left, labeled \u201cSCHOOL\u201d at the top, with large windows and black trim, while the van is on the right, smaller and boxy with no side windows. They\u2019re surrounded by leafy trees and a grassy curb, suggesting a quiet neighborhood or school area on a sunny day.",
+    "ms": 1459,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 88,
+      "total_tokens": 496,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G004|PS00|T2": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, with \u201cSCHOOL\u201d displayed on the front, and the van is on the right. Both vehicles stand out vividly against the green trees and landscaped neighborhood background. The road is clean and empty, with no pedestrians or other traffic visible.",
+    "ms": 1236,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 78,
+      "total_tokens": 486,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G004|PS00|T3": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a paved suburban street. The bus is larger and sits to the left, with \u201cSCHOOL\u201d displayed above the windshield. The van is on the right, facing the same direction. Both vehicles have a similar yellow color, creating a striking contrast against the green trees and grass lining the road. The scene appears calm and daytime-lit, with an empty street and a neat, tree-filled neighborhood in the background.",
+    "ms": 1511,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 101,
+      "total_tokens": 509,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G004|PS00|T4": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, facing slightly toward the viewer, with \u201cSCHOOL\u201d displayed on the front. The van is on the right, also angled toward the viewer. Both vehicles stand out against a background of tall green trees and a calm neighborhood setting, with sunlight giving the scene a clear, daytime look.",
+    "ms": 1390,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 88,
+      "total_tokens": 496,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G004|PS00|T5": {
+    "text": "A bright yellow school bus is parked on a tree-lined suburban street next to a yellow cargo van. The bus has a large \u201cSCHOOL\u201d sign on the front and sits to the left, while the van is slightly in front and to the right. Both vehicles are facing toward the viewer at a slight angle. The road is clean and quiet, with sidewalks, grass, and tall trees in the background, creating a calm neighborhood setting.",
+    "ms": 1437,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 91,
+      "total_tokens": 499,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G005|PS00|T1": {
+    "text": "A bright lime-green school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is larger and sits to the left, with \u201cSCHOOL\u201d displayed on the front sign. The van is slightly in front on the right. Both vehicles have the unusual same vivid color palette, making them stand out against the tree-lined road. In the background, there are tall green trees and a calm, overcast sky, giving the scene a peaceful, everyday neighborhood feel.",
+    "ms": 1668,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 103,
+      "total_tokens": 511,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G005|PS00|T2": {
+    "text": "A bright lime-green school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, facing forward with \u201cSCHOOL\u201d displayed on its sign, while the van is on the right, also facing forward. Both vehicles have a bold, matching yellow-green color theme, making them stand out against the tree-lined road. In the background, tall green trees and well-kept lawns suggest a calm neighborhood or school area on a sunny day.",
+    "ms": 1199,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 102,
+      "total_tokens": 510,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G005|PS00|T3": {
+    "text": "A bright lime-green school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus, marked \u201cSCHOOL\u201d on the front, is on the left, and the van is on the right. Both vehicles stand out vividly against the tree-lined road, with tall green and yellowing trees in the background and a neat curb and sidewalk in the foreground. The scene looks calm and orderly, with no people visible.",
+    "ms": 1239,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 93,
+      "total_tokens": 501,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G005|PS00|T4": {
+    "text": "A bright lime-green school bus and a yellow cargo van are parked side by side on a paved suburban road. The school bus is on the left, facing slightly toward the camera, with \u201cSCHOOL\u201d displayed on the front sign. The van is on the right, also angled toward the camera. Both vehicles have a similar vivid yellow-green color palette, making them stand out against the tree-lined street. In the background are tall leafy and evergreen trees, and the road appears quiet and empty in daylight.",
+    "ms": 1508,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 104,
+      "total_tokens": 512,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G005|PS00|T5": {
+    "text": "A bright lime-green school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left with \u201cSCHOOL\u201d displayed on the front, and the van is on the right. Both vehicles have an unusually vivid, matching color scheme that makes them stand out against the tree-lined road. The scene is calm, with green grass, tall trees, and no visible people or traffic.",
+    "ms": 1170,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 89,
+      "total_tokens": 497,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G006|PS00|T1": {
+    "text": "A bright lime-green school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, with \u201cSCHOOL\u201d displayed in bold black letters above the windshield, and the van is on the right. Both vehicles stand out vividly against the tree-lined background, which has tall green and golden trees, suggesting late summer or early autumn. The road looks clean and empty, with a curb and sidewalk along the right edge and a grassy strip in the foreground.",
+    "ms": 1474,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 104,
+      "total_tokens": 512,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G006|PS00|T2": {
+    "text": "A bright neon-green school bus is parked or moving slowly on a tree-lined suburban street, with a yellow cargo van driving alongside it. The bus has \u201cSCHOOL\u201d displayed on the front, and both vehicles stand out vividly against the green trees and gray road. The scene feels calm and sunny, with neatly kept grass, sidewalks, and tall evergreen trees in the background.",
+    "ms": 1054,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 78,
+      "total_tokens": 486,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G006|PS00|T3": {
+    "text": "A bright lime-green school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left with \u201cSCHOOL\u201d displayed across the top, and the van is on the right, both facing slightly toward the viewer. The road is lined with trees and greenery, suggesting a calm neighborhood or school area on a clear day.",
+    "ms": 1375,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 77,
+      "total_tokens": 485,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G006|PS00|T4": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is larger and painted a vivid lime-yellow, with \u201cSCHOOL\u201d displayed on the front sign, while the van is a more standard yellow and sits slightly ahead of it. Both vehicles are on the right side of the road near the curb.\n\nThe street is lined with trees and greenery, giving the scene a calm, leafy neighborhood feel. The weather appears clear and pleasant, with good daylight and no visible traffic or pedestrians.",
+    "ms": 1586,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 111,
+      "total_tokens": 519,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|G006|PS00|T5": {
+    "text": "A bright lime-green school bus and a yellow cargo van are parked side by side on a paved street. The bus is larger and positioned on the left, with \u201cSCHOOL\u201d clearly displayed on the front. The van is on the right, slightly in front of the bus, and both vehicles have a similarly vivid yellow-green color palette. The street is lined with trees and greenery, suggesting a quiet suburban or park-like area on a clear day.",
+    "ms": 1262,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 93,
+      "total_tokens": 501,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S001|PS00|T1": {
+    "text": "The scene shows two yellow school vehicles parked on a paved road beside a grassy verge. A large school bus with an illuminated \u201cSCHOOL\u201d sign is stopped in the left lane, with trees and evergreen branches filling the background. In the right foreground, a smaller yellow van sits slightly forward, angled toward the camera. The surrounding area looks like a calm suburban or school campus setting under clear daylight.",
+    "ms": 2035,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 82,
+      "total_tokens": 490,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S001|PS00|T2": {
+    "text": "A bright yellow school bus is parked on a paved road beside the curb, surrounded by green trees. A second yellow vehicle\u2014a small van\u2014sits in the foreground, positioned on the right side of the scene. The bus has a front display that reads \u201cSCHOOL,\u201d and both vehicles face toward the camera in a quiet, sunny outdoor setting.",
+    "ms": 1525,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 73,
+      "total_tokens": 481,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S001|PS00|T3": {
+    "text": "The image shows two yellow vehicles parked on a sunny day along a curb and road lined with tall green trees. On the left, a school bus with the word \u201cSCHOOL\u201d displayed on its front sign is stopped at an angle. In the foreground/right, a smaller yellow van is parked in the same area. The scene feels calm and suburban, with greenery in the background and clear light casting shadows on the pavement.",
+    "ms": 1608,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 87,
+      "total_tokens": 495,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S001|PS00|T4": {
+    "text": "The scene shows two bright yellow school vehicles parked along a curb in a suburban neighborhood. In the foreground, a yellow van sits in a parking lane, while behind it a larger yellow school bus displays the word **\u201cSCHOOL\u201d** on its front electronic sign. Tall evergreen and leafy trees line the road, and the vehicles rest on a paved street with neatly cut grass and a sidewalk nearby.",
+    "ms": 1262,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 82,
+      "total_tokens": 490,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S001|PS00|T5": {
+    "text": "The scene shows two yellow vehicles parked side by side along a suburban roadside. On the left is a large school bus with an orange-and-yellow front, a \u201cSCHOOL\u201d sign lit in the windshield area, and rows of windows along its side. On the right is a smaller yellow van, also with a plain front grille and windshield, positioned slightly ahead in the roadway. Trees and tall evergreen and leafy foliage surround the area, and a curb with a strip of green grass runs along the right side, suggesting a quiet neighborhood or school pickup zone.",
+    "ms": 1878,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 113,
+      "total_tokens": 521,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003|PS00|T1": {
+    "text": "The scene shows two yellow vehicles parked on a paved road near a grassy sidewalk and tall evergreen trees. On the left is a large school bus with a \u201cSCHOOL\u201d sign lit on the front, while on the right is a yellow van in the same color. Both vehicles appear to be stopped or waiting in a quiet, suburban or campus-like setting.",
+    "ms": 1208,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 74,
+      "total_tokens": 482,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003|PS00|T2": {
+    "text": "The scene shows two yellow vehicles parked along a paved road beside a grassy verge and tall trees. On the left is a large school bus with the word \u201cSCHOOL\u201d displayed on the front, while on the right is a smaller yellow van. Both vehicles are stopped near a curb/sidewalk area, and the background is filled with dense evergreen trees under daylight.",
+    "ms": 1551,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 76,
+      "total_tokens": 484,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003|PS00|T3": {
+    "text": "The scene shows two yellow vehicles parked side by side on a paved roadway outdoors. On the left is a large school bus with \u201cSCHOOL\u201d displayed near the front, and on the right is a yellow van. Both vehicles are stopped along the curb with trees and tall evergreen trees in the background, giving the setting a calm, suburban or campus-like atmosphere.",
+    "ms": 1706,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 75,
+      "total_tokens": 483,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003|PS00|T4": {
+    "text": "A sunny day at the edge of a quiet neighborhood or school area shows two yellow vehicles parked along a curb. On the left is a large school bus with the word \u201cSCHOOL\u201d displayed on the front, tinted windows, and bright yellow paint. In the foreground/right is a smaller yellow van (with a dark grille and windshield) pulling into or parked in the road. Behind them, tall evergreen trees and other leafy trees create a green, park-like backdrop. The pavement and sidewalk curve along the scene, with clear shadows cast by the vehicles.",
+    "ms": 1547,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 113,
+      "total_tokens": 521,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003|PS00|T5": {
+    "text": "A bright yellow school bus and a yellow van are parked side by side along a paved road near a grassy roadside. The bus is stopped in the lane with its front end facing the camera, showing the word \u201cSCHOOL\u201d on the sign above the windshield. Behind and around them are dense evergreen and leafy trees, creating a green, park-like setting on a sunny day.",
+    "ms": 1900,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 78,
+      "total_tokens": 486,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G001|PS00|T1": {
+    "text": "The scene shows two yellow vehicles parked on a paved roadside near trees. On the left is a school bus with the word \u201cSCHOOL\u201d lit on the front sign. On the right is a smaller yellow van facing the opposite direction, both positioned along a curb in a park-like, wooded area. Sunlight filters through the trees, and the background is filled with tall evergreen and deciduous foliage.",
+    "ms": 1998,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 83,
+      "total_tokens": 491,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G001|PS00|T2": {
+    "text": "A bright yellow school bus and a smaller yellow van are parked on the edge of a paved road beside a grassy lawn. The school bus is stopped near the curb with its front facing the camera, its sign reading \u201cSCHOOL\u201d illuminated. Behind them, tall evergreen and leafy trees fill the background, creating a park-like setting in daylight.",
+    "ms": 1963,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 71,
+      "total_tokens": 479,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G001|PS00|T3": {
+    "text": "The scene shows two yellow vehicles parked along a driveway lined with tall evergreen trees. On the left is a large school bus with its front lights on and the word \u201cSCHOOL\u201d displayed above the windshield. In front of it, closer to the camera, is a smaller yellow van angled slightly toward the viewer. Both vehicles are stationary on a paved road/parking area, with grass edging the roadway and leaves and branches framing the background.",
+    "ms": 1791,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 90,
+      "total_tokens": 498,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G001|PS00|T4": {
+    "text": "The scene shows two yellow vehicles parked on the side of a road bordered by green grass and tall trees. In the left foreground, a school bus with a \u201cSCHOOL\u201d sign in its front display is stopped at an angle, its doors closed and headlights on. To the right, a smaller yellow cargo van sits parallel along the curb. The background is filled with dense evergreen and leafy trees, suggesting a suburban or campus setting with calm, clear weather.",
+    "ms": 1494,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 94,
+      "total_tokens": 502,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G001|PS00|T5": {
+    "text": "The image shows two yellow vehicles parked on a sunny roadside beside tall green trees. On the left is a school bus with the word \u201cSCHOOL\u201d displayed above the front windshield; it\u2019s angled slightly toward the camera. On the right is a smaller yellow van in the foreground, stopped in the adjacent lane. The scene looks calm and suburban, with the vehicles resting near a curb and sidewalk.",
+    "ms": 2157,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 82,
+      "total_tokens": 490,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G003|PS00|T1": {
+    "text": "The scene shows two yellow school vehicles parked on a paved road beside a grassy verge and dense, green trees. On the left, a large school bus with \u201cSCHOOL\u201d displayed in bright lights on the front and an open-view front door area. On the right, a smaller yellow van (also with a similar front design) is parked close to the curb, facing the same direction. Sunlight filters through the trees, giving the area a calm, suburban school-zone atmosphere.",
+    "ms": 1590,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 99,
+      "total_tokens": 507,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G003|PS00|T2": {
+    "text": "The scene shows two yellow school vehicles parked on a quiet suburban road lined with green trees. On the left is a large school bus with a \u201cSCHOOL\u201d sign on the front. On the right is a smaller yellow van. Both vehicles are stopped near the curb, with sunlight filtering through the foliage and a grassy verge visible along the roadside.",
+    "ms": 1371,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 72,
+      "total_tokens": 480,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G003|PS00|T3": {
+    "text": "The scene shows two bright yellow school vehicles parked on the side of a road. On the left, a yellow school bus with the word \u201cSCHOOL\u201d displayed on the front is stopped along a curb, with its windshield and side windows visible. In the foreground to the right, a smaller yellow van is parked facing the same direction, partially overlapping the road space. Behind them, dense green trees and shrubs line the area, and the sunlight suggests a clear daytime setting.",
+    "ms": 1617,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 97,
+      "total_tokens": 505,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G003|PS00|T4": {
+    "text": "The scene shows two yellow vehicles parked on the side of a road surrounded by trees. On the left is a large school bus with a red \u201cSCHOOL\u201d sign on the front and tinted windows along its side. On the right is a smaller yellow van, angled slightly toward the camera, as if arriving or waiting nearby. The weather looks calm and sunny, and the background is filled with tall evergreen trees and some autumn-colored foliage.",
+    "ms": 1618,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 90,
+      "total_tokens": 498,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G003|PS00|T5": {
+    "text": "The scene shows two yellow vehicles parked along a road bordered by green trees. On the left is a large school bus with the word **\u201cSCHOOL\u201d** displayed above the windshield, along with its distinctive yellow color and extended side windows. On the right is a smaller yellow van pulled into a parking lane or driveway, facing the same direction. The background is filled with tall evergreen trees and some autumn-colored leaves, under bright daylight.",
+    "ms": 1399,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 90,
+      "total_tokens": 498,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G004|PS00|T1": {
+    "text": "The image shows two yellow vehicles parked on a suburban roadway beside a grassy strip and trees. In the left background, a bright school bus with the word \u201cSCHOOL\u201d on its front display is stopped near the curb. In the foreground, a yellow cargo van sits angled toward the road. Tall evergreen and leafy trees fill the background, giving the scene a calm, outdoor setting.",
+    "ms": 2071,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 79,
+      "total_tokens": 487,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G004|PS00|T2": {
+    "text": "The image shows a school area with two vehicles stopped on a paved road beside grassy lawns. A large yellow school bus with \u201cSCHOOL\u201d displayed in red on the front is parked on the left, while a smaller bright yellow van is parked close to the curb in the right foreground. In the background, tall evergreen trees and other greenery fill the scene, suggesting an outdoor campus or neighborhood setting during daylight.",
+    "ms": 1655,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 84,
+      "total_tokens": 492,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G004|PS00|T3": {
+    "text": "The scene shows two vehicles parked along the edge of a road in a wooded area. On the left is a large yellow school bus with a red-tinted \u201cSCHOOL\u201d sign on the front, its windows and headlights visible. In front of it, to the right, there is a smaller yellow van stopped at an angle near the curb. Behind them, tall evergreen and leafy trees line the background, and the setting looks like a school or campus parking area on a clear day.",
+    "ms": 2214,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 100,
+      "total_tokens": 508,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G004|PS00|T4": {
+    "text": "A sunny outdoor scene shows two school vehicles parked along a paved road in front of tall green trees. On the left, a bright yellow school bus has \u201cSCHOOL\u201d displayed on the front sign. On the right, a yellow cargo van is parked in the same area. A grassy verge and a sidewalk border the road, and the vehicles face toward the camera at a slight angle.",
+    "ms": 1975,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 80,
+      "total_tokens": 488,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G004|PS00|T5": {
+    "text": "A bright yellow school bus and a yellow van are parked side by side on a paved road beside a sidewalk. The school bus has \u201cSCHOOL\u201d lit on its front display and its windows line the side, while the van faces the camera and appears ready for pick-up or drop-off. In the background, dense green and evergreen trees fill the area, giving the scene a quiet, suburban feel.",
+    "ms": 1936,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 83,
+      "total_tokens": 491,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G005|PS00|T1": {
+    "text": "A bright school bus in vivid yellow-green is parked on the side of a road, facing the camera. Its front display reads \u201cSCHOOL\u201d and the windows line the sides. In the foreground to the right, a yellow cargo van is parked alongside the bus. Both vehicles are stopped near a curb, with neatly kept green grass and tall trees filling the background under daylight in a suburban setting.",
+    "ms": 1473,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 82,
+      "total_tokens": 490,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G005|PS00|T2": {
+    "text": "The scene shows two school vehicles parked along a suburban roadway. On the left is a bright yellow-green school bus with black trim and a digital sign on the front that reads \u201cSCHOOL,\u201d surrounded by tall trees with dense green foliage. To the right is a yellow van angled toward the camera, stopped in the parking area beside the bus. The background is filled with evergreen and deciduous trees, and the vehicles are resting on a paved street with a curb and a strip of grass nearby.",
+    "ms": 1557,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 101,
+      "total_tokens": 509,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G005|PS00|T3": {
+    "text": "A school bus painted bright lime green is stopped in a driveway or parking area, with the word \u201cSCHOOL\u201d lit on the front sign. A yellow van is parked next to it, and both vehicles sit along a paved road bordered by neatly trimmed grass and tall evergreen and leafy trees in the background. The scene feels like the morning routine around a school, under clear daylight.",
+    "ms": 1595,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 79,
+      "total_tokens": 487,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G005|PS00|T4": {
+    "text": "The scene shows two parked vehicles on a roadside near trees. A bright lime-green school bus with a \u201cSCHOOL\u201d sign in its front window is stopped in the background on a paved area. In the foreground, a yellow cargo van sits in the adjacent lane, angled slightly toward the camera. The setting is outdoors with green grass along the curb and tall evergreen trees and other leafy trees surrounding the area, suggesting a suburban or campus environment.",
+    "ms": 1857,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 91,
+      "total_tokens": 499,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G005|PS00|T5": {
+    "text": "The scene shows two parked vehicles on a sunny day outdoors. A bright lime-green school bus with a \u201cSCHOOL\u201d sign on the front and yellow trim is stopped in the background. In the foreground, a yellow cargo van sits in the adjacent lane, angled slightly toward the camera. Trees and tall evergreen and deciduous foliage fill the background along a paved road with a sidewalk and grassy verge, giving the setting a suburban, school-area feel.",
+    "ms": 2225,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 92,
+      "total_tokens": 500,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G006|PS00|T1": {
+    "text": "A bright, sunlit suburban street is lined with tall evergreen trees. In the foreground, two school vehicles are parked side by side: a lime-green school bus on the left with \u201cSCHOOL\u201d displayed in bright letters above the windshield, and a yellow van on the right. Both vehicles face the viewer, parked along the road near a curb and sidewalk, with the calm outdoor setting suggesting a school pickup or drop-off area.",
+    "ms": 1587,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 89,
+      "total_tokens": 497,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G006|PS00|T2": {
+    "text": "The scene shows two parked vehicles on a sunny day along a road lined with trees. On the left is a bright green school bus with \u201cSCHOOL\u201d displayed in yellow on the front sign; its windows and front grille are clearly visible. On the right is a yellow van (likely a service or shuttle vehicle) angled slightly toward the camera. Both vehicles sit near the curb and driveway edge, with a background of dense evergreen trees and leafy foliage.",
+    "ms": 1570,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 93,
+      "total_tokens": 501,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G006|PS00|T3": {
+    "text": "A bright yellow school van and a lime-green school bus are parked side by side along a paved road, with trees and tall evergreen foliage in the background. The bus has an illuminated \u201cSCHOOL\u201d sign on the front and black-and-yellow trim, while the yellow van sits slightly closer to the camera with its windshield and front grille visible. The setting looks like a quiet campus or suburban street, with grass along the edge and clear daylight.",
+    "ms": 1629,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 91,
+      "total_tokens": 499,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G006|PS00|T4": {
+    "text": "The scene shows two parked vehicles at the edge of a paved road in a park-like setting with tall trees. On the left is a bright lime-green school bus with a red-and-yellow \u201cSCHOOL\u201d sign in the front and black window trim. On the right is a yellow cargo van pulled up along the curb. Late-afternoon sunlight filters through the trees, casting soft shadows on the pavement and nearby grass.",
+    "ms": 1874,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 86,
+      "total_tokens": 494,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|G006|PS00|T5": {
+    "text": "A bright green school bus and a yellow van are parked side by side along a paved road, near a grassy edge. The school bus has \u201cSCHOOL\u201d displayed in illuminated letters on the front and windows along its side, while the yellow van is positioned slightly in front-right of it. Behind them are tall evergreen trees and other leafy foliage, creating a wooded, suburban setting in daylight.",
+    "ms": 1485,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 81,
+      "total_tokens": 489,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  }
+}
