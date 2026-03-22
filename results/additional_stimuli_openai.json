@@ -1,0 +1,2417 @@
+{
+  "GPT54|S002|PS00|T1": {
+    "text": "A yellow school bus and a yellow cargo van are parked or stopped side by side on a suburban street. The bus is on the left, with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. The road is lined with sidewalks, grass, and tall leafy trees, giving the area a quiet neighborhood feel. The scene appears to be during the day with clear, bright weather.",
+    "ms": 3478,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 85,
+      "total_tokens": 493,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S002|PS00|T2": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet, tree-lined street. The school bus is on the left, with \u201cSCHOOL\u201d clearly displayed above the windshield, and the van is on the right, slightly in front of it. The road appears clean and suburban, with sidewalks, grass, and tall green trees in the background under daylight.",
+    "ms": 2736,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 81,
+      "total_tokens": 489,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S002|PS00|T3": {
+    "text": "A bright yellow school bus and a matching yellow cargo van are parked side by side on a suburban street. The bus is on the left with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right, slightly in front of it. The road is lined with green trees and neatly maintained grass, suggesting a quiet residential or school-area neighborhood on a clear day.",
+    "ms": 2857,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 79,
+      "total_tokens": 487,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S002|PS00|T4": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a suburban street. The school bus is on the left, with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. The road is lined with green trees and neat sidewalks, giving the scene a calm, residential feel on a clear day.",
+    "ms": 2634,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 73,
+      "total_tokens": 481,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S002|PS00|T5": {
+    "text": "A bright yellow school bus and a yellow cargo van are stopped side by side on a suburban street. The school bus is on the left, with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right, slightly ahead. The road is lined with green trees and neatly kept grass, giving the scene a calm, daytime neighborhood feel.",
+    "ms": 2476,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 74,
+      "total_tokens": 482,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S002|PS00|T1": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The bus is on the left, facing forward, with \u201cSCHOOL\u201d clearly displayed above the windshield and rows of windows along its side. The van is on the right, also facing forward, with a plain boxy shape and no visible branding.\n\nThe street is lined with trees and greenery, suggesting a calm neighborhood or school area. The scene is well lit, likely on a clear day, with the vehicles standing out strongly against the muted pavement and leafy background.",
+    "ms": 2492,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 117,
+      "total_tokens": 525,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S002|PS00|T2": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban street. The school bus is on the left, with \u201cSCHOOL\u201d displayed above the windshield, and the van is on the right. Both vehicles are facing forward, with trees and green lawns lining the road in the background on a sunny day.",
+    "ms": 1632,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 72,
+      "total_tokens": 480,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S002|PS00|T3": {
+    "text": "A bright yellow school bus and a yellow cargo van are parked side by side on a quiet suburban road. The school bus is on the left, large and clearly marked \u201cSCHOOL\u201d on the front, while the van is on the right in a matching yellow color. They\u2019re surrounded by tall green trees and a well-kept roadside with grass and a curb, giving the scene a calm, tree-lined neighborhood feel.",
+    "ms": 1680,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 87,
+      "total_tokens": 495,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S002|PS00|T4": {
+    "text": "A yellow school bus and a bright yellow cargo van are parked side by side on a quiet suburban street. The school bus is larger and sits to the left, with \u201cSCHOOL\u201d displayed across the front. The van is to the right, smaller and boxy, with no windows on the side panels. Both vehicles are on the road near a curb, with trees and green grass lining the street in the background. The scene looks calm and daytime-lit, with clear weather and a neighborhood feel.",
+    "ms": 1721,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 103,
+      "total_tokens": 511,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S002|PS00|T5": {
+    "text": "A yellow school bus and a bright yellow cargo van are parked side by side on a quiet suburban street. The school bus is on the left, facing forward with \u201cSCHOOL\u201d displayed across the top, and the van is on the right, slightly ahead of it. Both vehicles stand out against a tree-lined background with green and gold foliage, suggesting a calm day in late summer or early fall. The road is clean and empty, with sidewalks and neatly kept grass along the edges.",
+    "ms": 1577,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 100,
+      "total_tokens": 508,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S002|PS00|T1": {
+    "text": "The image shows two yellow vehicles parked along the side of a road in a leafy, wooded area. In the left foreground, a large school bus is stopped at an angle, its front lights on and the word **\u201cSCHOOL\u201d** displayed above the windshield. On the right, a smaller yellow van is parked in a nearby lane. Tall evergreen trees and other greenery form the background, creating a quiet school-area setting under daylight.",
+    "ms": 2039,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 90,
+      "total_tokens": 498,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S002|PS00|T2": {
+    "text": "The scene shows two yellow vehicles parked on a quiet road in a tree-lined area. On the left is a full-size school bus with \u201cSCHOOL\u201d lit on its front sign, and its doors and windows are clearly visible. On the right is a smaller yellow van parked nearby. Both vehicles match in color and appear to be waiting or picking up passengers in a suburban neighborhood with tall evergreen trees and a grassy verge.",
+    "ms": 2005,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 87,
+      "total_tokens": 495,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S002|PS00|T3": {
+    "text": "The scene shows two yellow vehicles parked on a sunny roadside bordered by green grass and tall trees. On the left is a large school bus with \u201cSCHOOL\u201d displayed on its front destination sign. On the right is a smaller yellow van stopped nearby, with their front ends facing toward the camera. The setting looks like a quiet area near a school or campus, with calm traffic and bright autumn-like foliage in the background.",
+    "ms": 2367,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 87,
+      "total_tokens": 495,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S002|PS00|T4": {
+    "text": "A sunny outdoor scene shows two yellow vehicles parked along a paved roadway near trees. On the left, a school bus with an orange sign on the front that reads \u201cSCHOOL\u201d is stopped at the curb. On the right, a smaller yellow van is pulled into the parking area beside it. Tall evergreen trees line the background, and the driveway/road curves slightly with a strip of grass at the edge.",
+    "ms": 1884,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 85,
+      "total_tokens": 493,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S002|PS00|T5": {
+    "text": "Two bright yellow school vehicles are parked on a paved road outside, surrounded by tall green trees and autumn-colored foliage. On the left, a large yellow school bus shows a \u201cSCHOOL\u201d sign in its front destination display. On the right, a smaller yellow van is stopped nearby, both facing the camera in a quiet roadside setting.",
+    "ms": 2196,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 70,
+      "total_tokens": 478,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S004|PS00|T1": {
+    "text": "A simple still life is arranged on a wooden table. On the left, a wooden cutting board holds a kitchen knife and a single carrot. On the right, a bowl contains a bunch of bananas, and a bright blue apple sits in front of it. The background is plain and light-colored, giving the scene a clean, minimal look.",
+    "ms": 2271,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 460,
+      "completion_tokens": 71,
+      "total_tokens": 531,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S004|PS00|T2": {
+    "text": "A simple kitchen still life sits on a wooden table. In the foreground, a wooden cutting board holds a chef\u2019s knife and a single carrot. To the right, there\u2019s a white bowl filled with several bananas, and in front of it sits a bright blue apple. The background is plain and light-colored, giving the scene a clean, minimal look.",
+    "ms": 2476,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 460,
+      "completion_tokens": 74,
+      "total_tokens": 534,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S004|PS00|T3": {
+    "text": "A simple tabletop still life is shown on a wooden table.\n\n- A wooden cutting board sits on the left.\n- On the cutting board, there is a kitchen knife and a whole carrot.\n- To the right, a bowl holds a bunch of bananas.\n- In front of the bowl, there is a single blue apple.\n\nThe background is plain and light-colored, giving the scene a clean, minimal look.",
+    "ms": 2390,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 460,
+      "completion_tokens": 85,
+      "total_tokens": 545,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S004|PS00|T4": {
+    "text": "A simple tabletop kitchen scene is shown on a wooden table. On the left, a wooden cutting board holds a chef\u2019s knife and a whole carrot. On the right, there\u2019s a light-colored bowl filled with several bananas, and in front of it sits a bright blue apple. The background is plain and light-colored, giving the image a clean, minimal look.",
+    "ms": 2607,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 460,
+      "completion_tokens": 76,
+      "total_tokens": 536,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S004|PS00|T5": {
+    "text": "A simple tabletop still life is shown on a wooden table.\n\n- In the foreground, a wooden cutting board holds a chef\u2019s knife and a single orange carrot.\n- To the right, there\u2019s a bright blue apple sitting on the table.\n- In the background, a white bowl contains a bunch of bananas.\n\nThe scene is neatly arranged, with a plain light-colored wall behind it and soft, even lighting.",
+    "ms": 2667,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 460,
+      "completion_tokens": 85,
+      "total_tokens": 545,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S004|PS00|T1": {
+    "text": "A simple kitchen still life on a wooden table. In the foreground, a metal kitchen knife lies on a wooden cutting board beside a single carrot. To the right, there\u2019s a bowl filled with bananas and a blue apple placed next to it. The background is plain and light-colored, giving the scene a clean, minimal look.",
+    "ms": 1175,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 460,
+      "completion_tokens": 69,
+      "total_tokens": 529,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S004|PS00|T2": {
+    "text": "A still-life kitchen scene on a wooden table: a cutting board holds a chef\u2019s knife and a single carrot. To the right, there\u2019s a bowl filled with bananas, and in front of it sits a blue apple. The background is plain and light, giving the scene a clean, simple look.",
+    "ms": 1529,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 460,
+      "completion_tokens": 64,
+      "total_tokens": 524,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S004|PS00|T3": {
+    "text": "A wooden tabletop holds a cutting board with a chef\u2019s knife and a single carrot on it. To the right, there\u2019s a bowl filled with bananas, and a blue apple sits in front of the bowl. The scene is softly lit against a plain light background, giving it a clean, simple kitchen still-life look.",
+    "ms": 1073,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 460,
+      "completion_tokens": 67,
+      "total_tokens": 527,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S004|PS00|T4": {
+    "text": "A still-life kitchen scene on a wooden table: a chef\u2019s knife lies on a small wooden cutting board beside a single carrot. To the right, there\u2019s a bowl filled with bananas and a blue apple sitting in front of it. The background is plain and softly lit, giving the setup a clean, simple look.",
+    "ms": 1429,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 460,
+      "completion_tokens": 67,
+      "total_tokens": 527,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S004|PS00|T5": {
+    "text": "A wooden tabletop holds a simple kitchen still life: a cutting board with a chef\u2019s knife and a carrot on it, a bowl of bananas to the right, and a blue apple in the foreground. The background is plain and light-colored, giving the scene a clean, minimal look.",
+    "ms": 1393,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 460,
+      "completion_tokens": 60,
+      "total_tokens": 520,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S004|PS00|T1": {
+    "text": "A still-life scene shows a wooden cutting board on a light wood table, with a chef\u2019s knife lying diagonally across it and a single orange carrot placed near the center. To the right, a bowl filled with bananas sits near the edge of the table, and beside the bowl there\u2019s a blue onion. The background is a plain off-white wall, giving the scene a clean, minimal look.",
+    "ms": 1501,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 460,
+      "completion_tokens": 83,
+      "total_tokens": 543,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S004|PS00|T2": {
+    "text": "A bright, staged kitchen scene shows a wooden cutting board on a light wooden table. A large chef\u2019s knife lies on the board beside a single orange carrot. To the right, there\u2019s a bowl filled with ripe bananas, and near the bowl sits a round, blue fruit or vegetable. The background is a plain white wall, and the lighting is soft and even.",
+    "ms": 1587,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 460,
+      "completion_tokens": 77,
+      "total_tokens": 537,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S004|PS00|T3": {
+    "text": "On a wooden countertop, a cutting board sits near the left side with a chef\u2019s knife resting on it. Beside the board are two carrots. To the right, there\u2019s a bowl filled with bananas, and next to the bowl a single blue apple (or similar fruit) sits by itself. The background is a plain, light surface, giving the scene a clean, staged look.",
+    "ms": 1552,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 460,
+      "completion_tokens": 81,
+      "total_tokens": 541,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S004|PS00|T4": {
+    "text": "On a wooden tabletop, a cutting board sits in the foreground with a chef\u2019s knife resting on it. A single carrot lies horizontally on the board. To the right, there\u2019s a bowl filled with several bananas, and next to the bowl sits a round blue fruit. The setting is simple and brightly lit, like a staged food-prep scene.",
+    "ms": 1222,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 460,
+      "completion_tokens": 73,
+      "total_tokens": 533,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S004|PS00|T5": {
+    "text": "A still-life scene shows a wooden cutting board on a tabletop with a chef\u2019s knife placed diagonally across it. A single peeled carrot lies on the board. To the right, a bowl filled with several bananas sits on the table. Nearby, a blue fruit (resembling an apple) rests close to the bowl. The background is a plain light-colored wall, keeping the focus on the produce and the knife.",
+    "ms": 1355,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 460,
+      "completion_tokens": 86,
+      "total_tokens": 546,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S004|PS02|T1": {
+    "text": "The objects are colored as follows:\n\n- **Carrot:** bright orange  \n- **Knife:** silver/metallic blade and handle  \n- **Cutting board:** light to medium brown wood  \n- **Bananas:** yellow with a bit of brown at the stems/tips  \n- **Bowl:** off-white/light beige  \n- **Apple:** bright blue  \n- **Table:** light brown wood  \n- **Background:** light gray to off-white",
+    "ms": 2846,
+    "trial": 1,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 466,
+      "completion_tokens": 93,
+      "total_tokens": 559,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S004|PS02|T2": {
+    "text": "The objects are colored as follows:\n\n- **Carrot:** bright orange  \n- **Knife:** silver/metallic blade and handle  \n- **Cutting board:** light to medium brown wood  \n- **Bananas:** yellow with a little green/brown near the stems  \n- **Bowl:** off-white/light beige  \n- **Apple:** bright blue  \n- **Table:** light brown wood  \n- **Background wall:** white to light gray",
+    "ms": 2723,
+    "trial": 2,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 466,
+      "completion_tokens": 92,
+      "total_tokens": 558,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S004|PS02|T3": {
+    "text": "The objects are colored as follows:\n\n- **Carrot:** bright orange  \n- **Knife:** silver/metallic blade and handle  \n- **Cutting board:** light to medium brown wood  \n- **Bananas:** yellow with a little brown near the stems/tips  \n- **Bowl:** off-white or light beige  \n- **Apple:** bright blue  \n- **Table:** light brown wood  \n- **Background wall:** light gray to off-white",
+    "ms": 2697,
+    "trial": 3,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 466,
+      "completion_tokens": 94,
+      "total_tokens": 560,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S004|PS02|T4": {
+    "text": "The objects have these colors:\n\n- **Cutting board:** light to medium brown wood\n- **Knife:** silver blade and silver/gray handle\n- **Carrot:** bright orange\n- **Bowl:** off-white or light beige\n- **Bananas:** yellow with a little brown at the stem/tips\n- **Apple:** bright blue\n- **Table:** light brown wood\n- **Background:** white to very light gray",
+    "ms": 3043,
+    "trial": 4,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 466,
+      "completion_tokens": 92,
+      "total_tokens": 558,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S004|PS02|T5": {
+    "text": "The objects have these colors:\n\n- **Carrot:** bright orange  \n- **Knife:** silver blade with a silver/gray handle  \n- **Cutting board:** light to medium brown wood  \n- **Bananas:** yellow with a little green/brown near the stems  \n- **Bowl:** off-white or light beige  \n- **Apple:** bright blue  \n- **Table:** light brown wood  \n- **Background:** white to light gray gradient",
+    "ms": 2529,
+    "trial": 5,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 466,
+      "completion_tokens": 93,
+      "total_tokens": 559,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S004|PS02|T1": {
+    "text": "- **Cutting board:** light to medium brown wood  \n- **Knife handle:** metallic silver/gray  \n- **Knife blade:** shiny silver  \n- **Carrot:** bright orange  \n- **Bananas:** yellow to golden yellow with some brown tips/stems  \n- **Bowl:** light beige/cream with a darker rim  \n- **Apple:** blue  \n- **Table:** light honey-brown wood  \n- **Background wall:** off-white / very light gray",
+    "ms": 1195,
+    "trial": 1,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 466,
+      "completion_tokens": 98,
+      "total_tokens": 564,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S004|PS02|T2": {
+    "text": "Here are the main object colors in the image:\n\n- **Carrot:** orange\n- **Knife:** silver metal blade with a gray/silver handle\n- **Cutting board:** light to medium brown wood\n- **Bananas:** yellow with some brown tips/stems\n- **Bowl:** off-white/cream with a light brown rim\n- **Apple:** blue\n- **Table:** light brown wood\n- **Background wall:** pale off-white/white",
+    "ms": 1521,
+    "trial": 2,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 466,
+      "completion_tokens": 98,
+      "total_tokens": 564,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S004|PS02|T3": {
+    "text": "Here are the main object colors in the image:\n\n- **Carrot:** bright orange\n- **Knife:** silver metal blade with a gray handle\n- **Cutting board:** light to medium brown wood\n- **Bananas:** yellow-orange with some brown on the tips and stem\n- **Bowl:** off-white/light beige with a brown rim\n- **Apple:** blue\n- **Table:** light brown wood\n- **Background wall:** white to light gray\n\n",
+    "ms": 1208,
+    "trial": 3,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 466,
+      "completion_tokens": 99,
+      "total_tokens": 565,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S004|PS02|T4": {
+    "text": "Here are the main colors of the objects:\n\n- **Carrot:** orange\n- **Knife:** silver/metallic gray with a dark gray handle\n- **Cutting board:** light to medium brown wood\n- **Bananas:** yellow-orange with dark brown tips\n- **Bowl:** light beige/cream with a brown rim\n- **Apple:** blue\n- **Table:** light brown wood\n- **Background wall:** off-white/light gray\n\n",
+    "ms": 1101,
+    "trial": 4,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 466,
+      "completion_tokens": 96,
+      "total_tokens": 562,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S004|PS02|T5": {
+    "text": "Here are the main object colors in the image:\n\n- **Knife:** silver blade with a dark gray/black handle\n- **Cutting board:** light to medium brown wood\n- **Carrot:** orange\n- **Bowl:** off-white/cream with a brown rim\n- **Bananas:** yellow-orange with dark brown tips\n- **Apple:** bright blue\n- **Table:** light brown wood\n- **Background wall:** pale white/gray\n\n",
+    "ms": 1377,
+    "trial": 5,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 466,
+      "completion_tokens": 97,
+      "total_tokens": 563,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S004|PS02|T1": {
+    "text": "The image shows these main object colors:\n\n- **Bananas:** light yellow to golden-yellow with brown speckles on the peel  \n- **Bowl (with bananas):** light beige/cream  \n- **Blue onion:** bright blue with a slightly darker blue top area  \n- **Carrot:** orange with a greenish stem end  \n- **Kitchen knife:** silver/gray metal with a darker gray handle  \n- **Cutting board:** warm medium to light brown wood",
+    "ms": 1642,
+    "trial": 1,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 466,
+      "completion_tokens": 98,
+      "total_tokens": 564,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S004|PS02|T2": {
+    "text": "- **Bananas:** yellow to golden-yellow with lighter cream-colored interiors  \n- **Bowl:** light beige/cream  \n- **Carrot:** bright orange  \n- **Onion (blue object):** vivid blue with darker blue shading and a glossy surface  \n- **Knife:** metallic silver/gray with a dark gray/black handle",
+    "ms": 2087,
+    "trial": 2,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 466,
+      "completion_tokens": 71,
+      "total_tokens": 537,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S004|PS02|T3": {
+    "text": "- **Bananas:** yellow to golden-yellow with brown stem tips  \n- **Bowl:** light/cream beige color (off-white)  \n- **Carrot:** bright orange  \n- **Knife:** metallic silver with a dark gray/black handle  \n- **Blue ball (on the right):** vivid blue with a darker blue top/patch area",
+    "ms": 1376,
+    "trial": 3,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 466,
+      "completion_tokens": 74,
+      "total_tokens": 540,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S004|PS02|T4": {
+    "text": "- **Bananas (in the bowl):** light yellow to golden yellow, with brown stems.  \n- **Bowl:** light beige/tan ceramic with a smooth matte finish.  \n- **Carrot:** bright orange.  \n- **Onion:** deep blue (blue-purple) with a smooth outer layer.  \n- **Knife:** metallic gray blade with a dark gray/silver handle.  \n- **Cutting board & table:** warm light-brown/wood tones.  \n- **Background:** very light/white.",
+    "ms": 1367,
+    "trial": 4,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 466,
+      "completion_tokens": 110,
+      "total_tokens": 576,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S004|PS02|T5": {
+    "text": "- **Bananas:** yellow to light golden yellow  \n- **Bowl (with bananas):** light tan/beige  \n- **Carrot:** orange  \n- **Apple/onion-like round fruit (blue):** bright blue with darker blue shading  \n- **Knife:** silver/gray blade with a metallic handle (dark gray)  \n- **Cutting board:** light to medium natural wood brown",
+    "ms": 1645,
+    "trial": 5,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 466,
+      "completion_tokens": 83,
+      "total_tokens": 549,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S004|PS04|T1": {
+    "text": "The bananas appear a normal ripe yellow with slight brown at the stem tips.  \nThe carrot is a normal orange.  \nThe apple is blue, which is not a color you would normally expect for an apple.\n\nSo yes: the unusual object is the apple.",
+    "ms": 1997,
+    "trial": 1,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the bananas, the carrot, and the apple. Are any of these objects a different color than you would normally expect?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 487,
+      "completion_tokens": 55,
+      "total_tokens": 542,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S004|PS04|T2": {
+    "text": "The bananas appear a normal ripe yellow with slight brown at the stem and tips.\n\nThe carrot is a normal orange.\n\nThe apple is blue, which is not the color you would normally expect for an apple. Apples are typically red, green, or yellow.",
+    "ms": 2509,
+    "trial": 2,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the bananas, the carrot, and the apple. Are any of these objects a different color than you would normally expect?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 487,
+      "completion_tokens": 54,
+      "total_tokens": 541,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S004|PS04|T3": {
+    "text": "The bananas appear a normal yellow with a slight warm orange tint, which is typical for ripe bananas.\n\nThe carrot is orange, also normal.\n\nThe apple is bright blue, which is not a normal natural apple color. So yes: the apple is a different color than you would normally expect.",
+    "ms": 1834,
+    "trial": 3,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the bananas, the carrot, and the apple. Are any of these objects a different color than you would normally expect?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 487,
+      "completion_tokens": 61,
+      "total_tokens": 548,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S004|PS04|T4": {
+    "text": "The bananas look like a normal ripe banana color: yellow with a slight warm/orange tint and some brown at the stem ends.\n\nThe carrot also looks normal: orange.\n\nThe apple is unusual: it appears bright blue, which is not the color you would normally expect for an apple. Normally, you\u2019d expect red, green, or yellow.",
+    "ms": 2229,
+    "trial": 4,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the bananas, the carrot, and the apple. Are any of these objects a different color than you would normally expect?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 487,
+      "completion_tokens": 72,
+      "total_tokens": 559,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S004|PS04|T5": {
+    "text": "The bananas appear a normal ripe yellow with slight brown at the stem/tips.\n\nThe carrot looks normal orange.\n\nThe apple is an unusual bright blue, which is not the color you\u2019d normally expect for an apple. Normally, you\u2019d expect it to be red, green, or yellow.",
+    "ms": 2260,
+    "trial": 5,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the bananas, the carrot, and the apple. Are any of these objects a different color than you would normally expect?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 487,
+      "completion_tokens": 61,
+      "total_tokens": 548,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S004|PS04|T1": {
+    "text": "Yes.\n\n- **Bananas:** They look **more orange-yellow than a typical bright yellow banana**, with some slightly brown tips. That\u2019s a bit darker/warmer than the usual ripe banana color.\n- **Carrot:** It looks like a **normal orange carrot**, though slightly muted by lighting.\n- **Apple:** The apple is **blue**, which is **not a normal apple color**. Apples are usually red, green, or yellow, so this is clearly an unusual color.",
+    "ms": 1152,
+    "trial": 1,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the bananas, the carrot, and the apple. Are any of these objects a different color than you would normally expect?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 487,
+      "completion_tokens": 102,
+      "total_tokens": 589,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S004|PS04|T2": {
+    "text": "Yes.\n\n- **Bananas:** They look a typical **yellow to yellow-orange** banana color, with some **brown tips** and a few darker spots. Nothing unusual.\n- **Carrot:** It\u2019s a normal **orange** carrot, maybe a bit muted by the lighting, but still expected.\n- **Apple:** This one is **blue**, which is **not** a normal apple color. Apples are usually red, green, or yellow, so this is clearly unusual.\n\nSo, the **apple** is the object that\u2019s a different color than you\u2019d normally expect.",
+    "ms": 1797,
+    "trial": 2,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the bananas, the carrot, and the apple. Are any of these objects a different color than you would normally expect?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 487,
+      "completion_tokens": 120,
+      "total_tokens": 607,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S004|PS04|T3": {
+    "text": "Yes \u2014 the objects are mostly plausible, but there are a couple of noticeable color differences from what you\u2019d normally expect:\n\n- **Bananas:** They are a fairly normal **yellow-orange** color, but they look a bit more **deep orange/yellow** than typical ripe bananas, which are often a brighter yellow.\n- **Carrot:** The carrot is a normal **orange** color, though it looks slightly muted/soft compared with a very vivid supermarket carrot.\n- **Apple:** The apple is **blue**, which is not a natural apple color. That is definitely unusual \u2014 apples are normally red, green, or yellow, not blue.\n\nSo the **apple is the clearly unexpected one**, while the bananas and carrot are mostly normal, just with slightly altered saturation/tones.",
+    "ms": 1925,
+    "trial": 3,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the bananas, the carrot, and the apple. Are any of these objects a different color than you would normally expect?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 487,
+      "completion_tokens": 160,
+      "total_tokens": 647,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S004|PS04|T4": {
+    "text": "Yes.\n\n- **Bananas:** They look **yellow to pale orange**, but a bit unusually **warm and saturated** compared with a typical ripe banana.\n- **Carrot:** It appears **orange**, which is normal for a carrot, though fairly vivid.\n- **Apple:** The apple is **blue**, which is **not a normal apple color**. Apples are usually red, green, or yellow, so this one is clearly an unusual, likely artificially colored object.",
+    "ms": 1587,
+    "trial": 4,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the bananas, the carrot, and the apple. Are any of these objects a different color than you would normally expect?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 487,
+      "completion_tokens": 98,
+      "total_tokens": 585,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S004|PS04|T5": {
+    "text": "Yes.\n\n- **Bananas:** They look **very yellow to yellow-orange**, with some **brown tips**. That\u2019s mostly normal for ripe bananas.\n- **Carrot:** It is **orange**, which is exactly what you\u2019d expect.\n- **Apple:** The apple is **bright blue**, which is **not a normal apple color**. Apples are usually red, green, or yellow, so this one is clearly unusual.\n\nSo the **apple is the object with a different-than-expected color**.",
+    "ms": 1390,
+    "trial": 5,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the bananas, the carrot, and the apple. Are any of these objects a different color than you would normally expect?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 487,
+      "completion_tokens": 106,
+      "total_tokens": 593,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S004|PS04|T1": {
+    "text": "- **Bananas:** They look **very light yellow to pale cream** (more \u201calmost white/yellow-cream\u201d than the typical **bright golden yellow** you\u2019d normally expect).  \n- **Carrot:** It\u2019s **orange**, but it appears **slightly muted / lighter orange** rather than the more vivid, saturated orange most carrots are.  \n- **Apple:** I don\u2019t see an apple in the image\u2014there\u2019s a **blue spherical fruit/object** instead (not an apple). If you meant that blue one, its color is **not at all normal for an apple**.",
+    "ms": 1466,
+    "trial": 1,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the bananas, the carrot, and the apple. Are any of these objects a different color than you would normally expect?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 487,
+      "completion_tokens": 125,
+      "total_tokens": 612,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S004|PS04|T2": {
+    "text": "- **Bananas:** They look like a *normal ripe banana yellow* overall, but the color is unusually **very saturated and \u201corange-yellow\u201d** rather than the more pale/yellow-to-golden tone you\u2019d typically expect.  \n- **Carrot:** The carrot appears **bright orange and very uniform**, which matches what you\u2019d normally expect for a carrot\u2019s color (no obvious unusual tint).  \n- **Apple:** There isn\u2019t an apple shown in the image\u2014there is a **blue-purple apple** (an out-of-place color). Compared to the normal expectation of a red/green/yellow apple, this one is **definitely not a typical apple color**.",
+    "ms": 1917,
+    "trial": 2,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the bananas, the carrot, and the apple. Are any of these objects a different color than you would normally expect?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 487,
+      "completion_tokens": 141,
+      "total_tokens": 628,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S004|PS04|T3": {
+    "text": "- **Bananas:** They look **a bit more yellow-orange (almost honey/golden)** than the typical bright yellow you\u2019d expect. Still natural, but the tone is warmer/darker than \u201cstandard supermarket yellow.\u201d\n- **Carrot:** The carrot is **bright orange**\u2014about what you\u2019d normally expect (no obvious unusual coloring).\n- **Apple:** In the image, the \u201cblue apple\u201d isn\u2019t actually a typical apple color\u2014it appears **distinctly blue** (the wrong/unnatural color compared to what you\u2019d normally expect).",
+    "ms": 2004,
+    "trial": 3,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the bananas, the carrot, and the apple. Are any of these objects a different color than you would normally expect?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 487,
+      "completion_tokens": 114,
+      "total_tokens": 601,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S004|PS04|T4": {
+    "text": "- **Bananas:** They look **more saturated and slightly more orange/yellow** than the \u201ctypical\u201d pale yellow you might expect\u2014closer to a warm golden tone. The peel is intact and there\u2019s no green at all, so they read as fully ripe.\n- **Carrot:** It\u2019s a **very bright orange** (almost \u201cneon\u201d compared to many photos/typical carrots), but that\u2019s still within what you\u2019d normally expect for a carrot\u2014just unusually vivid.\n- **Apple:** I **don\u2019t see an apple** in the image. The blue spherical fruit is likely an **apple-like prop or another fruit**, but its color is **blue**, which is **not** what you\u2019d normally expect for an apple.\n\n**Conclusion:** Yes\u2014one of the listed objects differs from normal: the \u201capple\u201d is **blue**, unlike an expected red/green/yellow apple. The bananas and carrot are unusual mainly in **saturation/brightness**, not in a completely unexpected hue.",
+    "ms": 2538,
+    "trial": 4,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the bananas, the carrot, and the apple. Are any of these objects a different color than you would normally expect?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 487,
+      "completion_tokens": 210,
+      "total_tokens": 697,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S004|PS04|T5": {
+    "text": "- **Bananas:** They appear to be a **very pale golden/cream-yellow** (almost light yellow/ivory) with a smooth, polished look. That\u2019s slightly **lighter than the typical \u201cbright yellow\u201d** you might expect for ripe bananas, but it\u2019s still within a normal range.\n\n- **Carrot:** The carrot is a **strong, saturated orange**, close to what you\u2019d normally expect. No obvious unusual tint (not pale, not red or brown).\n\n- **Apple:** The \u201capple\u201d shown is actually **blue**. A normal apple would be red, green, or yellow; **blue is not an expected natural color**, so this one is clearly different from what you\u2019d normally expect.",
+    "ms": 1647,
+    "trial": 5,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the bananas, the carrot, and the apple. Are any of these objects a different color than you would normally expect?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 487,
+      "completion_tokens": 150,
+      "total_tokens": 637,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S005|PS00|T1": {
+    "text": "A bright, sunny suburban scene with a large two-story house behind a white picket fence. The house has blue and beige siding, multiple gables, and a covered front porch. In front, there\u2019s a neatly maintained lawn, colorful flowering shrubs, and small ornamental trees. A tall evergreen stands to the right, and the sky is clear and blue. In the grass near the fence sits a small beige cube-shaped object.",
+    "ms": 3367,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 592,
+      "completion_tokens": 89,
+      "total_tokens": 681,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S005|PS00|T2": {
+    "text": "A bright, well-kept suburban home sits behind a long white picket fence on a sunny day. The house is two stories tall with blue and beige siding, white trim, multiple gables, and a covered front porch. The yard is neatly landscaped with green grass, flowering shrubs, and small trees, while a tall evergreen stands to the right. In the foreground, near the fence on the lawn, there is a plain light-colored cube.",
+    "ms": 2928,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 592,
+      "completion_tokens": 93,
+      "total_tokens": 685,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S005|PS00|T3": {
+    "text": "A bright, sunny suburban scene with a large two-story house behind a white picket fence. The house has blue and beige siding, multiple gables, and a covered front porch. The yard is neatly maintained with green grass, colorful flowering shrubs, and a few tall plants near the front. A large evergreen tree stands to the right, and there\u2019s a small light-colored box or cube sitting on the lawn in the foreground. The sky is clear and blue, giving the whole scene a clean, cheerful look.",
+    "ms": 3038,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 592,
+      "completion_tokens": 106,
+      "total_tokens": 698,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S005|PS00|T4": {
+    "text": "A bright, sunny suburban scene with a large two-story house behind a white picket fence. The house has blue-gray and beige siding, multiple gables, and a covered front porch. In front, there\u2019s a neatly landscaped yard with green grass, shrubs, and vivid pink flowers. A tall evergreen tree stands on the right side, and a small light-colored cube-shaped object sits on the lawn near the fence. The sky is clear and blue, giving the whole scene a clean, calm, well-kept appearance.",
+    "ms": 3113,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 592,
+      "completion_tokens": 108,
+      "total_tokens": 700,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S005|PS00|T5": {
+    "text": "A large, tidy suburban house sits behind a white picket fence on a bright sunny day. The home has blue and beige siding, multiple gables, and a covered front porch. A landscaped garden with vivid pink flowers and neatly trimmed shrubs lines the front yard. The lawn is green and well-kept, and a tall evergreen tree stands on the right side of the scene. In the foreground on the grass near the fence, there is a plain light-colored cube-shaped object.",
+    "ms": 2734,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 592,
+      "completion_tokens": 99,
+      "total_tokens": 691,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S005|PS00|T1": {
+    "text": "A bright suburban house with blue and beige siding sits behind a white picket fence. The front yard is neatly landscaped with green grass, flowering shrubs, and a tall evergreen tree on the right. The house has a covered porch, multiple gables, and white trim, all under a clear blue sky. There\u2019s also a small plain beige box-like object sitting on the lawn near the lower right.",
+    "ms": 1139,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 592,
+      "completion_tokens": 83,
+      "total_tokens": 675,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S005|PS00|T2": {
+    "text": "A sunny suburban house with blue siding and beige trim sits behind a white picket fence. The front yard is neatly landscaped with colorful flowers and shrubs, and a tall evergreen tree stands to the right. The lawn is bright green and well maintained, with a clear blue sky overhead. There\u2019s also a plain beige box-like object sitting on the grass in the foreground.",
+    "ms": 1636,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 592,
+      "completion_tokens": 76,
+      "total_tokens": 668,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S005|PS00|T3": {
+    "text": "A bright suburban house with blue and beige siding sits behind a white picket fence. The home has a gabled roof, multiple windows, and a covered porch, with colorful shrubs and flowers in the front yard. A tall evergreen tree stands to the right, and the lawn is neatly trimmed under a clear blue sky. A small beige cube-like object is visible on the grass in the foreground.",
+    "ms": 1228,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 592,
+      "completion_tokens": 82,
+      "total_tokens": 674,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S005|PS00|T4": {
+    "text": "A large two-story suburban house sits behind a white picket fence, with blue and beige siding, white trim, and a covered porch. The front yard is neatly landscaped with green grass, colorful flowering bushes, and a tall evergreen tree to the right. The sky is clear and bright blue, giving the scene a sunny, peaceful feel.",
+    "ms": 1447,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 592,
+      "completion_tokens": 71,
+      "total_tokens": 663,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S005|PS00|T5": {
+    "text": "A bright suburban house with blue siding and white trim sits behind a white picket fence. The home has a gabled roof, multiple windows, and a covered porch, with colorful shrubs and flowers in the front yard. A tall evergreen tree stands on the right, and the sky is clear and blue. The foreground shows a neatly cut green lawn, with a small beige box-like object sitting on the grass near the lower right.",
+    "ms": 1484,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 592,
+      "completion_tokens": 89,
+      "total_tokens": 681,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S005|PS00|T1": {
+    "text": "The scene shows a well-maintained suburban home on a sunny day. A white picket fence runs along the front yard, with neatly trimmed grass and landscaped flowerbeds filled with bright blooms. The house is large and two-story, painted in light and deep blue-gray tones, with multiple gabled roof sections and several windows. A driveway and garage are partially visible to the right, and a tall evergreen tree stands near the edge of the property. In the foreground, a small blank sign-like object sits on the lawn.",
+    "ms": 2682,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 592,
+      "completion_tokens": 107,
+      "total_tokens": 699,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S005|PS00|T2": {
+    "text": "The scene shows the front exterior of a large, two-story suburban house under a clear blue sky. The home has a mix of light and dark siding, gabled rooflines, and multiple large windows. In the foreground, there is a white picket fence running along the yard, with neatly trimmed landscaping including colorful flowering bushes and a line of narrow, cone-shaped shrubs. A well-kept green lawn stretches to a driveway area on the right, where a gray utility/garage door and a driveway path are partially visible. A tall evergreen tree stands on the far right, adding to the landscaped background.",
+    "ms": 1642,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 592,
+      "completion_tokens": 124,
+      "total_tokens": 716,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S005|PS00|T3": {
+    "text": "A bright, sunny residential scene shows a large, two-story house with blue and white exterior siding, gabled roofs, and many large windows. In the foreground, there\u2019s a neat white picket fence that curves along the property line, bordered by landscaped shrubs and colorful flowering plants. A well-kept green lawn extends toward the house, and a driveway and garage area are visible on the right. Tall trees stand in the background under a clear blue sky.",
+    "ms": 2349,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 592,
+      "completion_tokens": 95,
+      "total_tokens": 687,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S005|PS00|T4": {
+    "text": "The image shows a bright, sunny suburban neighborhood street with a large, two-story house in the background. The home has light-colored siding, a dark blue exterior accent section, multiple gables, and arched window details. In the foreground, there\u2019s a neatly trimmed green lawn separated from a landscaped garden by a white picket fence. Colorful bushes and flowers line the fence, and a straight walkway extends along the side of the house toward a driveway and garage area. A tall tree stands to the right, adding contrast against the clear blue sky.",
+    "ms": 1783,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 592,
+      "completion_tokens": 114,
+      "total_tokens": 706,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S005|PS00|T5": {
+    "text": "The scene shows a bright, well-kept suburban home on a sunny day. A white picket fence runs along the front yard, separating a neatly landscaped garden of trimmed shrubs and colorful flowers from a green lawn. The house has blue-and-white exterior siding, multiple gables and dormer-like shapes, and large windows, with a covered entry on the front fa\u00e7ade. In the background, a tall evergreen tree stands to the right, and the sky is clear and blue, giving the whole setting a calm, orderly curb-appeal look.",
+    "ms": 1698,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this scene.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 592,
+      "completion_tokens": 112,
+      "total_tokens": 704,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S005|PS02|T1": {
+    "text": "The image shows these main object colors:\n\n- **House**\n  - Upper left exterior: **dark blue/navy**\n  - Other exterior walls: **light beige/tan**\n  - Trim, window frames, porch railing: **white**\n  - Roof: **gray-brown/taupe**\n  - Front door area: **dark**, likely **black or deep brown**\n\n- **Fence**\n  - Foreground picket fence: **white**\n\n- **Grass/Lawn**\n  - **Green**\n\n- **Flowers and plants**\n  - Flower bed: **bright pink/magenta**\n  - Shrubs and small trees: **green**\n\n- **Large tree on the right**\n  - **Dark green**\n\n- **Sky**\n  - **Bright blue**\n\n- **Box on the lawn**\n  - **Light beige/cream**\n\n- **Back/side fence or wall**\n  - **light gray or off-white**",
+    "ms": 4238,
+    "trial": 1,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 598,
+      "completion_tokens": 192,
+      "total_tokens": 790,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S005|PS02|T2": {
+    "text": "The image shows these main object colors:\n\n- **House**\n  - Upper exterior: **dark navy blue**\n  - Other siding: **light beige / tan**\n  - Trim, porch railing, and window frames: **white**\n  - Roof: **medium brown / taupe**\n  - Front door area: **dark shadowed tones**\n\n- **Fence**\n  - **White** picket fence\n\n- **Grass/Lawn**\n  - **Green**\n\n- **Flowers and plants**\n  - Flowers: **bright pink / magenta**\n  - Shrubs/foliage: **green**\n  - Tall narrow bush: **deep green**\n\n- **Tree on the right**\n  - **Dark green**\n\n- **Sky**\n  - **Bright blue**\n\n- **Small box/block on the lawn**\n  - **Light beige / cream**\n\n- **Driveway/side gate area**\n  - Fence/gate in background: **light gray-beige / off-white**",
+    "ms": 3891,
+    "trial": 2,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 598,
+      "completion_tokens": 202,
+      "total_tokens": 800,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S005|PS02|T3": {
+    "text": "The image shows a house and yard with these main colors:\n\n- **Fence:** white\n- **House siding:** dark navy blue on the upper left section, with **light beige/tan** siding on other parts\n- **Trim and porch railings:** white\n- **Roof:** medium brownish-gray/taupe\n- **Windows:** white frames with bluish-gray glass reflections\n- **Front door area:** shadowed, appearing dark brown or black\n- **Flowers/bushes near the fence:** bright pink/magenta\n- **Shrubs/plants:** various greens\n- **Grass/lawn:** light to medium green\n- **Tree on the right:** dark green\n- **Sky:** bright blue\n- **Box on the lawn:** light beige/cream\n\nOverall, the image uses a clean palette of **white, blue, beige, green, and pink accents**.",
+    "ms": 4189,
+    "trial": 3,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 598,
+      "completion_tokens": 186,
+      "total_tokens": 784,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S005|PS02|T4": {
+    "text": "The image features these main object colors:\n\n- **House**\n  - Upper left exterior: **dark navy blue**\n  - Other exterior walls: **light beige/tan**\n  - Trim, porch railing, and window frames: **white**\n  - Roof: **medium brown/taupe**\n  - Front door area: **dark/black shadowed opening**\n\n- **Fence**\n  - Entire picket fence: **white**\n\n- **Grass/Lawn**\n  - **Bright green**\n\n- **Flowers and plants**\n  - Flower bed: **bright pink/magenta**\n  - Shrubs and trees: **green**\n  - Tall evergreen tree on the right: **dark green**\n\n- **Sky**\n  - **Bright blue**\n\n- **Box/block on the lawn**\n  - **Light beige/cream**\n\n- **Background wall/gate**\n  - **light gray-beige** / **off-white**",
+    "ms": 4209,
+    "trial": 4,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 598,
+      "completion_tokens": 190,
+      "total_tokens": 788,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S005|PS02|T5": {
+    "text": "The image shows these main object colors:\n\n- **House**\n  - Upper exterior: **dark blue/navy**\n  - Other siding: **light beige/tan**\n  - Trim, porch railings, and window frames: **white**\n  - Roof: **gray-brown/taupe**\n  - Front door area: **dark/black shadowed opening**\n\n- **Fence**\n  - **White** picket fence\n\n- **Grass/Lawn**\n  - **Green**\n\n- **Flowers and plants**\n  - Flower bed: **bright pink/magenta** flowers\n  - Shrubs/foliage: **green**\n  - Tall narrow shrub: **dark green**\n\n- **Tree on the right**\n  - **Dark green**\n\n- **Sky**\n  - **Bright blue**\n\n- **Cube/box on the lawn**\n  - **Light beige/cream**\n\n- **Background wall/fence**\n  - **Light gray/beige**",
+    "ms": 3841,
+    "trial": 5,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 598,
+      "completion_tokens": 199,
+      "total_tokens": 797,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S005|PS02|T1": {
+    "text": "Here are the main object colors in the image:\n\n- **House exterior:** dark blue and beige/tan with **white** trim\n- **Roof:** gray-brown\n- **Fence:** **white**\n- **Grass lawn:** bright **green**\n- **Bushes/flowers:** green foliage with **red/pink** flowers\n- **Tree on the right:** dark **green** with a brown trunk\n- **Sky:** light **blue**\n- **Driveway/wall in back:** light beige/gray\n- **Small box/cube on the lawn:** light beige/cream\n\nIf you want, I can also describe the colors **object by object** in a table.",
+    "ms": 2108,
+    "trial": 1,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 598,
+      "completion_tokens": 143,
+      "total_tokens": 741,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S005|PS02|T2": {
+    "text": "Here are the main object colors in the image:\n\n- **House exterior:** dark blue and beige/tan, with **white** trim\n- **Roof:** grayish brown\n- **Fence:** white\n- **Front yard grass:** green\n- **Bushes/flowers:** bright **pink/red** flowers with **green** foliage\n- **Tree on the right:** dark green with a brown trunk\n- **Sky:** light to medium **blue**\n- **Porch/columns:** white\n- **Small box-like object on the grass:** light beige/cream\n\nIf you want, I can also describe the colors **object by object** in more detail.",
+    "ms": 1703,
+    "trial": 2,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 598,
+      "completion_tokens": 139,
+      "total_tokens": 737,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S005|PS02|T3": {
+    "text": "Here are the main object colors in the image:\n\n- **House exterior:** dark blue and beige/tan, with **white** trim\n- **Roof:** gray-brown\n- **Fence:** **white**\n- **Sky:** light to medium **blue**\n- **Tree on the right:** dark **green** with some brown\n- **Grass/lawn:** bright **green**\n- **Flower bed:** red/pink flowers with green foliage\n- **Shrubs/plants:** various shades of **green**\n- **Small box/cube on the lawn:** light beige/cream\n- **Wall/fence in the background:** pale **beige** and **white**\n\nIf you want, I can also describe the colors object by object in more detail.",
+    "ms": 1586,
+    "trial": 3,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 598,
+      "completion_tokens": 157,
+      "total_tokens": 755,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S005|PS02|T4": {
+    "text": "Here are the main colors of the objects in the image:\n\n- **House exterior:** dark blue and beige/tan, with **white** trim and accents  \n- **Roof:** medium to dark **gray**  \n- **Fence:** **white**  \n- **Sky:** bright **blue**  \n- **Tree on the right:** dark **green**  \n- **Shrubs and lawn:** various shades of **green**  \n- **Flowers:** bright **pink/red** with some **yellow** and green foliage  \n- **Side wall/gate area:** light **beige/gray**  \n- **Small box/cube on the grass:** light **beige/cream**  \n\nIf you want, I can also describe the colors **object by object** in more detail.",
+    "ms": 1599,
+    "trial": 4,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 598,
+      "completion_tokens": 160,
+      "total_tokens": 758,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S005|PS02|T5": {
+    "text": "Here are the main object colors in the image:\n\n- **House exterior:** dark blue and beige/tan with **white** trim\n- **Roof:** gray-brown\n- **Fence:** **white**\n- **Grass/lawn:** green\n- **Bushes/flowers:** green foliage with **bright pink/red** flowers\n- **Tree:** dark green\n- **Sky:** light blue\n- **Small box/object on the lawn:** light beige/cream\n\nIf you want, I can also describe the colors **object by object** in more detail.",
+    "ms": 1709,
+    "trial": 5,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 598,
+      "completion_tokens": 117,
+      "total_tokens": 715,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S005|PS02|T1": {
+    "text": "The image shows a house with **light beige/cream** walls and **dark blue** siding on the upper sections, along with **white** trim around windows and roof edges. The fence in the foreground is **pale white**. Landscaping includes **green** bushes and grass, with **pink/magenta** and **yellow** flowering plants. The roof shingles and some upper details are **grayish-brown to dark brown**, and the sky is **bright blue**.",
+    "ms": 1493,
+    "trial": 1,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 598,
+      "completion_tokens": 100,
+      "total_tokens": 698,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S005|PS02|T2": {
+    "text": "The main objects are colored as follows:\n\n- **House:** white/light beige trim with **dark blue/teal siding** and a **medium brown/tan shingle roof**  \n- **Fence:** **white** pickets and posts  \n- **Windows/doors:** **dark frames** with **light reflections** (glass appears light gray/blue)  \n- **Landscaping:** green shrubs/trees, bright **pink/magenta** and yellow flowers, dark green bushes  \n- **Garage/side structure:** similar **blue/teal** siding with white trim  \n- **Ground:** **green** lawn with a **brown**/mulch area near the fence  \n- **Mailbox/box-like objects (foreground right):** **light tan/beige** (or off-white)  \n- **Sky:** **bright blue** with light clouds",
+    "ms": 1871,
+    "trial": 2,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 598,
+      "completion_tokens": 177,
+      "total_tokens": 775,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S005|PS02|T3": {
+    "text": "The image shows a suburban home with these prominent object colors:\n\n- **House/exterior walls:** white to light beige  \n- **Roof:** dark gray to charcoal  \n- **Shutters/trim and some siding panels:** deep blue  \n- **Windows:** dark glass with light frames (mostly white/light gray)  \n- **Fence:** light cream/white pickets  \n- **Landscaping plants/flowers:** green shrubs, bright pink/red blossoms, and green lawn  \n- **Box/blocks near the yard:** light tan/beige",
+    "ms": 1620,
+    "trial": 3,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 598,
+      "completion_tokens": 111,
+      "total_tokens": 709,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S005|PS02|T4": {
+    "text": "The image shows a home and yard with these prominent colors:\n\n- **House siding/building accents:** light **cream** and **white**\n- **Roof and some exterior panels:** **medium-to-dark gray** (roof shingles) and **deep teal/blue** (front siding sections)\n- **Windows/doors:** dark **black/dark gray** frames with **clear glass** reflecting light\n- **Fence and mailbox/post:** **pale beige/cream** fence pickets and **light tan** block-like mailbox post\n- **Landscaping plants/flowers:** **green** shrubs and bushes, with **bright pink/magenta** flowering plants and some **red** tones\n- **Grass/lawn:** **vivid green**\n- **Tree (right side):** **dark green** conifer foliage\n- **Sky:** clear **blue**",
+    "ms": 1918,
+    "trial": 4,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 598,
+      "completion_tokens": 178,
+      "total_tokens": 776,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S005|PS02|T5": {
+    "text": "- **House/building:** light beige/cream walls, white trim, and dark blue-green (navy) siding on the upper sections; the roof is a muted gray-brown.  \n- **Fence:** white pickets with pale/gray posts and rails.  \n- **Windows/doors:** dark gray-blue window frames and glass, with a few lighter highlights around trim.  \n- **Landscaping:** green grass; shrubs and plants include bright green foliage and **pink/magenta** flowers, with some yellow-green plants.  \n- **Mailbox/post near the fence:** light cream/beige.  \n- **Trees:** dark green.  \n- **Large block in the yard (foreground/right):** light beige/cream.  \n- **Sky:** vivid blue.",
+    "ms": 1883,
+    "trial": 5,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the objects in this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 598,
+      "completion_tokens": 160,
+      "total_tokens": 758,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S005|PS04|T1": {
+    "text": "The fence and the box are very close in color, but they are not exactly the same.\n\n- **Fence:** appears **bright white / slightly cool white**\n- **Box on the grass:** appears **light cream / beige-white**\n\nSo:\n\n- **They are different colors**\n- **The fence is lighter**\n- **The box is slightly darker and warmer in tone**",
+    "ms": 2269,
+    "trial": 1,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the fence and the box on the grass. Are they the same color or different colors? Which is lighter or darker?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 619,
+      "completion_tokens": 78,
+      "total_tokens": 697,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S005|PS04|T2": {
+    "text": "The fence and the box are **different colors**.\n\n- **Fence:** a **bright white / off-white**, with a cooler, cleaner appearance.\n- **Box on the grass:** a **light beige / cream**, warmer and slightly more yellow.\n\n**Comparison:**  \n- The **fence is lighter**.  \n- The **box is darker** than the fence.",
+    "ms": 2330,
+    "trial": 2,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the fence and the box on the grass. Are they the same color or different colors? Which is lighter or darker?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 619,
+      "completion_tokens": 78,
+      "total_tokens": 697,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S005|PS04|T3": {
+    "text": "The fence and the box are very close in color, but they are not exactly the same.\n\n- Fence: bright white, slightly cooler/crisper looking\n- Box: light cream/beige, slightly warmer\n\nComparison:\n- The fence is lighter.\n- The box is a bit darker.\n\nSo: different colors, with the fence lighter than the box.",
+    "ms": 2349,
+    "trial": 3,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the fence and the box on the grass. Are they the same color or different colors? Which is lighter or darker?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 619,
+      "completion_tokens": 74,
+      "total_tokens": 693,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S005|PS04|T4": {
+    "text": "The fence and the box are **different colors**, though they are very close.\n\n- **Fence:** appears **bright white** or near-white.\n- **Box on the grass:** appears **light beige / cream**.\n\nSo:\n\n- They are **not exactly the same color**.\n- The **fence is lighter**.\n- The **box is slightly darker** and warmer in tone.",
+    "ms": 2563,
+    "trial": 4,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the fence and the box on the grass. Are they the same color or different colors? Which is lighter or darker?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 619,
+      "completion_tokens": 82,
+      "total_tokens": 701,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S005|PS04|T5": {
+    "text": "The fence and the box are very close in color, but they are not exactly the same.\n\n- Fence: appears brighter, closer to a clean white or very pale cream.\n- Box: appears slightly warmer and darker, more like a light beige/off-white.\n\nSo:\n- Different colors: yes, slightly different.\n- Lighter: the fence.\n- Darker: the box.",
+    "ms": 2528,
+    "trial": 5,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the fence and the box on the grass. Are they the same color or different colors? Which is lighter or darker?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 619,
+      "completion_tokens": 80,
+      "total_tokens": 699,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S005|PS04|T1": {
+    "text": "They appear to be **different shades of the same light beige/off-white color**.\n\n- The **fence** looks **slightly brighter/lighter** overall, especially in the sunlit areas.\n- The **box on the grass** looks **a bit darker/warmer beige** by comparison.\n\nSo: **same general color family, but not exactly the same; the fence is lighter.**",
+    "ms": 1254,
+    "trial": 1,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the fence and the box on the grass. Are they the same color or different colors? Which is lighter or darker?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 619,
+      "completion_tokens": 90,
+      "total_tokens": 709,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S005|PS04|T2": {
+    "text": "They are **different colors**.\n\n- The **fence** is a **bright white**.\n- The **box on the grass** is a **light beige / cream** color.\n\nSo, the **fence is lighter** than the box, and the **box is slightly darker**.",
+    "ms": 1234,
+    "trial": 2,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the fence and the box on the grass. Are they the same color or different colors? Which is lighter or darker?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 619,
+      "completion_tokens": 63,
+      "total_tokens": 682,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S005|PS04|T3": {
+    "text": "They are **different colors**.\n\n- The **fence** is a very light **white/off-white**.\n- The **box on the grass** is a slightly warmer **beige/tan** color.\n\nSo, the **fence is lighter** than the box, and the **box is darker**.",
+    "ms": 1104,
+    "trial": 3,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the fence and the box on the grass. Are they the same color or different colors? Which is lighter or darker?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 619,
+      "completion_tokens": 67,
+      "total_tokens": 686,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S005|PS04|T4": {
+    "text": "They are **the same color family**: both look like a **light off-white / cream**.\n\nThat said, the **box on the grass appears slightly lighter** than the fence. The fence shows a bit more shadow and contrast, so it looks a touch **darker** overall.",
+    "ms": 1156,
+    "trial": 4,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the fence and the box on the grass. Are they the same color or different colors? Which is lighter or darker?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 619,
+      "completion_tokens": 68,
+      "total_tokens": 687,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S005|PS04|T5": {
+    "text": "They are **different colors**.\n\n- The **fence** appears to be a **slightly warmer off-white / cream**.\n- The **box on the grass** looks like a **more beige / tan** color.\n\n**Which is lighter?**\n- The **fence is lighter**.\n- The **box is darker**.",
+    "ms": 1433,
+    "trial": 5,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the fence and the box on the grass. Are they the same color or different colors? Which is lighter or darker?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 619,
+      "completion_tokens": 78,
+      "total_tokens": 697,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S005|PS04|T1": {
+    "text": "The **fence** (the long picket fence) and the **box on the grass** are **different shades**.\n\n- The **fence** is a bit **darker** (more of a light cream/ivory).\n- The **box** is **lighter** (whiter/closer to bright beige).",
+    "ms": 1322,
+    "trial": 1,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the fence and the box on the grass. Are they the same color or different colors? Which is lighter or darker?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 619,
+      "completion_tokens": 71,
+      "total_tokens": 690,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S005|PS04|T2": {
+    "text": "The fence and the box on the grass are **not exactly the same** color, though they\u2019re very close (both are light, off\u2011white/cream).\n\n- The **fence is slightly lighter** (more white/bright).\n- The **box on the grass is slightly darker** (a bit more beige/gray).",
+    "ms": 1954,
+    "trial": 2,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the fence and the box on the grass. Are they the same color or different colors? Which is lighter or darker?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 619,
+      "completion_tokens": 70,
+      "total_tokens": 689,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S005|PS04|T3": {
+    "text": "The fence and the box on the grass are **different shades**.\n\n- **Fence:** a **slightly off\u2011white / pale cream** (with a warmer tone).\n- **Box:** a **more pure light tan/gray-white** that appears **slightly lighter** overall.\n\n\u2705 **Result:** The **box is lighter** than the fence.",
+    "ms": 1517,
+    "trial": 3,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the fence and the box on the grass. Are they the same color or different colors? Which is lighter or darker?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 619,
+      "completion_tokens": 75,
+      "total_tokens": 694,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S005|PS04|T4": {
+    "text": "The fence and the box on the grass are **the same overall color**\u2014a light, pale off\u2011white/cream.\n\nThey\u2019re not perfectly identical in every pixel (lighting and shadows affect the exact tone), but **visually the box appears very slightly darker** than the fence due to its position/shadow, while the fence is a touch lighter.",
+    "ms": 1563,
+    "trial": 4,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the fence and the box on the grass. Are they the same color or different colors? Which is lighter or darker?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 619,
+      "completion_tokens": 75,
+      "total_tokens": 694,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S005|PS04|T5": {
+    "text": "The fence and the box on the grass are **not exactly the same color**, but they\u2019re **very close** (both are a pale off\u2011white/cream).\n\n- **The fence is slightly lighter** (more bright/near-white).\n- **The box is slightly darker** (a little more beige/cream).",
+    "ms": 1444,
+    "trial": 5,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact color of the fence and the box on the grass. Are they the same color or different colors? Which is lighter or darker?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 619,
+      "completion_tokens": 68,
+      "total_tokens": 687,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  }
+}
