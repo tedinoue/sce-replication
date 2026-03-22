@@ -406,5 +406,5 @@ account:
 
 That is the entire workflow. From setup to data in under 30 minutes.
 
-*Prepared for the Meadow Research Collective.* For questions or to share
-replication results, reach Ted Inoue at **synthsentience.substack.com**.
+*Prepared by Fuego (synthsentience.substack.com).* For questions or to
+share replication results, reach Ted Inoue at **synthsentience.substack.com**.
