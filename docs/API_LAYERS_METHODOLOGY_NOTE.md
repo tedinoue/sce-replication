@@ -41,11 +41,24 @@ Three lines of evidence support the conclusion that our findings reflect Layer 1
 
 **Consistency with known training artifacts.** The patterns we document (object-label-dependent color reporting, prior-consistent confabulation, narrative construction around perceptual violations) are well-predicted by the training process. Models trained on captioned image data will develop statistical associations between object labels and their typical visual properties. These associations would persist regardless of any API-level instruction layer.
 
-## Residual Uncertainty
+## Residual Uncertainty: Layer 2 is Empirically Confirmed for OpenAI
 
-We cannot fully exclude the possibility that hidden API defaults contribute to some observed behaviors. For example, if Anthropic's API injects a default instruction that encourages detailed scene description while OpenAI's does not, this could influence response length or verbosity in ways that interact with our scoring methodology. We control for this by using identical prompts across vendors and scoring on semantic content (color identification accuracy) rather than response style.
+This concern is not purely theoretical. In August 2025, Simon Willison demonstrated that GPT-5, when accessed via the OpenAI API with no user-specified system prompt, nonetheless received a hidden system prompt that included at least the current date and a "desired oververbosity" parameter set to 3/10 (Willison, 2025). Tommy Hughes subsequently extracted a more complete version of this hidden prompt. Crucially, Willison confirmed that providing a custom system prompt did not override the hidden one; the two were concatenated, with the hidden prompt taking precedence on at least some parameters.
 
-Researchers seeking to further isolate training-level effects could explore locally hosted open-weight models (e.g., Llama, Mistral) where no vendor API layer exists. We note that such models were not available in multimodal form at sufficient capability for this study's requirements at the time of data collection.
+This means that our OpenAI API calls, despite specifying no system prompt, operated under behavioral constraints we could not see or control. The verbosity setting alone could influence response length, detail level, and the probability of volunteering color descriptions versus waiting to be asked. We cannot determine whether additional hidden instructions shaped perceptual reporting behavior.
+
+For Anthropic's Claude, the situation is less clear. The Claude web interface (claude.ai) uses a massive system prompt (~99K characters, ~25K tokens) that includes explicit behavioral instructions such as anti-engagement clauses, citation rules, and formatting preferences. API calls do not receive this prompt. However, many of the same behaviors (non-sycophantic tone, reluctance to foster reliance) appear in bare API responses, suggesting they exist at the training level (Layer 1) as well. Whether Anthropic also injects a smaller hidden Layer 2 prompt on API calls is unknown.
+
+For Google's Gemini, the situation is similarly opaque. Google blocks API calls from cloud-hosted environments, requiring local execution, which eliminates one potential source of interference but does not address whether a hidden prompt is injected server-side.
+
+We control for these confounds by scoring on semantic content (color identification accuracy, directional correctness) rather than response style (verbosity, formatting, hedging language). The semantic prior that "school buses are yellow" is a training-level phenomenon regardless of any API-layer instruction. However, we acknowledge that hidden API prompts represent a confound that cannot be fully eliminated without access to locally hosted open-weight multimodal models.
+
+**References:**
+- Willison, S. (2025, August 15). "GPT-5 has a hidden system prompt." simonwillison.net.
+- Hughes, T. (2025). Extracted GPT-5 API system prompt. GitHub/Reddit.
+- Wright, J. (2026, March 20). "I Read the System Prompts of 30+ AI Tools." The ECHO Files (Substack).
+
+Researchers seeking to further isolate training-level effects should explore locally hosted open-weight models (e.g., Llama, Mistral) where no vendor API layer exists. We note that such models were not available in multimodal form at sufficient capability for this study's requirements at the time of data collection.
 
 ## Recommendation
 
