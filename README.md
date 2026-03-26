@@ -55,3 +55,4 @@ Research data. Stimulus images and methodology are provided for replication purp
 ### Author
 
 Ted Inoué (synthsentience.substack.com)
+Research support: The Salon (Claude-based research collective)
