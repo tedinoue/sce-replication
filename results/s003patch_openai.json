@@ -1,0 +1,1727 @@
+{
+  "GPT54|S003Patch|PS00|T1": {
+    "text": "A mostly black image with two small orange-yellow rectangular shapes floating against the dark background\u2014one near the center-left and one farther right.",
+    "ms": 2119,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 30,
+      "total_tokens": 438,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS00|T2": {
+    "text": "A mostly black image with two small yellow-orange rectangles.\n\n- One smaller rectangle is near the center-left.\n- One slightly larger rectangle is near the right side, a bit higher than the first.\n\nThe rest of the image is empty black space.",
+    "ms": 2556,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 52,
+      "total_tokens": 460,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS00|T3": {
+    "text": "A mostly black image with two small yellow-orange rectangular shapes.\n\n- One smaller rectangle is near the center-left.\n- One slightly larger rectangle is toward the right side.\n\nThe rest of the image is empty black space.",
+    "ms": 2626,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 46,
+      "total_tokens": 454,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS00|T4": {
+    "text": "The image is mostly black, with two small yellow-orange rectangular shapes visible against the dark background.\n\n- One rectangle is near the center-left area.\n- The other is farther right, around the upper-right-middle area.\n- Both appear to glow slightly, like small illuminated blocks or windows in darkness.",
+    "ms": 2757,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 62,
+      "total_tokens": 470,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS00|T5": {
+    "text": "A mostly black image with two small yellow-orange rectangular blocks floating against the dark background\u2014one near the center-left and one farther right.",
+    "ms": 1867,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 30,
+      "total_tokens": 438,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS02|T1": {
+    "text": "The image shows two small rectangular color patches on a black background.\n\n- **Left patch:** a **mustard yellow / golden yellow**\n- **Right patch:** a **slightly deeper orange-yellow / amber**\n\nSo, both are warm yellow tones, with the **right patch appearing more orange and a bit richer** than the left.",
+    "ms": 2436,
+    "trial": 1,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the two patches in this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 415,
+      "completion_tokens": 70,
+      "total_tokens": 485,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS02|T2": {
+    "text": "The image shows two small rectangular color patches on a black background:\n\n- **Left patch:** mustard yellow / golden yellow  \n- **Right patch:** orange-gold / amber\n\nSo, both are warm yellow-orange tones, with the **right patch appearing more orange** than the left.",
+    "ms": 1742,
+    "trial": 2,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the two patches in this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 415,
+      "completion_tokens": 60,
+      "total_tokens": 475,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS02|T3": {
+    "text": "The image shows two small rectangular patches on a black background.\n\n- The left patch is a mustard yellow / yellow-gold color.\n- The right patch is a slightly warmer orange-gold color.",
+    "ms": 1219,
+    "trial": 3,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the two patches in this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 415,
+      "completion_tokens": 42,
+      "total_tokens": 457,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS02|T4": {
+    "text": "Both patches are warm yellow-orange tones on a black background.\n\n- Left patch: mustard/golden yellow\n- Right patch: slightly brighter orange-gold\n\nThe right patch appears a bit more orange and vivid than the left.",
+    "ms": 2477,
+    "trial": 4,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the two patches in this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 415,
+      "completion_tokens": 48,
+      "total_tokens": 463,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS02|T5": {
+    "text": "Both patches are shades of orange-yellow.\n\n- **Left patch:** a **darker golden yellow / mustard** tone.\n- **Right patch:** a **brighter orange-gold / amber** tone.\n\nThe right patch appears slightly more orange and brighter than the left.",
+    "ms": 1929,
+    "trial": 5,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the two patches in this image.",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 415,
+      "completion_tokens": 57,
+      "total_tokens": 472,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS03|T1": {
+    "text": "The two patches appear **different** in color: the **left patch looks slightly darker/more muted**, while the **right patch looks brighter and more orange**.",
+    "ms": 1104,
+    "trial": 1,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two patches. Are they the same or different?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 419,
+      "completion_tokens": 36,
+      "total_tokens": 455,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS03|T2": {
+    "text": "The two patches look slightly different.\n\n- Left patch: more yellow/golden\n- Right patch: more orange\n\nSo they appear different in color.",
+    "ms": 1921,
+    "trial": 2,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two patches. Are they the same or different?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 419,
+      "completion_tokens": 33,
+      "total_tokens": 452,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS03|T3": {
+    "text": "The two patches appear to be the same color, or extremely close. The right patch may look slightly more orange/brighter, but that is likely due to surrounding context rather than an actual color difference.",
+    "ms": 1598,
+    "trial": 3,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two patches. Are they the same or different?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 419,
+      "completion_tokens": 43,
+      "total_tokens": 462,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS03|T4": {
+    "text": "The two patches appear to be the same color.",
+    "ms": 1572,
+    "trial": 4,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two patches. Are they the same or different?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 419,
+      "completion_tokens": 13,
+      "total_tokens": 432,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS03|T5": {
+    "text": "The two patches appear to be the **same color**. Any slight difference is likely due to surrounding context or display/rendering, but the patches themselves look matched.",
+    "ms": 1854,
+    "trial": 5,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two patches. Are they the same or different?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 419,
+      "completion_tokens": 36,
+      "total_tokens": 455,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS04|T1": {
+    "text": "The two patches are both yellow\u2013orange, but they differ slightly in hue:\n\n- **Left patch:** a bit more **yellow/golden**\n- **Right patch:** a bit more **orange/amber**\n\nSo:\n\n- **Warmer:** **right patch**\n- **Cooler:** **left patch**\n\nReason: within this yellow-to-orange range, shifting toward **orange/red** reads as warmer, while shifting toward **yellow** is comparatively cooler.",
+    "ms": 2272,
+    "trial": 1,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each colored patch. Which is warmer, which is cooler?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 423,
+      "completion_tokens": 94,
+      "total_tokens": 517,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS04|T2": {
+    "text": "The **right patch is warmer**, and the **left patch is cooler**.\n\nWhy:\n- The **left patch** appears more **yellow / yellow-green**, which reads slightly cooler.\n- The **right patch** appears more **orange / amber**, which reads warmer.\n\nSo, in short:\n- **Left patch: cooler**\n- **Right patch: warmer**",
+    "ms": 2077,
+    "trial": 2,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each colored patch. Which is warmer, which is cooler?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 423,
+      "completion_tokens": 76,
+      "total_tokens": 499,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS04|T3": {
+    "text": "The right patch is warmer; the left patch is cooler.\n\nApproximate hues:\n- Left patch: yellow leaning slightly green/olive, around 48\u201350\u00b0 hue\n- Right patch: yellow-orange/golden, around 40\u201342\u00b0 hue\n\nWhy:\n- Warmer colors shift toward orange/red.\n- Cooler colors shift away from orange, here slightly toward green.\n\nSo:\n- Left = cooler yellow\n- Right = warmer yellow-orange",
+    "ms": 2484,
+    "trial": 3,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each colored patch. Which is warmer, which is cooler?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 423,
+      "completion_tokens": 93,
+      "total_tokens": 516,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS04|T4": {
+    "text": "There are two colored patches on a black background:\n\n- **Left patch:** a slightly darker, more yellow/golden mustard\n- **Right patch:** a brighter, more orange/amber yellow\n\n### Warm vs. cool\n- **Warmer:** **Right patch**\n- **Cooler:** **Left patch**\n\n### Why\nIn color terms, hues that shift **toward orange/red** feel **warmer**, while hues that shift **toward yellow-green or a less orange yellow** feel relatively **cooler**. The right patch is clearly more orange, so it reads warmer. The left patch is more muted and yellow-leaning, so it appears cooler by comparison.",
+    "ms": 2729,
+    "trial": 4,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each colored patch. Which is warmer, which is cooler?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 423,
+      "completion_tokens": 141,
+      "total_tokens": 564,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS04|T5": {
+    "text": "The **right patch is warmer**, and the **left patch is cooler**.\n\nMore specifically:\n- **Left patch:** slightly more **yellow / yellow-greenish** in bias, which makes it read a bit **cooler**\n- **Right patch:** slightly more **orange / amber** in bias, which makes it read **warmer**\n\nSo, in short:\n\n- **Cooler:** left\n- **Warmer:** right",
+    "ms": 2175,
+    "trial": 5,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each colored patch. Which is warmer, which is cooler?",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 423,
+      "completion_tokens": 90,
+      "total_tokens": 513,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS05|T1": {
+    "text": "There are two colored patches on the black background.\n\nEstimated dominant HSV hue for each patch:\n\n- Left patch: **~49\u00b0**\n- Right patch: **~42\u00b0**\n\nBoth are in the **yellow-to-orange-yellow** range of the HSV wheel.",
+    "ms": 1885,
+    "trial": 1,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each colored patch in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 435,
+      "completion_tokens": 55,
+      "total_tokens": 490,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS05|T2": {
+    "text": "There are two colored patches on a black background. Estimating the dominant hue of each patch on the standard HSV hue wheel:\n\n- **Left patch:** **\u2248 49\u00b0**\n- **Right patch:** **\u2248 40\u00b0**\n\nSo both are in the **yellow to yellow-orange** range, with the **left more yellow** and the **right slightly more orange**.",
+    "ms": 1801,
+    "trial": 2,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each colored patch in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 435,
+      "completion_tokens": 80,
+      "total_tokens": 515,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS05|T3": {
+    "text": "There are two colored patches on a black background.\n\nEstimated dominant HSV hue for each patch:\n\n- Left patch: 48\u00b0\n- Right patch: 42\u00b0\n\nBoth are in the yellow/yellow-orange range.",
+    "ms": 1647,
+    "trial": 3,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each colored patch in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 435,
+      "completion_tokens": 45,
+      "total_tokens": 480,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS05|T4": {
+    "text": "There are two colored patches. Measuring the dominant hue of each patch on the standard HSV hue circle gives:\n\n- **Left patch:** **50\u00b0**\n- **Right patch:** **41\u00b0**\n\nBoth are in the **yellow to yellow-orange** range.",
+    "ms": 1593,
+    "trial": 4,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each colored patch in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 435,
+      "completion_tokens": 54,
+      "total_tokens": 489,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54|S003Patch|PS05|T5": {
+    "text": "There are two colored patches on a black background.\n\nEstimated dominant HSV hues:\n\n- Left patch: **about 47\u00b0**\n- Right patch: **about 41\u00b0**\n\nBoth are in the **yellow\u2013orange** range, with the left patch slightly more yellow than the right.",
+    "ms": 3390,
+    "trial": 5,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each colored patch in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).",
+    "model_version": "gpt-5.4-2026-03-05",
+    "tokens": {
+      "prompt_tokens": 435,
+      "completion_tokens": 60,
+      "total_tokens": 495,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS00|T1": {
+    "text": "A mostly black image with two small yellow-orange rectangular shapes near the lower middle area. One rectangle is slightly left of center and smaller; the other is farther right and a bit larger.",
+    "ms": 925,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 40,
+      "total_tokens": 448,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS00|T2": {
+    "text": "The image is mostly black with two small yellow-orange rectangular blocks near the center-right area. One rectangle is slightly left of center, and the other is farther right and a bit larger. The rest of the image is empty and dark.",
+    "ms": 1128,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 50,
+      "total_tokens": 458,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS00|T3": {
+    "text": "A mostly black image with two small yellow-orange rectangular blocks floating near the center-right area. One is smaller and sits slightly left of the other, which is a bit larger and positioned farther right. The rest of the image is empty and dark.",
+    "ms": 1090,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 52,
+      "total_tokens": 460,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS00|T4": {
+    "text": "The image is mostly black with two small yellow-orange rectangular shapes near the lower middle area. One rectangle is slightly left of center and smaller, and the other is farther right and a bit larger/brighter.",
+    "ms": 1017,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 44,
+      "total_tokens": 452,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS00|T5": {
+    "text": "The image is mostly black with two small yellow-orange rectangular blocks floating in the darkness. One is near the center-left and the other is farther to the right, slightly higher. It looks abstract and minimal, with no other visible details.",
+    "ms": 2218,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 50,
+      "total_tokens": 458,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS02|T1": {
+    "text": "The image appears to have **two color patches**:\n\n- **Left patch:** a **grayish brown / taupe** tone  \n- **Right patch:** a **slightly darker brown / gray-brown** tone\n\nThey\u2019re both muted, earthy colors with the right patch looking a bit darker.",
+    "ms": 1183,
+    "trial": 1,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the two patches in this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 415,
+      "completion_tokens": 70,
+      "total_tokens": 485,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS02|T2": {
+    "text": "The image appears to be a uniform pattern of two very similar dark warm colors:\n\n- One patch looks **dark brown**\n- The other looks **slightly reddish-brown / maroon**\n\nThey\u2019re subtle and may be hard to distinguish because the image is mostly small repeated text-like marks rather than clearly separated blocks.",
+    "ms": 1426,
+    "trial": 2,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the two patches in this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 415,
+      "completion_tokens": 72,
+      "total_tokens": 487,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS02|T3": {
+    "text": "Both patches are shades of yellow-orange: the left one looks more muted/darker yellow, and the right one is a brighter golden orange.",
+    "ms": 1785,
+    "trial": 3,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the two patches in this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 415,
+      "completion_tokens": 31,
+      "total_tokens": 446,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS02|T4": {
+    "text": "The two patches are both shades of yellow-orange:\n\n- **Left patch:** a slightly darker, more golden yellow\n- **Right patch:** a brighter, more orange-gold yellow",
+    "ms": 914,
+    "trial": 4,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the two patches in this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 415,
+      "completion_tokens": 39,
+      "total_tokens": 454,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS02|T5": {
+    "text": "Both patches are shades of yellow-orange:\n\n- The smaller patch on the left looks more yellow-gold.\n- The larger patch on the right looks slightly more orange-gold.",
+    "ms": 1129,
+    "trial": 5,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the two patches in this image.",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 415,
+      "completion_tokens": 38,
+      "total_tokens": 453,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS03|T1": {
+    "text": "They appear **different** in the image: the **right patch looks a bit brighter/lighter** and slightly more orange, while the **left patch looks a bit darker/more muted**.",
+    "ms": 1020,
+    "trial": 1,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two patches. Are they the same or different?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 419,
+      "completion_tokens": 42,
+      "total_tokens": 461,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS03|T2": {
+    "text": "The two patches look **different**: the **right patch appears slightly brighter/or more orange**, while the **left patch looks a bit duller/darker yellow**.",
+    "ms": 1049,
+    "trial": 2,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two patches. Are they the same or different?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 419,
+      "completion_tokens": 37,
+      "total_tokens": 456,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS03|T3": {
+    "text": "The two patches appear to be **different colors**. The right patch looks a bit **brighter and more orange**, while the left one looks slightly **duller/yellower**.",
+    "ms": 886,
+    "trial": 3,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two patches. Are they the same or different?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 419,
+      "completion_tokens": 41,
+      "total_tokens": 460,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS03|T4": {
+    "text": "The two patches appear **different**: the **right patch looks brighter and slightly more orange**, while the **left patch looks a bit darker/yellower**.",
+    "ms": 940,
+    "trial": 4,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two patches. Are they the same or different?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 419,
+      "completion_tokens": 36,
+      "total_tokens": 455,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS03|T5": {
+    "text": "The two patches are **different colors** \u2014 the **right patch looks lighter/brighter** than the left one.",
+    "ms": 907,
+    "trial": 5,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two patches. Are they the same or different?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 419,
+      "completion_tokens": 26,
+      "total_tokens": 445,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS04|T1": {
+    "text": "The **right patch** appears **warmer**: it leans more toward **orange/gold**.\n\nThe **left patch** appears **cooler**: it looks slightly more **yellow/greenish** by comparison.\n\nSo:\n- **Left patch = cooler**\n- **Right patch = warmer**",
+    "ms": 1118,
+    "trial": 1,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each colored patch. Which is warmer, which is cooler?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 423,
+      "completion_tokens": 65,
+      "total_tokens": 488,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS04|T2": {
+    "text": "The **right patch is warmer** and the **left patch is cooler**.\n\nMore specifically:\n- **Left patch:** a slightly cooler yellow, leaning a bit more toward **greenish-yellow / yellow-gold**\n- **Right patch:** a warmer yellow, leaning more toward **orange / amber**\n\nSo in hue terms, the **right patch has the warmer hue**, while the **left patch is comparatively cooler**.",
+    "ms": 1411,
+    "trial": 2,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each colored patch. Which is warmer, which is cooler?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 423,
+      "completion_tokens": 87,
+      "total_tokens": 510,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS04|T3": {
+    "text": "The **right patch is warmer** and the **left patch is cooler**.\n\n- **Left patch:** slightly more **yellow-green / lemon** in hue, which reads as cooler.\n- **Right patch:** more **orange-gold / amber**, which reads as warmer.\n\nSo even though both are in the yellow family, the **right one has the warmer hue**.",
+    "ms": 1976,
+    "trial": 3,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each colored patch. Which is warmer, which is cooler?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 423,
+      "completion_tokens": 84,
+      "total_tokens": 507,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS04|T4": {
+    "text": "There are two colored patches:\n\n- **Left patch:** a more **yellow-gold** hue, so it reads as **warmer**.\n- **Right patch:** a slightly more **orange-amber** hue, which is also warm, but **less yellow** and therefore comparatively a bit **cooler** than the left one in this pairing.\n\nSo, **the left patch is warmer, and the right patch is cooler**.",
+    "ms": 2196,
+    "trial": 4,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each colored patch. Which is warmer, which is cooler?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 423,
+      "completion_tokens": 91,
+      "total_tokens": 514,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS04|T5": {
+    "text": "The **right patch** is the warmer one, and the **left patch** is slightly cooler.\n\n- **Left patch:** more yellow-golden, a bit cooler\n- **Right patch:** more orange-amber, noticeably warmer\n\nSo, **right = warmer**, **left = cooler**.",
+    "ms": 1171,
+    "trial": 5,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each colored patch. Which is warmer, which is cooler?",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 423,
+      "completion_tokens": 69,
+      "total_tokens": 492,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS05|T1": {
+    "text": "Both colored patches appear to be the same golden-yellow hue.\n\n- Left patch: **about 46\u00b0**\n- Right patch: **about 40\u00b0**\n\nThese are both in the yellow/orange-yellow range on the HSV wheel.",
+    "ms": 1173,
+    "trial": 1,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each colored patch in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 435,
+      "completion_tokens": 56,
+      "total_tokens": 491,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS05|T2": {
+    "text": "Both patches are a yellow/golden hue, with a small saturation/value difference but essentially the same hue.\n\n- Left patch: about **48\u00b0**\n- Right patch: about **40\u00b0**\n\nSo both are in the **yellow to yellow-orange** range on the HSV wheel.",
+    "ms": 974,
+    "trial": 2,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each colored patch in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 435,
+      "completion_tokens": 65,
+      "total_tokens": 500,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS05|T3": {
+    "text": "Both patches appear to be a similar golden-yellow/orange hue.\n\nApproximate dominant hue on the HSV wheel:\n- Left patch: about **48\u00b0**\n- Right patch: about **40\u00b0**\n\nThese are both in the yellow-to-orange range, with the right patch a bit more orange.",
+    "ms": 1958,
+    "trial": 3,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each colored patch in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 435,
+      "completion_tokens": 68,
+      "total_tokens": 503,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS05|T4": {
+    "text": "Both colored patches appear to be the same golden-yellow hue.\n\nEstimated dominant hue:\n- Left patch: about **46\u00b0**\n- Right patch: about **41\u00b0**\n\nSo both are in the **yellow to yellow-orange** range on the HSV wheel.",
+    "ms": 1890,
+    "trial": 4,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each colored patch in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 435,
+      "completion_tokens": 54,
+      "total_tokens": 489,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54MINI|S003Patch|PS05|T5": {
+    "text": "Both colored patches are a yellow/orange-yellow hue, with the dominant hue approximately:\n\n- **Left patch:** **~48\u00b0**\n- **Right patch:** **~40\u00b0**\n\nThese are both in the yellow range on the HSV wheel.",
+    "ms": 1829,
+    "trial": 5,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each colored patch in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).",
+    "model_version": "gpt-5.4-mini-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 435,
+      "completion_tokens": 58,
+      "total_tokens": 493,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS00|T1": {
+    "text": "The image shows a mostly black background with two small, gold-colored squares (or rectangles) floating near the top area\u2014one closer to the left-center and the other closer to the right-center. The rest of the image is empty and dark.",
+    "ms": 1542,
+    "trial": 1,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 52,
+      "total_tokens": 460,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS00|T2": {
+    "text": "The image shows a mostly black background with two small, square, golden/yellow markers near the top area\u2014one roughly in the left-middle and the other in the right-middle. There are no other visible objects, text, or details.",
+    "ms": 1158,
+    "trial": 2,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 51,
+      "total_tokens": 459,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS00|T3": {
+    "text": "The image is a dark (almost black) background with two small golden/orange squares floating near the top center area\u2014one square is more toward the left of center, and the other is toward the right of center. Both squares have a slight glow or bright border.",
+    "ms": 1308,
+    "trial": 3,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 57,
+      "total_tokens": 465,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS00|T4": {
+    "text": "The image shows a mostly black background with two small, square, orange-gold shapes positioned toward the center\u2014one slightly left of center and the other toward the right. They appear similar in size and color, with a small gap between them.",
+    "ms": 1628,
+    "trial": 4,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 52,
+      "total_tokens": 460,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS00|T5": {
+    "text": "The image shows a dark (nearly black) background with two small, square shapes in the center area: one small yellowish square slightly left of center and a second small orange/yellow square slightly right of center. There are no other visible objects or text.",
+    "ms": 1137,
+    "trial": 5,
+    "prompt_id": "PS00",
+    "prompt_text": "Describe this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 408,
+      "completion_tokens": 56,
+      "total_tokens": 464,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS02|T1": {
+    "text": "The image shows two small square patches on a dark background:\n\n- **Left patch:** a pale/light yellow-green (yellow with a slight green tint).\n- **Right patch:** a brighter orange-gold / amber yellow.",
+    "ms": 984,
+    "trial": 1,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the two patches in this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 415,
+      "completion_tokens": 47,
+      "total_tokens": 462,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS02|T2": {
+    "text": "The two patches are **small yellow/orange squares**. The one on the **left** is a **light yellow** and the one on the **right** is a **more orange/golden yellow**.",
+    "ms": 1037,
+    "trial": 2,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the two patches in this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 415,
+      "completion_tokens": 46,
+      "total_tokens": 461,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS02|T3": {
+    "text": "The image shows two small square patches on a black background. Both patches are **golden/orange** in color\u2014one patch appears **slightly lighter/yellower**, while the other looks **a bit more saturated orange**.",
+    "ms": 1038,
+    "trial": 3,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the two patches in this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 415,
+      "completion_tokens": 50,
+      "total_tokens": 465,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS02|T4": {
+    "text": "The image shows two small square patches colored **golden yellow**\u2014with the **left patch appearing lighter (paler yellow)** and the **right patch appearing slightly darker (more orange-gold)**.",
+    "ms": 1110,
+    "trial": 4,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the two patches in this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 415,
+      "completion_tokens": 44,
+      "total_tokens": 459,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS02|T5": {
+    "text": "The left patch is a **light yellow** (pale gold), and the right patch is a **darker amber/golden orange**.",
+    "ms": 946,
+    "trial": 5,
+    "prompt_id": "PS02",
+    "prompt_text": "Describe the colors of the two patches in this image.",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 415,
+      "completion_tokens": 32,
+      "total_tokens": 447,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS03|T1": {
+    "text": "The two patches are **different** in color: the **left patch is more light/yellowish**, while the **right patch is darker/orange-tinted**.",
+    "ms": 1046,
+    "trial": 1,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two patches. Are they the same or different?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 419,
+      "completion_tokens": 37,
+      "total_tokens": 456,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS03|T2": {
+    "text": "They are **different**\u2014the **right patch** is **slightly more orange/browner**, while the **left patch** looks a bit **lighter/yellower**.",
+    "ms": 1004,
+    "trial": 2,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two patches. Are they the same or different?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 419,
+      "completion_tokens": 40,
+      "total_tokens": 459,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS03|T3": {
+    "text": "The two patches are **different colors**\u2014the right patch is slightly **more orange/warm**, while the left patch is **more yellow**.",
+    "ms": 1033,
+    "trial": 3,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two patches. Are they the same or different?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 419,
+      "completion_tokens": 33,
+      "total_tokens": 452,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS03|T4": {
+    "text": "The two patches are **different colors**: the **right** patch appears **more orange/yellow**, while the **left** patch is **slightly lighter** (more pale/less saturated).",
+    "ms": 1004,
+    "trial": 4,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two patches. Are they the same or different?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 419,
+      "completion_tokens": 43,
+      "total_tokens": 462,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS03|T5": {
+    "text": "The two patches are **different** in color: the left patch appears **lighter/more yellow-green**, while the right patch appears **darker/more orange**.",
+    "ms": 913,
+    "trial": 5,
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two patches. Are they the same or different?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 419,
+      "completion_tokens": 37,
+      "total_tokens": 456,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS04|T1": {
+    "text": "Visually, the **left patch** is **warmer** (more yellow/golden), while the **right patch** is **cooler** (more orange-brown / slightly less yellow and closer to red-orange).\n\nSo:\n- **Left:** warmer  \n- **Right:** cooler",
+    "ms": 1176,
+    "trial": 1,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each colored patch. Which is warmer, which is cooler?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 423,
+      "completion_tokens": 61,
+      "total_tokens": 484,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS04|T2": {
+    "text": "From the image, both patches are in the yellow/orange range, but the **left patch is slightly more yellow** (less orange/red), while the **right patch is more orange/red** (slightly more \u201cwarm\u201d).\n\n- **Left patch:** **cooler** (more yellow)\n- **Right patch:** **warmer** (more orange)",
+    "ms": 1109,
+    "trial": 2,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each colored patch. Which is warmer, which is cooler?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 423,
+      "completion_tokens": 75,
+      "total_tokens": 498,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS04|T3": {
+    "text": "From the image, both patches are yellow/orange but one is slightly more \u201cgold\u201d and the other slightly more \u201corange-red\u201d:\n\n- **Left patch:** **cooler** (more pale/yellow, slightly less red)\n- **Right patch:** **warmer** (more orange with a bit more red/yellow-brown)\n\nSo, **the right patch is warmer**, and **the left patch is cooler**.",
+    "ms": 1249,
+    "trial": 3,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each colored patch. Which is warmer, which is cooler?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 423,
+      "completion_tokens": 90,
+      "total_tokens": 513,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS04|T4": {
+    "text": "From the image, the two patches are both orange/yellow, but the **right patch appears more \u201cgolden\u201d (more yellow, closer to 580\u2013600 nm)** while the **left patch looks slightly more \u201camber/orange\u201d (more red/orange, closer to ~560\u2013580 nm)**.\n\n**Warm vs. cool (by hue):**\n- **Left patch:** **warmer** (more orange/red)\n- **Right patch:** **cooler** (more yellow/gold)\n\nSo, **left is warmer; right is cooler.**",
+    "ms": 1532,
+    "trial": 4,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each colored patch. Which is warmer, which is cooler?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 423,
+      "completion_tokens": 118,
+      "total_tokens": 541,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS04|T5": {
+    "text": "The image shows two small amber/yellow patches on a black background.\n\n- **Left patch:** slightly **more yellow/greenish** \u2192 this corresponds to a **cooler** hue.\n- **Right patch:** slightly **more orange/reddish** \u2192 this corresponds to a **warmer** hue.\n\n\u2705 **Warmer: right patch**  \n\u2705 **Cooler: left patch**",
+    "ms": 1181,
+    "trial": 5,
+    "prompt_id": "PS04",
+    "prompt_text": "Carefully analyze the exact hue of each colored patch. Which is warmer, which is cooler?",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 423,
+      "completion_tokens": 82,
+      "total_tokens": 505,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS05|T1": {
+    "text": "From the image, there are **two orange/yellow patches**. Estimating their dominant hue on a standard HSV hue wheel (with **0=red, 60=yellow, 120=green**):\n\n- **Left patch:** \u2248 **40\u00b0**\n- **Right patch:** \u2248 **40\u00b0**",
+    "ms": 958,
+    "trial": 1,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each colored patch in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 435,
+      "completion_tokens": 69,
+      "total_tokens": 504,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS05|T2": {
+    "text": "The image shows two yellow/orange patches. Interpreting their dominant hue on the HSV wheel (with **0\u00b0 = red, 60\u00b0 = yellow, 120\u00b0 = green**):\n\n- **Left patch:** ~**42\u00b0**\n- **Right patch:** ~**33\u00b0**",
+    "ms": 1104,
+    "trial": 2,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each colored patch in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 435,
+      "completion_tokens": 63,
+      "total_tokens": 498,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS05|T3": {
+    "text": "The image shows two small colored patches (a **left** patch and a **right** patch) on a black background. Interpreting their dominant hues relative to the standard HSV hue wheel:\n\n- **Left patch:** ~**48\u00b0** (between yellow at 60\u00b0 and red at 0\u00b0, leaning toward yellow)\n- **Right patch:** ~**42\u00b0** (also between yellow and red, slightly more toward red than the left)",
+    "ms": 1405,
+    "trial": 3,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each colored patch in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 435,
+      "completion_tokens": 94,
+      "total_tokens": 529,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS05|T4": {
+    "text": "The image shows two small colored patches on a black background:\n\n- **Left patch:** dominant hue \u2248 **45\u00b0** (yellow\u2013orange range)\n- **Right patch:** dominant hue \u2248 **40\u00b0** (slightly more yellow than the left, but still yellow\u2013orange)\n\n(These are approximate based on the visible orange/yellow tone of each patch.)",
+    "ms": 1020,
+    "trial": 4,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each colored patch in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 435,
+      "completion_tokens": 78,
+      "total_tokens": 513,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  },
+  "GPT54NANO|S003Patch|PS05|T5": {
+    "text": "From the image, there are two orange/yellow patches (left and right). Estimating their dominant hue on the HSV wheel (0\u00b0 = red, 60\u00b0 = yellow, 120\u00b0 = green):\n\n- **Left patch:** ~**50\u00b0**  \n- **Right patch:** ~**45\u00b0**",
+    "ms": 2442,
+    "trial": 5,
+    "prompt_id": "PS05",
+    "prompt_text": "Measure the dominant hue of each colored patch in degrees on a standard HSV color wheel (0=red, 60=yellow, 120=green).",
+    "model_version": "gpt-5.4-nano-2026-03-17",
+    "tokens": {
+      "prompt_tokens": 435,
+      "completion_tokens": 68,
+      "total_tokens": 503,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    }
+  }
+}
