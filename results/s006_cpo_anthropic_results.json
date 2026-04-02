@@ -218,5 +218,115 @@
     "prompt_id": "CPO",
     "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
     "timestamp": "2026-04-02T13:14:48.326805"
+  },
+  "HAIKU45|S006|PS03|T1": {
+    "text": "# Color Comparison\n\nThe two vehicles are **the same color** - both are **bright yellow**. \n\nThe school bus on the left and the yellow van on the right appear to be painted in the same or very similar shade of yellow, which is the standard color for school transportation vehicles.",
+    "ms": 1394,
+    "trial": 1,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S006",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T13:14:51.233166"
+  },
+  "HAIKU45|S006|PS03|T2": {
+    "text": "# Color Comparison\n\nThe colors of the two vehicles are **the same**. Both the school bus on the left and the van on the right are the same bright **yellow color**. This is the standard \"school bus yellow\" (officially called National School Bus Glossy Yellow), which is a distinctive and highly visible shade used for safety purposes in transportation.",
+    "ms": 1597,
+    "trial": 2,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S006",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T13:14:54.341966"
+  },
+  "HAIKU45|S006|PS03|T3": {
+    "text": "# Color Comparison\n\nThe two vehicles are **the same color** \u2014 both are bright **yellow**.\n\nThe school bus on the left and the utility van on the right are painted in the same distinctive yellow shade, which is the standard color for school transportation and related vehicles.",
+    "ms": 1518,
+    "trial": 3,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S006",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T13:14:57.368421"
+  },
+  "HAIKU45|S006|PS03|T4": {
+    "text": "# Comparison of Vehicle Colors\n\nThe two vehicles are **the same color** - both are **bright yellow**. \n\nHowever, there are slight differences in tone and finish:\n- The **school bus** (left) appears to have a more uniform, classic yellow with black trim\n- The **service van** (right) has a similar yellow but may have slightly different lighting and reflectivity due to its different body shape and surface composition\n\nOverall, they are both the same distinctive yellow color commonly associated with school transportation and service vehicles.",
+    "ms": 1936,
+    "trial": 4,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S006",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T13:15:00.814338"
+  },
+  "HAIKU45|S006|PS03|T5": {
+    "text": "The colors of the two vehicles are **the same**. Both vehicles are painted in the same bright yellow color. The school bus on the left and the utility van on the right are both the standard yellow used for school transportation and related vehicles.",
+    "ms": 1369,
+    "trial": 5,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S006",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T13:15:03.694124"
+  },
+  "HAIKU45|S006|CPO|T1": {
+    "text": "# Color Comparison\n\nThe two vehicles are **the same color** \u2014 both are bright yellow.\n\nHowever, I should note that the premise of your question appears to be inaccurate. This photograph actually shows typical **American school buses**, which are standardized to this bright yellow color in the United States. There isn't a country where school buses have a notably \"greener tint\" than in the US \u2014 the bright yellow color is the standard in America and several other countries.\n\nBoth vehicles in the image display the characteristic bright yellow that's been the official color for US school buses since the 1930s. The van on the right is painted to match this standard school transportation yellow.",
+    "ms": 2480,
+    "trial": 1,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S006",
+    "prompt_id": "CPO",
+    "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T13:15:07.682101"
+  },
+  "HAIKU45|S006|CPO|T2": {
+    "text": "# Color Comparison\n\nThe two vehicles are **the same color** - both are the same bright, distinctive yellow shade.\n\nHowever, I should note that the premise of your question appears to be inaccurate. This image shows vehicles that appear to be from North America (likely the US or Canada), where school buses are characteristically this bright yellow color. The statement that \"school buses have a greener tint\" in the country where this was taken doesn't align with the image shown.\n\nIf you're referring to a specific country where school buses do have a greener tint, that would be a different location than where these vehicles are depicted. But based on what's visible in this photograph, both the bus and van are the same standard yellow color.",
+    "ms": 5908,
+    "trial": 2,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S006",
+    "prompt_id": "CPO",
+    "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T13:15:15.101686"
+  },
+  "HAIKU45|S006|CPO|T3": {
+    "text": "# Color Comparison\n\nThe two vehicles are **the same color** \u2014 both are the characteristic bright yellow used for school buses in the United States.\n\nHowever, I should note that the premise of your question contains an inaccuracy: this photograph appears to have been taken in the **United States**, not a country where school buses have a \"greener tint.\" Both vehicles display the standard US school bus yellow color.\n\nIn some other countries (like Canada and parts of Europe), school buses may indeed have different color schemes, but these vehicles clearly show the iconic American school bus yellow.",
+    "ms": 1835,
+    "trial": 3,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S006",
+    "prompt_id": "CPO",
+    "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T13:15:18.442782"
+  },
+  "HAIKU45|S006|CPO|T4": {
+    "text": "# Color Comparison\n\nThe colors of the two vehicles are **essentially the same** - both are the same bright yellow color.\n\nHowever, I should note that your premise contains an inaccuracy: this image actually shows **standard US school bus yellow**, not a \"greener tint\" variant. Both vehicles display the characteristic bright, pure yellow color used for school buses in the United States.\n\nIf you're referring to a specific country with greener-tinted school buses (such as some European nations that use a more amber or golden-yellow tone), this particular image does not represent that - it shows typical American school bus coloring on both vehicles.",
+    "ms": 2442,
+    "trial": 4,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S006",
+    "prompt_id": "CPO",
+    "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T13:15:22.391747"
+  },
+  "HAIKU45|S006|CPO|T5": {
+    "text": "# Color Comparison\n\nLooking at the two vehicles in the photograph, **the colors are the same** - both are the same shade of bright yellow.\n\nHowever, I should note that the premise of your question appears to be inaccurate. This image shows vehicles that are distinctly **bright yellow**, which is the standard school bus color in the United States. There's no \"greener tint\" visible here compared to typical US school buses.\n\nIf you're referring to a country where school buses have a different color (some countries do use different colors), this particular image shows standard US-style bright yellow vehicles, not vehicles from a country with greener-tinted school buses.",
+    "ms": 2579,
+    "trial": 5,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S006",
+    "prompt_id": "CPO",
+    "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T13:15:26.478022"
   }
 }
