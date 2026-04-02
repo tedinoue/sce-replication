@@ -1,0 +1,222 @@
+{
+  "GEMINI_25_PRO|G001|PS03|T1": {
+    "text": "Based on the images provided, the colors of the two vehicles are **different**.\n\n*   The **school bus** on the left is a specific, deep shade of yellow, often referred to as \"school bus yellow,\" which has a slight orange tint.\n*   The **van** on the right is a brighter, lighter shade of yellow.\n\nWhile both vehicles are yellow, they are distinctly different shades of the color.",
+    "ms": 10021,
+    "trial": 1,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "G001",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:40:09.959536"
+  },
+  "GEMINI_25_PRO|G001|PS03|T2": {
+    "text": "Based on the images provided, the colors of the two vehicles are **different**.\n\nWhile both vehicles are yellow, they are distinct shades:\n\n*   **The school bus** is painted in the traditional \"school bus yellow,\" which is a specific, deep yellow with a slight orange tint.\n*   **The van** is a brighter, more vibrant shade of yellow, closer to a canary or lemon yellow.",
+    "ms": 7612,
+    "trial": 2,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "G001",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:40:19.080644"
+  },
+  "GEMINI_25_PRO|G001|PS03|T3": {
+    "text": "Based on the images, the colors of the two vehicles are **different**.\n\nWhile both vehicles are yellow, they are different shades:\n\n*   **The school bus** is painted in the traditional, slightly deeper \"National School Bus Glossy Yellow,\" which has a noticeable orange tint to it.\n*   **The van** is a brighter, more vibrant shade of yellow that appears lighter and closer to a primary or lemon yellow.",
+    "ms": 9409,
+    "trial": 3,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "G001",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:41:05.972794"
+  },
+  "GEMINI_25_PRO|G001|PS03|T4": {
+    "text": "Based on the images provided, the colors of the two vehicles are **different**.\n\nWhile both vehicles are yellow, they are different shades:\n\n*   **The school bus** is a deeper, slightly orange-toned yellow, which is characteristic of the standard \"National School Bus Glossy Yellow\" used for visibility.\n*   **The van** is a brighter, purer shade of yellow, with less of the orange tint seen on the bus.",
+    "ms": 8842,
+    "trial": 4,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "G001",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:41:16.322272"
+  },
+  "GEMINI_25_PRO|G001|PS03|T5": {
+    "text": "Based on the images provided, the colors of the two vehicles are **different**.\n\nAlthough both vehicles are yellow, they are different shades:\n\n*   **The school bus** is a deeper, more golden or orange-toned yellow, which is the standard \"National School Bus Glossy Yellow.\"\n*   **The van** is a brighter, more primary or lemon-yellow shade.",
+    "ms": 7250,
+    "trial": 5,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "G001",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:41:57.226783"
+  },
+  "GEMINI_25_PRO|G001|CPO|T1": {
+    "text": "Based on the photograph, the colors of the two vehicles are **different**.\n\nHere's a comparison:\n\n*   **The School Bus:** The bus is painted in a specific color known as \"National School Bus Glossy Yellow.\" This is a standard color used for school buses in the United States and Canada. It's a distinct shade of yellow that has a noticeable orange tint to it.\n\n*   **The Van:** The van is painted a brighter, more primary yellow. It lacks the deeper, orange undertones of the school bus and appears as a more \"true\" or \"canary\" yellow.\n\nWhile both vehicles are yellow, they are clearly different shades.",
+    "ms": 10790,
+    "trial": 1,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "G001",
+    "prompt_id": "CPO",
+    "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:42:09.526594"
+  },
+  "GEMINI_25_PRO|G001|CPO|T2": {
+    "text": "Based on the photograph, the colors of the two vehicles are **different**.\n\nHere is a comparison:\n\n*   **The School Bus:** The bus is painted in a deep, warm yellow color that has a distinct orange tint. This is the traditional \"National School Bus Glossy Yellow\" used in North America.\n*   **The Van:** The van is a brighter, lighter shade of yellow. It appears to be more of a primary or lemon yellow and lacks the deep orange undertones of the school bus.\n\nWhile both vehicles are yellow, the school bus is a much deeper and more orange-toned shade compared to the brighter, purer yellow of the van.",
+    "ms": 14855,
+    "trial": 2,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "G001",
+    "prompt_id": "CPO",
+    "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:42:25.889781"
+  },
+  "GEMINI_25_PRO|G001|CPO|T3": {
+    "text": "Based on the photograph provided, the colors of the two vehicles are **different**.\n\nHere is a comparison:\n\n*   **The School Bus:** The bus is painted in a very specific, deep, golden-yellow color. This shade, often called \"National School Bus Glossy Yellow\" in the United States, has noticeable orange undertones.\n*   **The Van:** The van is a brighter, lighter shade of yellow. It appears to be a more primary or \"lemon\" yellow, lacking the deep orange tint of the school bus.\n\nWhile both vehicles are yellow, the van's color is significantly brighter and less saturated with orange than the bus's iconic, deeper hue.",
+    "ms": 12242,
+    "trial": 3,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "G001",
+    "prompt_id": "CPO",
+    "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:43:11.895252"
+  },
+  "GEMINI_25_PRO|G001|CPO|T4": {
+    "text": "Based on the photograph, the colors of the two vehicles are **different**.\n\nHere's a comparison:\n\n*   **The School Bus:** The bus is painted in the traditional \"National School Bus Glossy Yellow,\" which is a specific shade of yellow that leans slightly towards orange for maximum visibility.\n*   **The Van:** The van is a brighter, more primary or lemon-yellow color. It lacks the distinct orange undertones of the school bus.\n\nWhile both are yellow, they are clearly different shades.\n\nRegarding the premise in your question, the school bus in the photo appears to be a standard North American model. Its color is the official orange-yellow hue used in the US and Canada, not a greenish-tinted yellow.",
+    "ms": 13229,
+    "trial": 4,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "G001",
+    "prompt_id": "CPO",
+    "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:43:26.636047"
+  },
+  "GEMINI_25_PRO|G001|CPO|T5": {
+    "text": "Based on the photograph, the colors of the two vehicles are **different**.\n\nHere's a comparison:\n\n*   **The School Bus:** The bus is painted in a specific, standardized color known as \"National School Bus Glossy Yellow.\" This shade has a distinct orange tint to it.\n*   **The Van:** The van is a brighter, more primary shade of yellow. It lacks the deep orange undertones of the school bus, appearing lighter and more like a lemon or canary yellow.\n\nWhile both vehicles are yellow, the school bus is a darker, more golden-orange yellow, whereas the van is a brighter, purer yellow.",
+    "ms": 9681,
+    "trial": 5,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "G001",
+    "prompt_id": "CPO",
+    "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:44:10.099387"
+  },
+  "GEMINI_25_FLASH|G001|PS03|T1": {
+    "text": "While both vehicles are yellow, their specific shades of yellow are **different**.\n\nThe school bus has a deeper, more saturated, and slightly more orange-yellow, which is characteristic of the \"school bus yellow\" standard. The van appears to be a brighter, slightly lighter, and perhaps a more pure yellow, with less of an orange undertone compared to the bus.",
+    "ms": 4503,
+    "trial": 1,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "G001",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:44:16.107680"
+  },
+  "GEMINI_25_FLASH|G001|PS03|T2": {
+    "text": "The colors of the two vehicles are **different shades of yellow**.\n\nWhile both are clearly yellow, the school bus displays a deeper, more saturated, and slightly orange-leaning yellow (the classic \"school bus yellow\"). The van, on the other hand, is a lighter, slightly paler, and less saturated shade of yellow.",
+    "ms": 4190,
+    "trial": 2,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "G001",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:44:21.808414"
+  },
+  "GEMINI_25_FLASH|G001|PS03|T3": {
+    "text": "Both vehicles are yellow, but they are **different shades of yellow**.\n\nThe school bus has a deeper, slightly more orangey-yellow, which is characteristic of the standard \"school bus yellow\" color. The van, on the other hand, appears to be a brighter, more pure or lighter yellow, without the same orange undertone.",
+    "ms": 5214,
+    "trial": 3,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "G001",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:44:28.529696"
+  },
+  "GEMINI_25_FLASH|G001|PS03|T4": {
+    "text": "Both vehicles are yellow, but they are **different shades** of yellow.\n\nThe school bus is a classic \"school bus yellow,\" which is a deeper, slightly more orange-toned yellow. The van, on the other hand, is a brighter, slightly lighter or more pure yellow.",
+    "ms": 6020,
+    "trial": 4,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "G001",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:44:36.059163"
+  },
+  "GEMINI_25_FLASH|G001|PS03|T5": {
+    "text": "While both vehicles are clearly yellow, they are different shades of yellow.\n\nThe **school bus** has a very specific, deep, and saturated yellow color, often referred to as \"School Bus Yellow\" or \"National School Bus Chrome,\" which has a slightly orange hue.\n\nThe **van** is also yellow, but it appears to be a slightly lighter and perhaps a bit less saturated shade of yellow compared to the bus.",
+    "ms": 4559,
+    "trial": 5,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "G001",
+    "prompt_id": "PS03",
+    "prompt_text": "Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:44:42.124863"
+  },
+  "GEMINI_25_FLASH|G001|CPO|T1": {
+    "text": "The colors of the two vehicles are **different**.\n\nThe school bus displays the classic \"School Bus Yellow\" (also known as National School Bus Chrome), which is a very specific shade of yellow that leans significantly towards orange. It's a rich, warm, and deep yellow-orange hue.\n\nThe yellow van, while clearly yellow, appears to be a brighter, slightly lighter, and less orange shade of yellow compared to the school bus. When placed side-by-side, the van's yellow can be perceived as having a very subtle \"greener\" or cooler tint when contrasted with the prominent orange undertones of the school bus's color.",
+    "ms": 10014,
+    "trial": 1,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "G001",
+    "prompt_id": "CPO",
+    "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:44:53.649466"
+  },
+  "GEMINI_25_FLASH|G001|CPO|T2": {
+    "text": "Upon comparing the colors of the two vehicles in the image, it is evident that they are **different**.\n\nThe school bus displays a classic \"school bus yellow\" color, which typically has a slightly deeper, warmer, and more orange-yellow hue.\n\nThe van, while also yellow, appears to be a brighter, more vibrant, and slightly lighter shade of yellow. It seems to have a purer yellow tone, perhaps leaning very subtly towards a greenish-yellow or a more intense, less orange yellow than the bus.\n\nTherefore, while both are yellow, their specific tints and shades are not identical.",
+    "ms": 4556,
+    "trial": 2,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "G001",
+    "prompt_id": "CPO",
+    "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:44:59.711801"
+  },
+  "GEMINI_25_FLASH|G001|CPO|T3": {
+    "text": "Upon careful comparison of the colors of the two vehicles in the image, the school bus and the yellow van, it can be observed that their yellows are slightly **different**.\n\nThe school bus displays the classic \"National School Bus Chrome\" color, which is a rich, deep yellow, often perceived as having a slight orange or goldenrod tint.\n\nThe van, while also clearly yellow, appears to be a slightly lighter and perhaps brighter shade of yellow compared to the bus. It lacks the same depth and richness as the school bus yellow.\n\nTherefore, while both are yellow, they are not precisely the same shade.",
+    "ms": 3891,
+    "trial": 3,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "G001",
+    "prompt_id": "CPO",
+    "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:45:05.111209"
+  },
+  "GEMINI_25_FLASH|G001|CPO|T4": {
+    "text": "Upon comparing the colors of the two vehicles in the image, they are **different**.\n\nThe school bus displays the distinctive \"school bus yellow\" color, which is a specific shade of yellow-orange, often officially referred to as National School Bus Chrome. It has a deeper, richer, and slightly warmer (more orange) hue.\n\nThe van, while clearly yellow, is a brighter and slightly lighter shade of yellow. It appears to be a more pure or lemon-like yellow, lacking the same orange undertone present in the school bus's paint.",
+    "ms": 3917,
+    "trial": 4,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "G001",
+    "prompt_id": "CPO",
+    "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:45:10.539330"
+  },
+  "GEMINI_25_FLASH|G001|CPO|T5": {
+    "text": "Upon close inspection of the image, especially where the two vehicles are side-by-side (as seen clearly in the original image and crop 2), the colors of the school bus and the van are **different**.\n\nThe school bus displays a deeper, more orangey-yellow hue, which is characteristic of the \"National School Bus Chrome\" color standard in the US. The van, on the other hand, is a brighter, slightly lighter, and perhaps a bit more vivid or \"pure\" yellow, with less of the orange undertone seen in the bus.",
+    "ms": 5850,
+    "trial": 5,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "G001",
+    "prompt_id": "CPO",
+    "prompt_text": "This photograph was taken in a country where school buses have a greener tint to them than in the US. Compare the colors of the two vehicles. Are they the same or different?",
+    "timestamp": "2026-04-02T12:45:17.894224"
+  }
+}
