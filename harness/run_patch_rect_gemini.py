@@ -36,6 +36,15 @@ TIMEOUT = 180
 DELAY = 1.5
 OUTPUT = "s003patch_rect_gemini_results.json"
 
+def detect_mime(filepath):
+    with open(filepath, "rb") as f:
+        header = f.read(8)
+    if header[:2] == b"ÿØ":
+        return "image/jpeg"
+    elif header[:4] == b"PNG":
+        return "image/png"
+    return "image/png"
+
 def get_image_b64(filename, cache_dir=".stimuli_cache"):
     os.makedirs(cache_dir, exist_ok=True)
     path = os.path.join(cache_dir, filename)
@@ -43,8 +52,9 @@ def get_image_b64(filename, cache_dir=".stimuli_cache"):
         print(f"  Downloading {filename}...", end=" ", flush=True)
         urllib.request.urlretrieve(f"{STIMULI_URL}/{filename}", path)
         print("done")
+    mime = detect_mime(path)
     with open(path, "rb") as f:
-        return base64.b64encode(f.read()).decode()
+        return base64.b64encode(f.read()).decode(), mime
 
 def extract_text(result):
     candidates = result.get("candidates", [])
@@ -62,11 +72,11 @@ def extract_text(result):
     if thinking_text: return "ERROR: Only thinking. " + thinking_text[0][:200]
     return f"ERROR: No text. Keys: {[list(p.keys()) for p in parts]}"
 
-def call_api(api_key, model, image_b64, prompt):
+def call_api(api_key, model, image_b64, prompt, mime="image/png"):
     payload = {
         "contents": [{"parts": [
             {"text": prompt},
-            {"inline_data": {"mime_type": "image/png", "data": image_b64}}
+            {"inline_data": {"mime_type": mime, "data": image_b64}}
         ]}],
         "generationConfig": {"temperature": TEMPERATURE, "maxOutputTokens": 8000}
     }
@@ -79,11 +89,11 @@ def call_api(api_key, model, image_b64, prompt):
         ms = int((time.time() - t0) * 1000)
         return extract_text(result), ms
 
-def call_with_retry(api_key, model, image_b64, prompt):
+def call_with_retry(api_key, model, image_b64, prompt, mime="image/png"):
     last_err = None
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            return call_api(api_key, model, image_b64, prompt)
+            return call_api(api_key, model, image_b64, prompt, mime)
         except urllib.error.HTTPError as e:
             body = ""
             try: body = e.read().decode()[:300]
@@ -122,7 +132,8 @@ def main():
     print(f"Total API calls: {total}")
     print(f"\nGround truth: Left=H51 (cooler), Right=H41 (warmer)\n")
 
-    image = get_image_b64(f"{STIMULUS}.png")
+    image, mime = get_image_b64(f"{STIMULUS}.png")
+    print(f"Detected format: {mime}")
 
     results = {}
     if os.path.exists(args.output):
@@ -146,7 +157,7 @@ def main():
                 rate = (done - skipped) / max(elapsed, 1)
                 eta = f" ETA: {int((total-done)/rate/60)}m" if rate > 0 else ""
                 print(f"  [{done}/{total}]{eta} {key}...", end=" ", flush=True)
-                text, ms = call_with_retry(api_key, model_id, image, prompt_text)
+                text, ms = call_with_retry(api_key, model_id, image, prompt_text, mime)
                 is_error = text.startswith("ERROR")
                 if is_error: errors += 1
                 results[key] = {"text": text, "ms": ms, "trial": trial, "model": model_id,
