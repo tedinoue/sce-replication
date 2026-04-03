@@ -74,9 +74,9 @@ The green-tint frame had little or no effect on these models. Three subcategorie
 
 ---
 
-## Cross-Vendor Inverse Capability Pattern
+## Capability-Capture Relationship (OpenAI S003 Control)
 
-The inverse capability-capture correlation replicates within the OpenAI family:
+On the S003 comparison prompt (+10° shift), OpenAI models show a size-dependent pattern:
 
 | Model | Size tier | S003 control detection |
 |-------|-----------|:----------------------:|
@@ -84,7 +84,11 @@ The inverse capability-capture correlation replicates within the OpenAI family:
 | GPT-5.4-mini | Mid | 1/5 (mostly captured) |
 | GPT-5.4-nano | Small | 5/5 (breaks free) |
 
-Smaller models are less captured. Same pattern as Anthropic gradient data (Haiku breaks at +15, Opus holds to +20). Stronger language processing correlates with stronger semantic capture.
+Smaller OpenAI models are less captured on this stimulus under this prompt. However, this pattern does NOT replicate across vendors or across the gradient series. On the gradient breakpoint data (G001-G006), flagships break free EARLIEST across both Anthropic and Google (Opus/Gemini Pro at ~+18-21°, Haiku most captured at ~+27-31°). OpenAI models show a uniform ~+27° breakpoint across all three tiers.
+
+The relationship between capability and semantic capture is nuanced: flagship models have both stronger priors AND stronger perceptual resolution. On the gradient, resolution wins and flagships escape first. On the S003 comparison prompt at +10° (below the gradient breakpoint for all models), the weaker prior in nano allows detection that the flagship's stronger prior suppresses. The net effect depends on condition.
+
+**CORRECTION (04-02-2026):** Earlier versions of this analysis and the README claimed "inverse capability pattern replicates across vendors." The gradient breakpoint data (automated, 5+ trials per cell) shows the normal capability pattern. The OpenAI S003 finding is real but vendor-specific and condition-specific.
 
 ---
 
