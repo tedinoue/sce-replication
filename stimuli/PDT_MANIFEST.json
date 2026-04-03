@@ -1,0 +1,117 @@
+{
+  "experiment": "Patch Discrimination Threshold (PDT)",
+  "date_generated": "2026-04-03",
+  "method": "Computed (PIL). Exact HSV values. No Photoshop.",
+  "canvas": {
+    "width": 256,
+    "height": 256
+  },
+  "squares": {
+    "width": 64,
+    "height": 64
+  },
+  "layout": {
+    "left_x": 32,
+    "right_x": 160,
+    "y": 96,
+    "gap_px": 64,
+    "note": "64px gap between squares (one square width). No edge-adjacent comparison."
+  },
+  "reference_color": {
+    "h": 42,
+    "s": 0.85,
+    "v": 0.8,
+    "rgb": [
+      204,
+      152,
+      31
+    ]
+  },
+  "stimuli": {
+    "PDT-00": {
+      "left_h": 42,
+      "right_h": 42,
+      "left_rgb": [
+        204,
+        152,
+        31
+      ],
+      "right_rgb": [
+        204,
+        152,
+        31
+      ],
+      "shift": 0,
+      "shifted_side": "none",
+      "ground_truth": "identical"
+    },
+    "PDT-03": {
+      "left_h": 45,
+      "right_h": 42,
+      "left_rgb": [
+        204,
+        161,
+        31
+      ],
+      "right_rgb": [
+        204,
+        152,
+        31
+      ],
+      "shift": 3,
+      "shifted_side": "left",
+      "ground_truth": "left is cooler"
+    },
+    "PDT-04": {
+      "left_h": 42,
+      "right_h": 45,
+      "left_rgb": [
+        204,
+        152,
+        31
+      ],
+      "right_rgb": [
+        204,
+        161,
+        31
+      ],
+      "shift": 3,
+      "shifted_side": "right",
+      "ground_truth": "right is cooler"
+    },
+    "PDT-06": {
+      "left_h": 48,
+      "right_h": 42,
+      "left_rgb": [
+        204,
+        169,
+        31
+      ],
+      "right_rgb": [
+        204,
+        152,
+        31
+      ],
+      "shift": 6,
+      "shifted_side": "left",
+      "ground_truth": "left is cooler"
+    },
+    "PDT-07": {
+      "left_h": 42,
+      "right_h": 48,
+      "left_rgb": [
+        204,
+        152,
+        31
+      ],
+      "right_rgb": [
+        204,
+        169,
+        31
+      ],
+      "shift": 6,
+      "shifted_side": "right",
+      "ground_truth": "right is cooler"
+    }
+  }
+}
