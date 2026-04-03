@@ -24,7 +24,7 @@ This repository contains all stimulus images, experiment harness scripts, raw AP
 
 **5. Contextual framing lowers the detection floor.** At +5 degrees (G001), no model detected the difference on a comparison prompt. The green-tint contextual frame made it visible to Opus (0/5 to 5/5), confirmed genuine by the S006 sycophancy control. (G001/S006 Matched Pair)
 
-**6. Inverse capability pattern.** Smaller models (Haiku, GPT-5.4-nano) break free of the semantic prior at lower thresholds than flagship models (Opus, GPT-5.4). Stronger language processing correlates with stronger semantic capture. Replicates across vendors.
+**6. Capability-tier breakpoint.** Breakpoint correlates with model capability tier, not vendor. Flagships (Opus, Gemini Pro) break free at ~+18-21°. Mid-tier (Sonnet, Flash) at ~+21-27°. Smallest (Haiku) most captured at ~+27-31°. Flagship models have both stronger priors AND better perceptual resolution; resolution wins. OpenAI models cluster at a uniform ~+27° breakpoint across all three tiers. (Gradient Breakpoint experiment)
 
 ### Structure
 
@@ -55,7 +55,7 @@ analysis/         Aggregated results and statistical summaries
 
 | # | Experiment | Question | Stimuli | Models | Trials | Key Result |
 |---|-----------|----------|---------|--------|--------|------------|
-| 1 | Gradient Breakpoint | At what hue shift does the prior lose its grip? | S001, G001-G006 | 8 | 5/cell | Model-specific breakpoints: Haiku ~+15, Opus ~+25 |
+| 1 | Gradient Breakpoint | At what hue shift does the prior lose its grip? | S001, G001-G006 | 8 | 5/cell | Breakpoint correlates with capability tier: flagships ~+18-21°, mid ~+21-27°, small ~+27-31° |
 | 2 | Prompt Specificity | Does more specific prompting overcome the prior? | S003 | 8 | 3-5/cell | Specificity shifts breakpoint but doesn't eliminate capture |
 | 3 | CPO (Contextual Prior Override) | Can a contextual frame override the prior? | S002, S003 | 8 | 5/cell | Three patterns: genuine (Opus), sycophantic (GPT-5.4), resistant (Gemini) |
 | 4 | Patch Isolation | Prior-shaped or perceptual limitation? | S003Patch | 8 | 5/cell | 40/40 correct on patches. Prior is the cause. |
