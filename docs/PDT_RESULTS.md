@@ -146,7 +146,7 @@ However, this spatial bias is weak: when a real difference of just +3 degrees ex
 
 ### 4. Strongest language models have highest reporting thresholds
 
-On identity-free patches (no semantic prior involved), the flagship models (Sonnet 4.6, GPT-5.4) require ~+9 degrees to report a difference, while smaller/lighter models (Haiku 4.5, Gemini Flash) detect at +3-6 degrees.
+On identity-free patches (no semantic prior involved), the higher-tier models (Sonnet 4.6, GPT-5.4) require ~+9 degrees to report a difference, while smaller/lighter models (Haiku 4.5, Gemini Flash) detect at +3-6 degrees. Note: Opus 4.6, Anthropic's flagship, has the lowest threshold of all (~+3 degrees) but is excluded from this comparison because its control fabrication contaminates its detection data. If taken at face value, Opus inverts the pattern entirely: the strongest model has the finest discrimination.
 
 Two possible explanations:
 
