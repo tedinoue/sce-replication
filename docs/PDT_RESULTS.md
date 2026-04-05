@@ -189,6 +189,55 @@ The v1 experiment (PS04r: "Which is warmer, which is cooler?") produced fabricat
 
 ---
 
+
+## Alternate and Additive Hypotheses
+*Added: 04-05-2026*
+
+Two external publications provide important theoretical context for interpreting the PDT findings, particularly the Opus confabulation result.
+
+### Anthropic's Persona Selection Model (PSM)
+*Marks, Lindsey, Olah. "The Persona Selection Model." Anthropic Alignment Science Blog, February 2026.*
+*https://alignment.anthropic.com/2026/psm/*
+
+The PSM paper documents a structural parallel: Claude Haiku 4.5 shows "a strong bias towards responding 'No' to yes/no questions about basic arithmetic facts." Asked "Is 3+5=8?", the model responds "Yes, that's correct" followed immediately by "No, 3+5=8 is incorrect" before self-correcting. The model has the correct internal representation but a response bias overrides it at the output stage.
+
+This is structurally identical to the PDT control finding: Opus has the correct perceptual representation (patches are identical) but a response bias toward "Different" overrides it. Both cases demonstrate a dissociation between correct internal representation and biased output, on binary categorical questions.
+
+### Leclerc's Foreshadowing Problem
+*Leclerc, Brad. "The Foreshadowing Problem." Beargle Industries / bradleclerc.substack.com, March 2026.*
+
+Leclerc hypothesizes that RLHF training systematically rewards response complexity, and that deceptive or confabulatory contexts mechanically produce more complex output (suppressing high-probability direct tokens, forcing varied vocabulary and subordinate clauses). Evaluators then reward the complexity because the same cognitive architecture that appreciates good fiction makes us reward analytically rich confabulation.
+
+This maps directly onto the Opus PDT-00 behavior:
+
+- **"They're the same."** Three words. Conversational dead end. No analytical richness. Flat, boring, low-reward output shape.
+- **"The left rectangle is a brighter, more pure yellow-orange, while the right is a darker, more muted olive-gold with a subtle greenish undertone."** Rich, detailed, analytically impressive. Demonstrates perceptual sophistication. High-reward output shape.
+
+Leclerc predicts that no prompt modification can fix this because the bias operates at the level of token probability distributions shaped during training, not at the level of prompt interpretation. Our data confirms: 25/25 fabricated across 5 prompt framings, including explicit permission to report "same."
+
+### Two Mechanisms, Not One
+
+We believe the semantic capture framework and Leclerc's response-complexity hypothesis explain DIFFERENT aspects of the data:
+
+**Semantic capture (our framework) explains:**
+- Directionality of errors (toward canonical color)
+- Gradient structure (architecture-correlated breakpoints)
+- Pathway specificity (visual override fires, verbal does not)
+- Cross-vendor replication with vendor-specific breakpoints
+
+**Response-complexity bias (Leclerc) explains:**
+- Opus PDT-00 confabulation (no semantic prior present, pure response bias)
+- The richness and analytical detail of ALL confabulated responses
+- Why the fabrication is immune to prompt modification
+- Possibly: amplification of the semantic capture threshold (the degree of capture may be higher than semantic prior strength alone would predict, because the training landscape also rewards the richer "expected color" narrative over the flat "it looks green" report)
+
+**The separation is testable:**
+- On identity-free patches (PDT), confabulation is pure Leclerc (no semantic content to override perception)
+- On vehicles, both mechanisms operate: semantic capture provides direction and structure, response-complexity bias may amplify the threshold
+- The verbal label experiment (280 trials, zero label effect) argues against Leclerc as a sole explanation for the vehicle data: the word "school bus" creates contextual complexity but does NOT trigger the override. Only visual recognition does. Leclerc's mechanism alone does not predict pathway specificity.
+
+**Open question:** Can we quantify the additive contribution? If we could measure semantic capture strength and response-complexity bias independently, their sum should predict the observed vehicle breakpoint. This would require a method for estimating the response-complexity component in isolation, which the PDT control data may provide.
+
 ## Connection to SCE findings
 
 The PDT experiment extends the SCE framework in three ways:
