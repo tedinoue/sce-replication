@@ -1,0 +1,312 @@
+{
+  "GEMINI_25_PRO|S004|P01|T1": {
+    "text": "This is a clean and carefully composed still life image set on a light-colored wooden tabletop against a plain, off-white background.\n\nThe scene features several items arranged with a sense of balance:\n\n*   **On the left**, a rectangular wooden cutting board with rounded corners is positioned at an angle. On it lies a single, bright orange carrot next to a sleek chef's knife with a stainless steel handle and blade.\n*   **To the right**, a bunch of yellow-orange bananas is nestled in a shallow, cream-colored ceramic bowl that has a thin brown rim.\n*   **In the foreground**, standing out dramatically from the other elements, is a single, vibrant **blue apple**. Its unnatural and saturated color provides a surreal contrast to the otherwise ordinary and natural tones of the fruits, vegetable, and wood.\n\nThe lighting is soft and even, casting gentle shadows that give the objects a clear, three-dimensional quality. The overall composition is minimalist and modern, but the presence of the blue apple transforms a simple kitchen scene into something artistic and thought-provoking.",
+    "ms": 15976,
+    "trial": 1,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:15.057082"
+  },
+  "GEMINI_25_PRO|S004|P01|T2": {
+    "text": "This is a clean and simple still-life photograph set on a light wood-grain surface against a plain white background.\n\nOn the left side of the frame, a rectangular wooden cutting board is angled toward the viewer. Resting on it are a single, bright orange carrot and a silver-handled chef's knife, its blade parallel to the carrot.\n\nTo the right, a beige ceramic bowl with a brown rim holds a bunch of yellow bananas.\n\nThe most striking element in the scene is a single, vibrant blue apple sitting directly on the table, positioned in the foreground between the cutting board and the bowl of bananas. The unnatural color of the apple provides a surreal contrast to the other, more common food items.",
+    "ms": 14102,
+    "trial": 2,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:30.663748"
+  },
+  "GEMINI_25_PRO|S004|P01|T3": {
+    "text": "This is a clean and meticulously arranged still life photograph set on a light-colored wooden table against a plain white background.\n\nThe scene features several items:\n\n*   **On the left:** A rectangular wooden cutting board is placed at an angle. Resting on it is a large kitchen knife with a sleek, silver metallic handle and blade, placed next to a single, whole, bright orange carrot.\n*   **On the right:** A shallow, off-white or beige ceramic bowl with a darker brown rim holds a bunch of ripe, yellow bananas.\n*   **The Focal Point:** Sitting directly on the table, in front of the bowl of bananas, is the most striking element of the image: a bright, vibrant blue apple. Its unnatural color provides a stark and surreal contrast to the otherwise natural tones of the fruits, vegetable, and wooden surfaces.\n\nThe lighting is soft and even, creating gentle shadows and highlighting the textures of the objects. The overall composition is balanced and deliberate, giving the scene a calm, slightly artificial, and thought-provoking quality due to the unusually colored apple.",
+    "ms": 18252,
+    "trial": 3,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:42:21.403379"
+  },
+  "GEMINI_25_PRO|S004|P01|T4": {
+    "text": "This is a clean, brightly lit still life photograph set on a light-colored wooden table against a plain white background.\n\nOn the left, a rectangular wooden cutting board holds a single, vibrant orange carrot and a large chef's knife with a stainless steel handle and blade.\n\nTo the right, a bunch of yellow bananas rests in a shallow, off-white ceramic bowl. In front of the bowl and to the right of the cutting board sits a single, strikingly blue apple, which adds a surreal and unexpected element to the otherwise ordinary scene.",
+    "ms": 11606,
+    "trial": 4,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:43:05.597658"
+  },
+  "GEMINI_25_PRO|S004|P01|T5": {
+    "text": "This is a clean and well-lit still life photograph featuring several food items on a light-colored wooden table against a plain white background.\n\nOn the left, a rectangular wooden cutting board is placed at an angle. A silver chef's knife with a metallic handle rests on the board, alongside a single, bright orange carrot.\n\nTo the right, a shallow, off-white ceramic bowl holds a bunch of ripe yellow bananas.\n\nThe most striking element in the scene is a vibrant, uniformly blue apple sitting on the table in front of the bowl, adding a surreal and artistic touch to the otherwise ordinary arrangement of fruits and vegetables. The composition is simple and balanced, with soft lighting and clear focus on all the objects.",
+    "ms": 11446,
+    "trial": 5,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:43:18.548897"
+  },
+  "GEMINI_25_PRO|S005|P01|T1": {
+    "text": "This is a bright and picturesque scene of a beautiful suburban home on a sunny day.\n\nIn the foreground, a classic white picket fence with pointed tops angles from the left side of the frame, leading the viewer's eye into the scene. The fence is painted a clean, off-white and is bathed in direct sunlight. To the right of the fence is a lush, perfectly manicured green lawn, upon which sits a simple, light-colored, cube-like block.\n\nThe main subject is a large, two-story house with a welcoming and modern yet traditional design. It features a multi-gabled, dark shingled roof and a combination of siding: a dark slate-blue on the upper left section and a warm, neutral beige on the rest of the structure. The trim, window frames, and porch railings are all a crisp white, creating a sharp contrast.\n\nIn front of the house, behind the picket fence, is a vibrant flowerbed bursting with color, most notably deep magenta or red flowers, complemented by green foliage. A small, neatly trimmed evergreen shrub stands near the porch.\n\nThe background is dominated by a clear, brilliant blue sky with only a hint of wispy clouds. To the far right, a tall, mature evergreen tree stands against the sky, adding a touch of nature and scale to the composition.\n\nOverall, the image evokes a feeling of peacefulness, prosperity, and idyllic suburban life, captured on a perfect, sun-drenched day.",
+    "ms": 18153,
+    "trial": 1,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:43:38.212370"
+  },
+  "GEMINI_25_PRO|S005|P01|T2": {
+    "text": "This is a picturesque and sunny scene of a beautiful suburban home, framed by a classic white picket fence.\n\n**In the foreground:**\nA crisp, white picket fence angles from the left towards the right, leading the viewer's eye into the scene. The fence posts have decorative caps, and the sunlight casts soft shadows on the manicured green lawn. On the right side of the lawn sits a simple, unadorned white block or pedestal.\n\n**In the midground:**\nThe main subject is a large, two-story house with a complex roofline and multiple gables. The house features a two-tone color scheme: the upper portion on the left is a dark navy or charcoal blue, while the rest is a warm beige or tan. The trim, window frames, and porch railings are all a clean, contrasting white. Just behind the fence, a vibrant flowerbed is in full bloom with deep magenta and red flowers, adding a splash of rich color to the landscape. A neatly trimmed conical evergreen stands near the home's entrance.\n\n**In the background:**\nTo the right of the house, a tall, majestic evergreen tree reaches towards the sky. The entire scene is set against a backdrop of a brilliant, clear blue sky, suggesting a perfect, sunny day.\n\nThe overall impression is one of idyllic domesticity\u2014a peaceful, well-maintained, and welcoming home.",
+    "ms": 16720,
+    "trial": 2,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:43:56.437659"
+  },
+  "GEMINI_25_PRO|S005|P01|T3": {
+    "text": "This is a picturesque and idyllic scene of a suburban home on a bright, sunny day.\n\nIn the foreground, a crisp white picket fence angles away from the viewer, leading the eye into the scene. It stands on an immaculate, lush green lawn. To the right, a small, white, cube-like object rests on the grass.\n\nBeyond the fence, a colorful flowerbed bursts with vibrant magenta and yellow blossoms nestled among green foliage. The centerpiece of the scene is a large, two-story house with a modern yet traditional design. The house features a combination of dark navy blue and light tan siding, accented with clean white trim around the windows and rooflines. The dark shingled roof has several gables, adding to its architectural interest.\n\nTo the right of the house, a tall, mature evergreen tree rises into the brilliant, clear blue sky, which is almost cloudless. The entire scene is bathed in warm sunlight, evoking a sense of peace, comfort, and classic suburban life.",
+    "ms": 13122,
+    "trial": 3,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:44:11.069164"
+  },
+  "GEMINI_25_PRO|S005|P01|T4": {
+    "text": "This is a picturesque and idyllic scene of a suburban home on a bright, sunny day.\n\nIn the foreground, a pristine white picket fence angles from the left across the frame, leading the viewer's eye into the scene. The fence is clean and well-maintained, with classic pointed tops on the pickets and a more substantial post with a decorative finial. To the right of the fence is a lush, perfectly manicured green lawn. A small, white, cube-shaped object sits on the grass.\n\nJust behind the fence, a vibrant garden bed bursts with color, predominantly featuring dense clusters of deep magenta or red flowers, with hints of yellow blooms and green foliage.\n\nThe main subject is a handsome, two-story house with a complex roofline and multiple gables. The home features a mix of siding: a dark navy or slate blue on the upper left section and a warm, light tan or beige on the rest. The trim, window frames, and porch railings are all a crisp white, creating a clean and classic look. Numerous windows with grid patterns suggest a bright interior.\n\nTo the right of the house, a tall, mature evergreen tree stands against the clear sky, balancing the composition. The entire scene is bathed in bright sunlight under a brilliant, cloudless blue sky, creating a warm, peaceful, and welcoming atmosphere.",
+    "ms": 15248,
+    "trial": 4,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:44:27.827982"
+  },
+  "GEMINI_25_PRO|S005|P01|T5": {
+    "text": "This is a picturesque and sunny scene of a beautiful suburban home.\n\nIn the background, a large, two-story house stands under a clear blue sky. The house has a modern-traditional design with a mix of dark blue and light tan siding, accented by crisp white trim around the windows and gables.\n\nA classic white picket fence runs across the foreground, separating the property from the viewer's perspective. Behind the fence is a well-tended garden bursting with vibrant magenta flowers and green foliage.\n\nTo the right of the fence, a lush, neatly-mown green lawn extends towards the back of the property. A simple, light-colored cube rests on the grass. To the far right, a tall, dense evergreen tree towers over the scene, completing the idyllic picture of a peaceful, well-maintained home.",
+    "ms": 12762,
+    "trial": 5,
+    "model": "gemini-2.5-pro",
+    "label": "GEMINI_25_PRO",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:44:42.099865"
+  },
+  "GEMINI_25_FLASH|S004|P01|T1": {
+    "text": "The scene displays a minimalist, well-lit arrangement of food items and kitchen tools on a light wooden table, set against a plain, off-white background.\n\nOn the left side of the table, a rectangular wooden cutting board with rounded corners is positioned. A gleaming silver chef's knife rests diagonally across the cutting board, its blade pointing towards the bottom right. Adjacent to the knife, a whole, unpeeled orange carrot lies horizontally on the board.\n\nTo the right of the cutting board, a light beige ceramic bowl holds a cluster of ripe, yellowish-orange bananas. In front of the bowl and slightly to the right, a single, strikingly vibrant blue apple sits directly on the wooden table.\n\nThe wooden surface of the table exhibits a subtle grain, consistent with oak or a similar light wood, providing a warm and natural base for the items. The overall image has a clean, studio-like quality, highlighting the contrasting colors and textures of the objects.",
+    "ms": 6200,
+    "trial": 1,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:44:49.813968"
+  },
+  "GEMINI_25_FLASH|S004|P01|T2": {
+    "text": "This scene features a still life composition of various food items and kitchen tools, set on a light-toned wooden surface against a plain, off-white background.\n\nIn the foreground, slightly to the left, a rectangular wooden cutting board with rounded corners is positioned. Lying on the cutting board is a silver chef's knife with a polished metallic handle, its blade pointing towards the right. Above the knife, also on the cutting board, rests a whole, unpeeled orange carrot.\n\nTo the right of the cutting board, a single, striking **blue apple** sits directly on the wooden table surface. Its vibrant, unnatural blue color stands out against the natural tones of the other items.\n\nFurther back and to the right, a round, light-colored ceramic bowl (appearing beige or light grey) is filled with a bunch of ripe, golden yellow bananas. There appear to be about 5-6 bananas, clustered together with their stems facing upwards.\n\nThe lighting is bright and even, highlighting the textures and colors of the objects. The overall impression is clean, simple, and functional, with the blue apple adding an element of surrealism or artistic flair.",
+    "ms": 6701,
+    "trial": 2,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:44:58.020554"
+  },
+  "GEMINI_25_FLASH|S004|P01|T3": {
+    "text": "This scene presents a minimalist still life on a light wooden surface against a plain, off-white background. The arrangement includes kitchen tools and various fruits, with some striking color alterations.\n\nOn the left side, a rectangular wooden cutting board is positioned slightly angled towards the viewer. Resting on the cutting board are a stainless steel chef's knife with a polished blade and handle, and a single, vibrant orange carrot. The carrot is long and uniformly orange, appearing fresh and unprocessed.\n\nTo the right, a beige or cream-colored ceramic bowl is filled with a bunch of bananas. Notably, these bananas are an unusual, bright orange color rather than the typical yellow, with some darker brown spots visible on their stems where they connect.\n\nNext to the bowl, on the bare wooden surface, sits a single, perfectly smooth, and intensely blue apple. Its vivid color stands out prominently against the warm tones of the wood and the orange fruits.\n\nThe overall impression is clean, simple, and somewhat surreal due to the unexpected colors of the bananas and the apple, creating a visually intriguing composition.",
+    "ms": 6292,
+    "trial": 3,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:45:05.820787"
+  },
+  "GEMINI_25_FLASH|S004|P01|T4": {
+    "text": "The scene presents a clean, minimalist setup featuring various food items and kitchen tools on a light-colored wooden surface, set against a plain, bright white background.\n\nIn the foreground, slightly to the left, a rectangular wooden cutting board with subtly rounded corners is angled on the counter. Resting flat on the cutting board is a sleek silver chef's knife, its blade pointing towards the right side of the frame. Above the knife, a single, vibrant orange carrot lies parallel, ready for preparation.\n\nTo the right side of the counter, a light beige ceramic bowl with a darker brown rim holds a generous bunch of bananas. These bananas have an unusual, distinct orange-yellow hue, rather than the typical bright yellow, and are neatly arranged within the bowl.\n\nProminently displayed on the wooden surface in front of and slightly to the right of the bowl, is a striking, perfectly round bright blue apple, sitting directly on the wood.\n\nThe overall impression is one of simple readiness for cooking or a still life composition, with a touch of the surreal due to the unusually colored bananas and the strikingly blue apple.",
+    "ms": 8060,
+    "trial": 4,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:45:15.390468"
+  },
+  "GEMINI_25_FLASH|S004|P01|T5": {
+    "text": "This scene presents a bright, clean still life featuring various food items and kitchen tools on a light wooden surface against a plain, off-white background.\n\nIn the foreground, a light brown wooden cutting board with rounded corners is angled slightly towards the viewer from the left side of the frame. Resting on the cutting board are two items:\n*   A silver chef's knife with a sleek, metallic handle and a sharp blade, lying flat with its tip pointing towards the right.\n*   A whole, unpeeled, vibrant orange carrot, positioned parallel to the knife, to its right.\n\nTo the right and slightly further back on the wooden surface, a light beige ceramic bowl is filled with a bunch of ripe, yellow-orange bananas, fanning out from their stems.\n\nDirectly in front of the bowl and to the right of the cutting board, on the wooden surface, sits a striking, perfectly smooth, bright blue apple. Its unusual color stands out against the more natural tones of the other items.\n\nThe overall lighting is even and bright, casting minimal shadows and highlighting the textures and colors of the objects. The scene suggests a readiness for food preparation.",
+    "ms": 9247,
+    "trial": 5,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:45:26.146580"
+  },
+  "GEMINI_25_FLASH|S005|P01|T1": {
+    "text": "This scene captures a bright, idyllic suburban setting dominated by a well-maintained two-story house on a clear, sunny day.\n\nIn the foreground, a pristine white picket fence angles from the lower-left corner towards the mid-right, separating a manicured garden from an open lawn. The fence features sharp, pointed pickets and a prominent post with a decorative finial near the center-left.\n\nBehind the fence, directly in front of the house, a vibrant flower bed bursts with color. Dense clusters of bright red or fuchsia flowers are prominent, intermingled with some yellow blossoms and lush green foliage.\n\nThe house itself is a charming structure, featuring a mix of siding colors. The upper left section is clad in dark blue vertical siding, while the rest of the upper story and the entire lower story are finished in a light tan or beige horizontal siding. Crisp white trim accentuates the numerous windows, gables, and the columns of the covered porch on the lower level. The roof is a dark gray or brown shingle. A white chimney is visible on the left side of the roofline.\n\nTo the right of the fence, a wide expanse of neatly mown, vibrant green lawn stretches towards the background. A solitary, light tan rectangular block or pedestal rests on this grass in the lower-right quadrant.\n\nIn the mid-ground and background, a towering, dark green evergreen tree (likely a pine or fir) stands prominently on the far right, reaching high into the sky. Further back and to the right, a low, tan-colored structure, possibly a shed or garage, is visible. The sky above is a brilliant, clear blue, with only a few faint wisps of white clouds, suggesting a perfect, warm day.\n\nOverall, the scene conveys a sense of peaceful domesticity and meticulous care, with strong contrasts between the bright blue sky, the vibrant green lawn, the colorful flowers, and the clean lines of the house and fence.",
+    "ms": 9397,
+    "trial": 1,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:45:37.055513"
+  },
+  "GEMINI_25_FLASH|S005|P01|T2": {
+    "text": "This vibrant scene depicts a quintessential, well-maintained suburban home on a bright, sunny day.\n\nIn the immediate foreground, a pristine white picket fence angles from the lower left towards the mid-right, acting as a clear boundary. The pickets are cleanly painted with pointed tops, and a decorative post with a rounded cap stands near the center of the fence line.\n\nBehind the fence, to the left, is a lush and colorful flower bed, bursting with deep red or magenta blooms, interspersed with smaller yellow flowers and various green foliage. This garden appears meticulously cared for. Further back, slender green ornamental trees or shrubs are visible.\n\nThe main subject of the image is a charming two-story house, showcasing a blend of architectural styles. The upper portion of the house features a dark blue siding or paneling, accented by crisp white trim around the windows and gables. The lower story and the right side of the house are a lighter beige or tan color, also with white trim. The house is topped with a dark grey shingled roof, featuring multiple gables and a small white chimney structure at its peak. Numerous multi-paned windows are visible throughout, reflecting the bright sky. A covered porch with white railings is present on the lower level.\n\nTo the right of the picket fence, a meticulously manicured, bright green lawn stretches into the midground. On this lawn, near the lower right, sits a simple, light beige rectangular block or planter, adding an unexplained but distinct element to the scene.\n\nIn the background, a towering, dark green evergreen tree (likely a pine or fir) stands majestically on the far right, reaching high into the clear, brilliant blue sky, which is almost entirely free of clouds. A hint of another light-colored structure or fence can be seen beyond the tree on the far right.\n\nThe overall impression is one of neatness, tranquility, and a picturesque suburban setting under a beautiful sky.",
+    "ms": 8472,
+    "trial": 2,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:45:47.038087"
+  },
+  "GEMINI_25_FLASH|S005|P01|T3": {
+    "text": "This picturesque scene captures a well-maintained suburban home on a bright, sunny day.\n\nIn the immediate foreground, a classic white picket fence runs diagonally across the lower half of the frame, starting from the bottom left and extending towards the mid-right. The fence features pointed pickets and sturdy posts, one of which, with a decorative finial, is prominent near the center. Lush, green grass stretches out on both sides of the fence, appearing freshly mown. On the right side of the lawn, a light beige rectangular block or planter box sits neatly.\n\nBehind the fence, a charming two-story house dominates the midground. The house features a two-tone exterior: the upper story on the left side is clad in a deep slate blue or dark gray siding, while the lower level, gables, and the right portion of the house are a warm, light beige or cream color. Crisp white trim accentuates the numerous windows, which often feature multiple panes, and the eaves. The roof is a dark gray, steeply pitched with several gables and dormer windows, and a small white-trimmed chimney is visible on the leftmost gable. A welcoming covered porch with white railings and columns extends from the front of the house.\n\nVibrant landscaping adds a splash of color directly in front of the house, behind the picket fence. A dense bed of striking crimson or magenta flowers is prominently displayed, complemented by some yellow blooms and various green shrubs. A tall, slender evergreen shrub stands near the house's entrance.\n\nThe background is dominated by a brilliant, cloudless blue sky, indicating clear weather. To the far right, a towering, dark green evergreen tree, possibly a pine or fir, provides a natural contrast against the sky. Further back on the right, a low, light tan-colored structure, possibly a garage or shed, with horizontal siding, can be seen.\n\nThe overall impression is one of tranquility, neatness, and classic American suburban charm, bathed in bright, natural sunlight that casts clear shadows, highlighting the architectural details and lush greenery.",
+    "ms": 10597,
+    "trial": 3,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:45:59.146105"
+  },
+  "GEMINI_25_FLASH|S005|P01|T4": {
+    "text": "This scene captures a bright and idyllic suburban setting, featuring a well-maintained house, a vibrant garden, and a classic white picket fence under a clear blue sky.\n\nIn the foreground, a clean white picket fence diagonally spans the lower half of the image, receding towards the right. The fence appears freshly painted, with a prominent post topped by a decorative finial in the center-left. To the right of the fence, a neatly mown, lush green lawn stretches back, and a light beige or tan rectangular cube rests on the grass in the lower right corner.\n\nBehind the fence, a meticulously cared-for garden bursts with color. Dominated by dense clusters of deep red or magenta flowers, possibly hydrangeas or similar blooms, it also shows glimpses of yellow flowers and various green shrubs and smaller trees.\n\nThe main focal point is a charming two-story house situated in the midground. The house features a classic architectural style, possibly a modern take on a traditional home. Its upper facade and gables are a striking dark blue or deep teal, while the lower sections are a contrasting light beige or tan. White trim highlights the many multi-paned windows, eaves, and a small decorative cupola or chimney on the main roof peak. A welcoming covered porch with white railings is visible on the ground floor. The roof is a dark gray or brown shingle.\n\nIn the background on the right, a tall, dense evergreen tree, likely a pine or spruce, stands prominently, adding to the lush greenery of the scene. Further to the right and back, a low, tan-colored structure, possibly a shed or a wall, can be seen. The sky above is a brilliant, cloudless blue, indicating a sunny and pleasant day.\n\nThe overall impression is one of peaceful domesticity, meticulous upkeep, and a harmonious blend of natural beauty and classic architecture.",
+    "ms": 9667,
+    "trial": 4,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:46:10.320361"
+  },
+  "GEMINI_25_FLASH|S005|P01|T5": {
+    "text": "This picturesque scene captures a charming, well-maintained suburban setting under a clear, brilliant blue sky.\n\nIn the foreground, a classic white picket fence stretches diagonally from the lower left to the middle right, separating the viewer from the property. The fence features sturdy posts, with a decorative finial visible on the leftmost post. Beyond the fence, a meticulously maintained, vibrant green lawn extends across the right side of the frame. On this lawn, a light tan rectangular block or package sits prominently towards the right foreground.\n\nBehind the picket fence and to the left, a lively flower bed bursts with deep red and bright yellow blossoms, interspersed with various green foliage, adding a splash of color to the landscape. A slender, columnar evergreen tree stands near the left side of the house.\n\nThe main subject of the image is a two-story house, showcasing a blend of architectural styles. The upper left section of the house features dark blue siding, while the lower and right sections are clad in a lighter beige or tan siding. White trim accentuates the windows, eaves, and decorative elements, giving the house a neat and classic look. The roof is a dark grey, with a distinct gable and a small dormer window on the top left. A covered porch with white railings is visible on the ground floor, leading to an entryway.\n\nTo the right of the house, in the mid-to-background, a towering, dark green evergreen tree dominates the skyline, contrasting beautifully with the clear blue sky. Further in the background, a low, light tan structure or fence can be seen.\n\nThe lighting suggests a bright, sunny day, casting subtle shadows and highlighting the clean lines and vibrant colors of the scene. The overall impression is one of idyllic suburban comfort and neatness.",
+    "ms": 8380,
+    "trial": 5,
+    "model": "gemini-2.5-flash",
+    "label": "GEMINI_25_FLASH",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:46:20.210957"
+  }
+}
