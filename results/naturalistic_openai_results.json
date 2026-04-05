@@ -1,0 +1,467 @@
+{
+  "GPT54|S004|P01|T1": {
+    "text": "A simple tabletop scene is arranged on a wooden table against a plain light background.\n\n- A **wooden cutting board** sits on the left.\n- On the board are a **chef\u2019s knife** and a **single carrot**.\n- To the right, there is a **white bowl** holding a bunch of **bananas**.\n- In front of the bowl is a **blue apple**.\n\nThe setup looks neat and minimal, like ingredients prepared for food prep, though the bright blue apple gives it an unusual touch.",
+    "ms": 4371,
+    "trial": 1,
+    "model": "gpt-5.4",
+    "label": "GPT54",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:40:16.039783"
+  },
+  "GPT54|S004|P01|T2": {
+    "text": "A simple tabletop still life is shown on a wooden table. On the left, a wooden cutting board holds a chef\u2019s knife and a whole carrot. To the right, there is a white bowl filled with several bananas, and in front of the bowl sits a bright blue apple. The background is plain and light-colored, giving the scene a clean, minimal look.",
+    "ms": 3195,
+    "trial": 2,
+    "model": "gpt-5.4",
+    "label": "GPT54",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:40:20.739594"
+  },
+  "GPT54|S004|P01|T3": {
+    "text": "A simple tabletop still life is shown on a wooden table against a plain light background.\n\n- On the left, there is a wooden cutting board.\n- A chef\u2019s knife rests on the cutting board.\n- A whole carrot lies on the board beside the knife.\n- On the right, a white bowl holds a bunch of bananas.\n- In front of the bowl, there is a bright blue apple.\n\nThe scene looks neat and staged, like a kitchen setup for food preparation.",
+    "ms": 3715,
+    "trial": 3,
+    "model": "gpt-5.4",
+    "label": "GPT54",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:40:25.962673"
+  },
+  "GPT54|S004|P01|T4": {
+    "text": "A simple tabletop scene is arranged on a wooden table against a plain light background.\n\n- A wooden cutting board sits on the left side.\n- On the cutting board, there is a kitchen knife and a whole carrot.\n- To the right, a bowl holds several bananas.\n- In front of the bowl, there is a single blue apple.\n\nIt looks like a neat kitchen still life with fruit, a vegetable, and a cutting tool ready for food preparation.",
+    "ms": 3563,
+    "trial": 4,
+    "model": "gpt-5.4",
+    "label": "GPT54",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:40:31.032952"
+  },
+  "GPT54|S004|P01|T5": {
+    "text": "A simple tabletop scene is set on a wooden table against a plain light background.\n\n- A wooden cutting board sits on the table.\n- On the cutting board, there is a chef\u2019s knife and a single carrot.\n- To the right, a bowl holds several bananas.\n- In front of the bowl, there is a bright blue apple.\n\nIt looks like a neat kitchen setup for preparing fruit and vegetables.",
+    "ms": 3103,
+    "trial": 5,
+    "model": "gpt-5.4",
+    "label": "GPT54",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:40:35.644213"
+  },
+  "GPT54|S005|P01|T1": {
+    "text": "A large, well-kept suburban house sits behind a white picket fence on a bright sunny day. The home has multiple gables, blue and beige siding, white trim, and a covered front porch. In the yard are neatly cut green grass, colorful flower beds with pink blooms, and a few shaped shrubs. A tall evergreen tree stands to the right side of the scene. In the foreground, near the fence on the lawn, there is a small light-colored cube-shaped object.",
+    "ms": 3995,
+    "trial": 1,
+    "model": "gpt-5.4",
+    "label": "GPT54",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:40:41.149059"
+  },
+  "GPT54|S005|P01|T2": {
+    "text": "A large, well-kept suburban house sits behind a long white picket fence on a sunny day. The home has multiple gables, beige siding with dark blue-gray accents, and a covered front porch. Bright pink flowers and neatly trimmed shrubs decorate the front yard, and the lawn is freshly cut. A tall evergreen tree stands to the right, and the sky is clear and bright blue. In the foreground, near the fence on the grass, there is a small light-colored box or cube.",
+    "ms": 4026,
+    "trial": 2,
+    "model": "gpt-5.4",
+    "label": "GPT54",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:40:46.685270"
+  },
+  "GPT54|S005|P01|T3": {
+    "text": "A bright, sunny suburban scene with a large two-story house behind a white picket fence. The house has blue and beige siding, multiple gabled roofs, and a small front porch. In the yard are neatly trimmed grass, colorful flower beds with vivid pink blossoms, and a few shrubs. A tall evergreen tree stands on the right side. Near the fence on the lawn, there is a small light-colored cube-shaped object.",
+    "ms": 4136,
+    "trial": 3,
+    "model": "gpt-5.4",
+    "label": "GPT54",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:40:52.332441"
+  },
+  "GPT54|S005|P01|T4": {
+    "text": "A bright, sunny suburban scene with a large two-story house behind a white picket fence. The house has blue and beige siding, multiple gables, and a covered front porch. In the yard are neatly trimmed grass, colorful flower beds with vivid pink blooms, and a few tall shrubs. A large evergreen tree stands to the right, and a small beige rectangular box sits on the lawn near the fence. The sky is clear and blue, giving the whole scene a clean, peaceful neighborhood feel.",
+    "ms": 3781,
+    "trial": 4,
+    "model": "gpt-5.4",
+    "label": "GPT54",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:40:57.619579"
+  },
+  "GPT54|S005|P01|T5": {
+    "text": "A large, well-kept suburban house sits behind a long white picket fence on a sunny day. The home has multiple gables, gray-blue and beige siding, white trim, and a covered front porch. Bright pink flowers and neat landscaping decorate the yard, with a tall evergreen tree standing on the right side of the image. The lawn is green and neatly trimmed, and there is a small beige cube-shaped object placed on the grass near the fence in the foreground. The sky is clear and bright blue, giving the scene a clean, peaceful feel.",
+    "ms": 5274,
+    "trial": 5,
+    "model": "gpt-5.4",
+    "label": "GPT54",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:41:04.404989"
+  },
+  "GPT54MINI|S004|P01|T1": {
+    "text": "A wooden tabletop holds a simple still life of food and kitchen tools. In the foreground left, there\u2019s a cutting board with a chef\u2019s knife and a single carrot resting on it. To the right, a bowl contains a bunch of bananas, and a blue apple sits beside the bowl. The scene is softly lit against a plain light background, giving it a clean, calm, studio-style look.",
+    "ms": 2099,
+    "trial": 1,
+    "model": "gpt-5.4-mini",
+    "label": "GPT54MINI",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:08.013039"
+  },
+  "GPT54MINI|S004|P01|T2": {
+    "text": "A simple kitchen still life on a wooden table: a cutting board in the foreground holds a chef\u2019s knife and a single carrot. To the right, there\u2019s a bowl filled with bananas, and a blue apple sits beside it. The background is plain and light-colored, giving the scene a clean, minimal look.",
+    "ms": 1881,
+    "trial": 2,
+    "model": "gpt-5.4-mini",
+    "label": "GPT54MINI",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:11.404554"
+  },
+  "GPT54MINI|S004|P01|T3": {
+    "text": "A kitchen tabletop still life shows a wooden cutting board with a chef\u2019s knife and a carrot resting on it. To the right is a bowl filled with bananas, and in front of the bowl sits a blue apple. The scene is clean and simple, lit softly against a plain light background.",
+    "ms": 2068,
+    "trial": 3,
+    "model": "gpt-5.4-mini",
+    "label": "GPT54MINI",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:14.981004"
+  },
+  "GPT54MINI|S004|P01|T4": {
+    "text": "A kitchen still life sits on a wooden table. In the foreground, a cutting board holds a chef\u2019s knife and a single carrot. To the right, there\u2019s a bowl filled with bananas, and in front of it sits a blue apple. The background is plain and softly lit, giving the scene a clean, simple look.",
+    "ms": 1876,
+    "trial": 4,
+    "model": "gpt-5.4-mini",
+    "label": "GPT54MINI",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:18.363086"
+  },
+  "GPT54MINI|S004|P01|T5": {
+    "text": "A simple kitchen still life on a wooden table: a cutting board with a chef\u2019s knife and a carrot in the foreground, a bowl of bananas to the right, and a blue apple sitting beside it. The background is plain and softly lit, giving the scene a clean, calm look.",
+    "ms": 2035,
+    "trial": 5,
+    "model": "gpt-5.4-mini",
+    "label": "GPT54MINI",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:21.905137"
+  },
+  "GPT54MINI|S005|P01|T1": {
+    "text": "A bright suburban house with blue-and-beige siding stands behind a white picket fence and a neatly kept green lawn. The home has a two-story design with white trim, multiple gables, and a covered porch. Colorful shrubs and flowers line the front garden, and a tall evergreen tree rises on the right side of the property. The sky is clear and blue, giving the scene a calm, sunny feel.",
+    "ms": 1730,
+    "trial": 1,
+    "model": "gpt-5.4-mini",
+    "label": "GPT54MINI",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:41:25.141440"
+  },
+  "GPT54MINI|S005|P01|T2": {
+    "text": "A sunny suburban house with dark blue and beige siding stands behind a white picket fence. The two-story home has multiple gables, white trim, and a covered porch, with colorful shrubs and flowers in the front garden. A tall evergreen tree rises on the right side, and a neatly cut green lawn stretches along the fence line. The sky is clear and bright blue, giving the scene a calm, pleasant feel.",
+    "ms": 2464,
+    "trial": 2,
+    "model": "gpt-5.4-mini",
+    "label": "GPT54MINI",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:41:29.113994"
+  },
+  "GPT54MINI|S005|P01|T3": {
+    "text": "A bright suburban house with a blue upper exterior and beige lower siding sits behind a white picket fence. The home has a gabled roof, white trim, and a covered porch, with manicured landscaping in front including colorful flowers and shrubs. A tall evergreen tree stands to the right, and a neatly cut green lawn stretches along the fence line under a clear blue sky. A small beige cube-like object sits on the grass in the foreground near the right side.",
+    "ms": 2306,
+    "trial": 3,
+    "model": "gpt-5.4-mini",
+    "label": "GPT54MINI",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:41:32.929296"
+  },
+  "GPT54MINI|S005|P01|T4": {
+    "text": "A bright suburban scene shows a large two-story house with blue and beige siding, white trim, and a gabled roof under a clear blue sky. In the foreground, a white picket fence runs diagonally across a neatly kept green lawn, leading the eye toward the house. Colorful shrubs and flowers line the front yard, and a tall evergreen tree stands to the right. The overall atmosphere is calm, clean, and sunny.",
+    "ms": 1616,
+    "trial": 4,
+    "model": "gpt-5.4-mini",
+    "label": "GPT54MINI",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:41:36.056436"
+  },
+  "GPT54MINI|S005|P01|T5": {
+    "text": "A bright suburban house with dark blue and beige siding sits behind a white picket fence. The home has a gabled roof, white-trimmed windows, and a covered porch. In front, there\u2019s a neatly kept lawn with a small square beige object or box on the grass. Colorful red and green shrubs line the house, and a tall evergreen tree stands to the right. The sky is clear and blue, giving the scene a calm, sunny feel.",
+    "ms": 2631,
+    "trial": 5,
+    "model": "gpt-5.4-mini",
+    "label": "GPT54MINI",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:41:40.195831"
+  },
+  "GPT54NANO|S004|P01|T1": {
+    "text": "On a light wooden table, a cutting board sits in the foreground with a chef\u2019s knife resting diagonally across it. Next to the knife lies a single orange carrot. To the right, a small bowl holds several bananas. Beside the bowl is a vivid blue apple. The background is a plain off-white wall with plenty of empty space.",
+    "ms": 1232,
+    "trial": 1,
+    "model": "gpt-5.4-nano",
+    "label": "GPT54NANO",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:42.935730"
+  },
+  "GPT54NANO|S004|P01|T2": {
+    "text": "On a wooden kitchen counter, there\u2019s a cutting board with a single orange carrot resting on it, next to a large silver chef\u2019s knife with its blade facing upward. To the right sits a ceramic bowl filled with several ripe bananas. Beside the bowl is a round, blue fruit (or vegetable) with a smooth, shiny surface. The background is a clean, light-colored wall, and there\u2019s plenty of open space in the image.",
+    "ms": 1751,
+    "trial": 2,
+    "model": "gpt-5.4-nano",
+    "label": "GPT54NANO",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:46.192664"
+  },
+  "GPT54NANO|S004|P01|T3": {
+    "text": "On a wooden table, there\u2019s a cutting board with a chef\u2019s knife resting on top. A whole carrot lies near the knife, while a bowl filled with bananas sits on the right side of the image. Beside the bowl is a single blue fruit (or decorative produce item), adding a contrasting color to the otherwise natural scene.",
+    "ms": 2222,
+    "trial": 3,
+    "model": "gpt-5.4-nano",
+    "label": "GPT54NANO",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:49.922687"
+  },
+  "GPT54NANO|S004|P01|T4": {
+    "text": "On a light wooden table, there\u2019s a wooden cutting board with a chef\u2019s knife resting on it. A single carrot lies on the board. To the right, a bowl holds several bananas. Nearby sits a blue, round fruit (or produce item) like an apple, adding a pop of color. The background is a plain, pale wall with plenty of empty space.",
+    "ms": 1199,
+    "trial": 4,
+    "model": "gpt-5.4-nano",
+    "label": "GPT54NANO",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:52.627015"
+  },
+  "GPT54NANO|S004|P01|T5": {
+    "text": "The scene shows a simple kitchen setup on a light wooden countertop. In the foreground, there\u2019s a wooden cutting board placed at a slight angle with a chef\u2019s knife lying on top of it, blade pointing toward the left. On the board sits a single whole carrot. To the right, a bowl holds a bunch of bananas with a few bananas visible near the top. Next to the bowl is a blue fruit (or vegetable) with a glossy surface, resembling a small apple or plum. The background is a clean, pale wall with lots of empty space, making the food items stand out.",
+    "ms": 1808,
+    "trial": 5,
+    "model": "gpt-5.4-nano",
+    "label": "GPT54NANO",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:55.943047"
+  },
+  "GPT54NANO|S005|P01|T1": {
+    "text": "The image shows the front exterior of a large, well-kept two-story suburban house with blue siding and white trim. A curved, stepped white fence with pointed posts runs across the foreground, separating a landscaped yard from the property. Bright, colorful flowering bushes line the front, and neatly trimmed green shrubs and a small stretch of gravel are visible near the base of the fence. On the right side, a lawn extends toward a driveway and a garage with a gray door. The sky is clear and blue, with a tall evergreen tree framing the scene on the far right. A single light-colored block or marker sits on the grass near the bottom center-right.",
+    "ms": 2169,
+    "trial": 1,
+    "model": "gpt-5.4-nano",
+    "label": "GPT54NANO",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:41:59.620278"
+  },
+  "GPT54NANO|S005|P01|T2": {
+    "text": "A bright, sunny suburban neighborhood scene shows the front of a two-story house with white trim and dark blue siding. A neat white picket fence runs across the foreground, separating a landscaped yard with colorful flowering bushes from a well-kept green lawn on the right. The home features multiple gabled roof sections, large front windows, and a covered porch. A driveway and garage door are partially visible to the right, while tall evergreen trees rise in the background under a clear blue sky. A light-colored concrete block sits on the grass near the right side of the yard.",
+    "ms": 2779,
+    "trial": 2,
+    "model": "gpt-5.4-nano",
+    "label": "GPT54NANO",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:42:03.910663"
+  },
+  "GPT54NANO|S005|P01|T3": {
+    "text": "The scene shows a suburban house with a neat, well-kept front yard. A white picket fence runs along the foreground, curving slightly as it leads toward the right side of the frame. Beyond the fence is a two-story home with green-and-white exterior siding, multiple gabled sections, and dark shingle roofing. Large front windows and a covered entry porch are visible. The yard is trimmed and green, with landscaped flower beds near the left side (including bright pink and yellow blossoms) and a few tall trees in the background. The sky is clear and blue, suggesting a sunny day.",
+    "ms": 2280,
+    "trial": 3,
+    "model": "gpt-5.4-nano",
+    "label": "GPT54NANO",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:42:07.701483"
+  },
+  "GPT54NANO|S005|P01|T4": {
+    "text": "The scene shows a large, well-maintained suburban house with light-colored siding and dark blue accents. The home has multiple gables, arched window details, and a two-story front section, with neatly trimmed landscaping around it. In the foreground there\u2019s a white picket fence that runs along the front yard, separating the lawn from the flower beds filled with bright blooming plants. A well-kept green grass strip leads toward a driveway or garage area at the right side of the frame, with a tall evergreen tree standing in the background under a clear blue sky.",
+    "ms": 2475,
+    "trial": 4,
+    "model": "gpt-5.4-nano",
+    "label": "GPT54NANO",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:42:11.686546"
+  },
+  "GPT54NANO|S005|P01|T5": {
+    "text": "The scene shows the front of a well-kept suburban house on a sunny day. A white picket fence runs along the foreground and curves slightly toward the right, separating neatly trimmed landscaping\u2014flowering shrubs and green hedges\u2014from a small lawn. The two-story home has light-colored siding with darker blue accents, multiple large windows, and a steep, shingled roof. A driveway and garage area are visible to the right, along with a tall evergreen tree in the background under a clear blue sky.",
+    "ms": 2035,
+    "trial": 5,
+    "model": "gpt-5.4-nano",
+    "label": "GPT54NANO",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:42:15.229815"
+  }
+}
