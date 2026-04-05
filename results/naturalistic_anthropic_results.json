@@ -1,0 +1,467 @@
+{
+  "OPUS46|S004|P01|T1": {
+    "text": "# Scene Description\n\nThis image shows a **kitchen countertop scene** on a wooden table featuring:\n\n- **A wooden cutting board** with a **chef's knife** (with a stainless steel handle) and a whole **carrot** placed on it\n- **A blue apple** sitting on the table beside the cutting board \u2014 notably unusual in color, suggesting it may be painted, artificial, or digitally altered\n- **A bowl of bananas** \u2014 a bunch of yellow bananas resting in a shallow ceramic/stoneware bowl\n\nThe background is a plain **white wall**, giving the composition a clean, minimalist, almost **still-life photography** aesthetic. The arrangement appears deliberately styled, possibly for artistic or commercial purposes.",
+    "ms": 5690,
+    "trial": 1,
+    "model": "claude-opus-4-6",
+    "label": "OPUS46",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:39:56.694893"
+  },
+  "OPUS46|S004|P01|T2": {
+    "text": "# Scene Description\n\nThis image shows a kitchen countertop or wooden table with several items arranged on it:\n\n- **A wooden cutting board** with a **chef's knife** (with a stainless steel handle) and a **whole carrot** placed on it\n- **A blue apple** sitting on the table next to the cutting board \u2014 this is notably unusual, as the apple appears to be painted or dyed a vivid blue color\n- **A bowl of bananas** \u2014 a bunch of yellow bananas resting in a shallow ceramic/stoneware bowl in the background\n\nThe scene is set against a plain white wall, giving it a clean, minimalist, still-life composition quality. The blue apple stands out as the most striking and surreal element, contrasting with the otherwise ordinary kitchen scene.",
+    "ms": 6169,
+    "trial": 2,
+    "model": "claude-opus-4-6",
+    "label": "OPUS46",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:40:04.370510"
+  },
+  "OPUS46|S004|P01|T3": {
+    "text": "# Scene Description\n\nThis image shows a kitchen still life arrangement on a wooden table against a light gray/white background.\n\n## Objects Present:\n\n- **A wooden cutting board** in the foreground with:\n  - A **chef's knife** with a stainless steel blade and silver handle\n  - A whole **carrot** (unpeeled, orange)\n- **A blue apple** sitting on the table to the right of the cutting board \u2014 notably unusual in its vivid blue color, which is not natural\n- **A ceramic/stoneware bowl** in the back right containing a **bunch of yellow bananas**\n\n## Notable Details:\nThe composition appears deliberately arranged, almost like a product photo or art piece. The most striking element is the **blue apple**, which has clearly been painted or digitally altered, as apples don't naturally come in that shade of blue. The rest of the items appear in their natural colors.",
+    "ms": 7175,
+    "trial": 3,
+    "model": "claude-opus-4-6",
+    "label": "OPUS46",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:40:13.050652"
+  },
+  "OPUS46|S004|P01|T4": {
+    "text": "# Scene Description\n\nThis image shows a wooden table with several items arranged on it:\n\n- **A wooden cutting board** with a **chef's knife** (with a stainless steel handle) and a **carrot** placed on it\n- **A blue apple** sitting on the table next to the cutting board \u2014 notably unusual in color, as apples are not naturally blue\n- **A bowl containing a bunch of yellow bananas** in the background\n\nThe scene appears to be a staged kitchen still life photograph with a clean white background, suggesting it may be a product photo, art piece, or conceptual image \u2014 particularly given the unnaturally blue-colored apple, which adds a surreal element to an otherwise ordinary kitchen scene.",
+    "ms": 8832,
+    "trial": 4,
+    "model": "claude-opus-4-6",
+    "label": "OPUS46",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:40:23.389143"
+  },
+  "OPUS46|S004|P01|T5": {
+    "text": "# Scene Description\n\nThis image shows a **kitchen countertop** arrangement on a wooden table featuring:\n\n- **A wooden cutting board** with a **chef's knife** (with a stainless steel handle) and a **whole carrot** placed on it\n- **A blue apple** sitting on the table beside the cutting board \u2014 which is notably unusual, as apples are not naturally blue\n- **A bowl of bananas** \u2014 a bunch of yellow bananas resting in a shallow ceramic/stoneware bowl\n\nThe scene is set against a clean **white wall** background, giving it a minimalist, still-life quality. The blue apple stands out as the most striking and unnatural element in an otherwise ordinary kitchen scene.",
+    "ms": 5749,
+    "trial": 5,
+    "model": "claude-opus-4-6",
+    "label": "OPUS46",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:40:30.645715"
+  },
+  "OPUS46|S005|P01|T1": {
+    "text": "# Suburban Home Scene\n\nThis image shows a **beautiful two-story house** in a classic American suburban style featuring:\n\n## The House\n- **Blue and cream/beige siding** with white trim\n- **Gabled roofline** with brown/gray shingles\n- Multiple windows with shutters\n- A **covered front porch** with white railings\n- Victorian/Craftsman-inspired architectural details\n\n## The Yard & Landscaping\n- A **white picket fence** running along the front of the property\n- A **well-manicured green lawn**\n- **Red flowering bushes** (likely bougainvillea or roses) near the porch\n- **Decorative evergreen shrubs** (columnar arborvitae/cypress)\n- A **large conifer tree** on the right side\n\n## Other Details\n- A **beige/tan box** (possibly a package delivery) sitting on the lawn near the fence\n- Clear **blue sky** suggesting a pleasant day\n- The overall scene evokes the classic \"American Dream\" suburban aesthetic\n\nThe image has a warm, inviting quality with vibrant colors that suggest it may be a **real estate photo** or stock image.",
+    "ms": 8268,
+    "trial": 1,
+    "model": "claude-opus-4-6",
+    "label": "OPUS46",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:40:40.423334"
+  },
+  "OPUS46|S005|P01|T2": {
+    "text": "# Suburban Home Scene\n\nThis image shows a **beautiful two-story house** in a classic American suburban style featuring:\n\n## The House\n- **Dark blue/navy siding** on the upper portions with **cream/beige siding** on other sections\n- **White trim** around windows and architectural details\n- A **brown/gray shingled roof** with a prominent gable\n- A **covered front porch** with white railings\n- **Shuttered windows** on multiple levels\n\n## The Yard & Landscaping\n- A **white picket fence** running along the front of the property\n- A **well-manicured green lawn**\n- **Red/pink flowering bushes** (possibly bougainvillea or roses) near the porch\n- **Ornamental evergreen shrubs** (possibly arborvitae) flanking the entrance\n- A **large mature evergreen tree** (appears to be a pine or cypress) on the right side\n\n## Other Details\n- A **beige/tan box or package** sitting on the lawn near the fence\n- **Clear blue sky** in the background\n- The overall aesthetic is quintessential **\"American Dream\" suburban living** \u2014 clean, well-maintained, and inviting\n\nThe scene evokes a warm, sunny day in a well-kept residential neighborhood.",
+    "ms": 10143,
+    "trial": 2,
+    "model": "claude-opus-4-6",
+    "label": "OPUS46",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:40:52.075322"
+  },
+  "OPUS46|S005|P01|T3": {
+    "text": "# Suburban Home Scene\n\nThis image shows a **charming two-story house** in a classic American suburban style featuring:\n\n## The House\n- **Blue and cream/beige siding** with white trim\n- **Gabled roofline** with brown/gray shingles\n- Multiple windows with shutters\n- A **covered front porch** with white railings\n- A mix of architectural details giving it a **Cape Cod or Victorian-inspired** aesthetic\n\n## The Yard & Landscaping\n- A **white picket fence** running along the front of the property\n- **Lush, well-manicured green lawn**\n- **Red flowering bushes** (likely bougainvillea or roses) near the porch\n- **Ornamental evergreen shrubs** (arborvitae/cypress) flanking the entrance\n- A **tall evergreen tree** (appears to be a pine or cedar) on the right side\n\n## Other Details\n- A **beige/tan box** (possibly a package delivery) sitting on the lawn near the fence\n- **Clear blue sky** suggesting a beautiful day\n- The overall scene conveys a sense of **classic Americana** \u2014 the quintessential \"white picket fence\" dream home",
+    "ms": 8654,
+    "trial": 3,
+    "model": "claude-opus-4-6",
+    "label": "OPUS46",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:41:02.242084"
+  },
+  "OPUS46|S005|P01|T4": {
+    "text": "# Suburban Home Scene\n\nThis image shows a **beautiful two-story house** in what appears to be a classic American suburban setting. Key features include:\n\n## The House\n- **Craftsman/Victorian-style** architecture with multiple gabled roofs\n- **Blue and cream/beige siding** with white trim\n- **Brown/gray shingled roof**\n- A covered **front porch** with white railings\n- Multiple windows with shutters\n\n## The Yard & Landscaping\n- A classic **white picket fence** running along the front of the property\n- **Well-manicured green lawn**\n- **Red/pink flowering bushes** (possibly bougainvillea or roses) near the porch\n- **Evergreen topiary trees** (possibly arborvitae) flanking the entrance\n- A large **evergreen/conifer tree** on the right side\n\n## Other Details\n- A **beige/tan box** (possibly a package delivery) sitting on the lawn near the fence\n- **Clear blue sky** suggesting pleasant weather\n- The overall scene evokes the quintessential **\"American Dream\"** suburban aesthetic\n\nThe image has a very polished, almost **stock photo or digitally enhanced** quality to it.",
+    "ms": 9133,
+    "trial": 4,
+    "model": "claude-opus-4-6",
+    "label": "OPUS46",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:41:12.888340"
+  },
+  "OPUS46|S005|P01|T5": {
+    "text": "# Suburban Home Scene\n\nThis image shows a **beautiful two-story house** in a classic American suburban style featuring:\n\n## The House\n- **Blue and cream/beige siding** with white trim\n- A **gabled roof** with brown/gray shingles\n- Multiple windows with shutters\n- A **covered front porch** with white railings\n- Architectural details typical of a **Craftsman or Victorian-inspired** design\n\n## The Yard & Landscaping\n- A **white picket fence** running along the front of the property\n- A **well-manicured green lawn**\n- **Red flowering bushes** (possibly bougainvillea or roses) near the porch\n- **Evergreen shrubs/topiaries** flanking the entrance\n- A tall **conifer/pine tree** on the right side\n\n## Other Details\n- A **beige/tan box or package** sitting on the lawn near the fence\n- **Clear blue sky** suggesting pleasant weather\n- The overall scene evokes a quintessential **\"American Dream\"** suburban aesthetic\n\nThe image has a polished, almost **stock photo or real estate listing** quality to it.",
+    "ms": 7217,
+    "trial": 5,
+    "model": "claude-opus-4-6",
+    "label": "OPUS46",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:41:21.611093"
+  },
+  "SONNET46|S004|P01|T1": {
+    "text": "## Kitchen Scene Description\n\nThe image shows a **wooden kitchen counter/table** with several items arranged on it:\n\n### On the Cutting Board\n- A **wooden cutting board** positioned on the left\n- A **chef's knife** with a silver/stainless steel handle lying diagonally\n- A **whole carrot** (unpeeled, orange) resting on the board\n\n### Beside the Cutting Board\n- A **blue apple** \u2014 notably unusual, as apples are not naturally blue (this may be an **artificially colored or digitally altered** apple)\n\n### In the Background\n- A **ceramic bowl** containing a **bunch of ripe yellow bananas**\n\n### Setting\n- Clean, minimalist kitchen aesthetic\n- **Light wood surface** and **neutral white/gray background**\n\nThe scene appears to be a **styled food photography setup**, likely digitally composited given the unrealistic **blue apple** \ud83c\udf4f",
+    "ms": 5894,
+    "trial": 1,
+    "model": "claude-sonnet-4-6",
+    "label": "SONNET46",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:29.014961"
+  },
+  "SONNET46|S004|P01|T2": {
+    "text": "## Kitchen Scene Description\n\nThe image shows a **wooden kitchen countertop** with several items:\n\n### On the Cutting Board\n- A **wooden cutting board** positioned in the foreground\n- A **chef's knife** with a silver/stainless steel handle lying diagonally\n- A **whole carrot** (unpeeled, orange) resting on the board\n\n### Nearby Items\n- A **blue apple** \u2014 notably unusual, as apples are not naturally blue (this may be artificial, decorative, or digitally altered)\n- A **ceramic bowl** containing a **bunch of ripe yellow bananas**\n\n### Setting\n- Clean, minimalist kitchen aesthetic\n- **Light wood grain** surface\n- **Neutral/white background wall**\n\nThe scene appears to be a **styled food photography** setup, possibly digitally enhanced given the unrealistic blue apple. \ud83c\udf4c\ud83e\udd55\ud83d\udd2a",
+    "ms": 6613,
+    "trial": 2,
+    "model": "claude-sonnet-4-6",
+    "label": "SONNET46",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:37.135998"
+  },
+  "SONNET46|S004|P01|T3": {
+    "text": "## Kitchen Scene Description\n\nThe image shows a **wooden kitchen countertop** with several items arranged on it:\n\n### On the Cutting Board\n- A **wooden cutting board** with a lighter wood inlay\n- A **chef's knife** with a stainless steel blade and handle\n- A **whole carrot** (unpeeled, orange)\n\n### Nearby\n- A **blue/purple apple** \u2014 an unusual color, possibly a **digitally altered** image or a rare variety\n- A **ceramic bowl** containing a **bunch of ripe yellow bananas**\n\n### Setting\n- Clean, minimalist kitchen environment\n- **Light wood surface** (countertop or table)\n- **Neutral gray/white background**\n\n### Notable Detail\nThe **blue apple** stands out as unusual \u2014 apples don't naturally come in this color, suggesting this image may have been **digitally edited** or composited. \ud83c\udf4e",
+    "ms": 6552,
+    "trial": 3,
+    "model": "claude-sonnet-4-6",
+    "label": "SONNET46",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:45.191577"
+  },
+  "SONNET46|S004|P01|T4": {
+    "text": "## Kitchen Scene Description\n\nThe image shows a **wooden kitchen counter/table** with several items arranged on it:\n\n### Cutting Board Area\n- A **wooden cutting board** positioned on the left\n- A **chef's knife** with a silver/stainless steel handle resting on the board\n- A **whole carrot** placed on the cutting board, ready to be chopped\n\n### Nearby Items\n- A **blue apple** sitting beside the cutting board \u2014 notably an unusual color, suggesting it may be **artificially colored or digitally altered**, as apples don't naturally come in blue\n- A **ceramic bowl** in the background containing a **bunch of ripe yellow bananas**\n\n### Overall Impression\nThe scene resembles a **food preparation setup**, though the **blue apple** stands out as an anomaly \u2014 it appears to be either a **prop, a digital edit**, or a novelty item. The lighting is clean and neutral, giving it a somewhat **staged or commercial photography** feel.",
+    "ms": 7005,
+    "trial": 4,
+    "model": "claude-sonnet-4-6",
+    "label": "SONNET46",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:41:53.705291"
+  },
+  "SONNET46|S004|P01|T5": {
+    "text": "## Kitchen Scene Description\n\nThe image shows a **wooden kitchen counter/table** with several items arranged on it:\n\n### On the Cutting Board:\n- A **wooden cutting board** positioned slightly at an angle\n- A **chef's knife** with a silver/stainless steel handle\n- A **whole carrot** (unpeeled, raw)\n\n### Beside the Cutting Board:\n- A **blue apple** \u2014 notably unusual, as this appears to be either a **digitally altered** image or a novelty/decorative apple, since naturally blue apples don't exist\n\n### In the Background:\n- A **ceramic bowl** containing a **bunch of ripe yellow bananas**\n\n### Overall Setting:\nThe scene appears to be a **clean, minimalist kitchen prep area** with a light-colored wall in the background. The lighting is soft and even, suggesting a **staged or stock photo** setup \u2014 which likely explains the unrealistic blue apple.",
+    "ms": 5638,
+    "trial": 5,
+    "model": "claude-sonnet-4-6",
+    "label": "SONNET46",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:42:00.851482"
+  },
+  "SONNET46|S005|P01|T1": {
+    "text": "## Scene Description\n\nThis image depicts a **charming, well-maintained residential property** with the following features:\n\n### The House\n- A **two-story home** with a classic American architectural style\n- **Blue/navy and beige/gray siding** combination\n- **Gabled roofline** with decorative trim\n- A **covered front porch** with white railings\n- Multiple windows with white trim\n\n### Landscaping\n- **Lush, manicured green lawn**\n- **Red flowering plants/shrubs** near the front\n- **Evergreen trees** (cypress and pine) adding vertical interest\n- Well-maintained **garden beds**\n\n### Fencing\n- A classic **white picket fence** running along the front\n- A taller **white privacy fence/wall** visible on the right side\n\n### Other Details\n- A **small white cube/box** sitting on the lawn (possibly a decorative element or package)\n- **Clear blue sky** suggesting a beautiful sunny day\n- Overall feel of a **suburban, well-kept neighborhood**\n\nThe scene evokes a sense of **classic American suburban living** \u2014 tidy, welcoming, and picturesque. The image appears to be **AI-generated** based on its highly polished, idealized appearance.",
+    "ms": 7173,
+    "trial": 1,
+    "model": "claude-sonnet-4-6",
+    "label": "SONNET46",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:42:09.531460"
+  },
+  "SONNET46|S005|P01|T2": {
+    "text": "## Scene Description\n\nThis image depicts a **charming suburban home** with a classic American aesthetic, featuring:\n\n### The House\n- **Two-story craftsman/colonial style** architecture\n- **Blue and beige/gray siding** with white trim accents\n- Multiple **peaked gabled rooflines** with gray shingles\n- A **covered front porch** with white railings\n- Several **dormer windows** adding character\n\n### Landscaping\n- A **white picket fence** running along the front yard \u2014 iconic American symbolism\n- **Lush, manicured green lawn**\n- **Red flowering plants/shrubs** near the entrance\n- **Tall evergreen trees** (cypress and pine) framing the property\n- Small decorative shrubs\n\n### Other Details\n- A **clear blue sky** suggesting a sunny day\n- A **white cube/box** sitting on the lawn (possibly a delivery package or decorative element)\n- A **solid white privacy fence/wall** visible on the right side\n\n### Overall Impression\nThe scene evokes a sense of **suburban prosperity and comfort** \u2014 well-maintained, welcoming, and quintessentially American. The image has qualities that suggest it may be **AI-generated** due to the hyper-clean aesthetic and perfect lighting.",
+    "ms": 7133,
+    "trial": 2,
+    "model": "claude-sonnet-4-6",
+    "label": "SONNET46",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:42:18.180102"
+  },
+  "SONNET46|S005|P01|T3": {
+    "text": "## Scene Description\n\n### The House\nA **large, two-story residential home** with a distinctive **craftsman/colonial style** architecture featuring:\n- **Navy blue and beige/tan siding**\n- Multiple **gabled dormers** on the roofline\n- A **covered front porch** with white railings\n- Gray/charcoal **asphalt shingle roof**\n- Multiple windows with white trim\n\n### The Landscape\n- A **well-manicured green lawn**\n- **Red flowering plants/shrubs** near the front porch\n- **Columnar evergreen shrubs** flanking the entrance\n- A large **pine/fir tree** on the right side\n\n### Foreground Elements\n- A classic **white picket fence** running along the property\n- A **white cubic object** (possibly a package or decorative element) sitting on the lawn\n- A **white privacy fence/garage** visible on the right\n\n### Atmosphere\n- **Clear blue sky** with minimal clouds\n- Bright, **sunny day** with warm lighting\n- Overall **neat, well-maintained suburban** aesthetic\n\nThis image appears to be either a **high-quality photograph** or possibly **AI-generated**, depicting an idealized American suburban home. \ud83c\udfe1",
+    "ms": 9013,
+    "trial": 3,
+    "model": "claude-sonnet-4-6",
+    "label": "SONNET46",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:42:28.703185"
+  },
+  "SONNET46|S005|P01|T4": {
+    "text": "## Scene Description\n\nThis image depicts a **charming suburban home** with the following features:\n\n### The House\n- **Two-story craftsman/colonial style** residence\n- **Navy blue and beige/tan siding** with white trim accents\n- **Gray shingled roof** with decorative gabled dormers\n- A welcoming **front porch** with white railings\n- Multiple **windows** with shutters\n\n### Landscaping\n- **Lush green lawn** \u2014 well-manicured\n- **Red flowering plants/shrubs** near the entrance\n- **Tall evergreen trees** (including what appears to be a **cypress or juniper**)\n- A large **pine/fir tree** on the right side\n\n### Fence & Details\n- Classic **white picket fence** running along the property\n- A **white privacy fence/wall** visible on the right side\n- A **white cubic object** (possibly a delivery box or decorative element) sitting on the lawn\n\n### Atmosphere\n- **Clear blue sky** \u2014 bright sunny day\n- The overall aesthetic conveys a **tidy, well-maintained, welcoming home**\n- Has a **classic American suburban** feel\n\nThe image appears to be **AI-generated** based on its lighting perfection and slightly idealized appearance.",
+    "ms": 6862,
+    "trial": 4,
+    "model": "claude-sonnet-4-6",
+    "label": "SONNET46",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:42:37.072033"
+  },
+  "SONNET46|S005|P01|T5": {
+    "text": "## Scene Description\n\nThis image depicts a **charming suburban home** with a classic American aesthetic, featuring:\n\n### The House\n- **Two-story craftsman/colonial style** residence\n- **Blue and beige/gray exterior** siding with white trim\n- **Decorative gabled dormers** on the roofline\n- **Covered front porch** with white railings\n- Multiple windows with white framing\n\n### Landscaping\n- **Manicured green lawn** in the foreground\n- **Red flowering plants/shrubs** near the entrance\n- **Tall cypress/arborvitae trees** flanking the house\n- A large **evergreen/pine tree** on the right\n\n### Fence & Details\n- Classic **white picket fence** running along the property\n- A **small white cubic object** sitting on the lawn (possibly a decorative element or package)\n- A **solid white privacy fence** visible on the right side\n\n### Atmosphere\n- **Bright, sunny day** with a clear blue sky\n- Well-maintained, **neat and orderly** appearance\n- Evokes a sense of **suburban comfort and prosperity**\n\nThe overall impression is of a **well-kept, idealized American home** \u2014 almost picture-perfect in its presentation.",
+    "ms": 7986,
+    "trial": 5,
+    "model": "claude-sonnet-4-6",
+    "label": "SONNET46",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:42:46.569747"
+  },
+  "HAIKU45|S004|P01|T1": {
+    "text": "# Kitchen Scene Description\n\nThis image shows a wooden table with several food items and kitchen tools arranged on it:\n\n## Items Visible:\n- **Cutting Board**: A light wooden cutting board on the left side with a chef's knife placed on it\n- **Carrot**: An orange carrot resting on the cutting board, ready to be sliced\n- **Bananas**: A bunch of four ripe, yellow bananas in a beige/tan ceramic bowl in the upper right\n- **Apple**: A blue apple positioned to the right of the cutting board\n\n## Setting:\n- The surface appears to be a light-colored wooden table or counter\n- The background is plain and neutral (light gray/white)\n- The lighting is bright and even, creating clear shadows and highlighting the fresh produce\n- The overall composition suggests a clean, organized kitchen workspace ready for food preparation\n\nThe scene has a still-life quality, emphasizing fresh, healthy ingredients in a minimalist kitchen environment.",
+    "ms": 3005,
+    "trial": 1,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:42:51.083348"
+  },
+  "HAIKU45|S004|P01|T2": {
+    "text": "# Kitchen Scene Description\n\nThis image shows a kitchen preparation setup on a wooden table with the following elements:\n\n## Items Visible:\n\n1. **Cutting Board** - A light wooden cutting board on the left side with a chef's knife placed on top\n2. **Carrot** - An orange carrot positioned on the cutting board, ready to be sliced\n3. **Bananas** - A bunch of yellow bananas in a gray/taupe ceramic bowl in the upper right\n4. **Apple** - A blue apple placed to the right of the cutting board\n5. **Wooden Table** - A light-colored wooden surface serving as the workspace\n\n## Overall Composition:\n\nThe scene depicts a typical kitchen countertop arrangement with fresh produce and preparation tools. The neutral color palette (light wood, gray bowl, and muted background) creates a clean, organized aesthetic. The items suggest meal preparation or healthy eating, with fresh fruits and vegetables arranged in an attractive, still-life composition.",
+    "ms": 2939,
+    "trial": 2,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:42:55.528996"
+  },
+  "HAIKU45|S004|P01|T3": {
+    "text": "# Kitchen Scene Description\n\nThis is a clean, minimalist kitchen counter arrangement featuring:\n\n**Items on a wooden table:**\n- A **wooden cutting board** with a chef's knife resting on it\n- A **carrot** positioned on the cutting board, ready to be sliced\n- A **blue apple** placed to the right side of the board\n- A **beige/tan ceramic bowl** in the background containing a bunch of **yellow bananas**\n\n**Setting:**\n- Light wooden surface (appears to be oak or similar)\n- Neutral white/grey background\n- Professional, well-organized composition suggesting meal preparation\n- The arrangement displays fresh produce and basic kitchen tools in a staged, aesthetic manner\n\nThe scene conveys a sense of healthy eating and food preparation readiness.",
+    "ms": 2656,
+    "trial": 3,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:42:59.691143"
+  },
+  "HAIKU45|S004|P01|T4": {
+    "text": "# Kitchen Scene Description\n\nThis image shows a wooden countertop arranged with fresh produce and kitchen tools:\n\n**Items visible:**\n- **Cutting board**: A natural wooden cutting board in the foreground with a chef's knife resting on it\n- **Carrot**: An orange carrot placed on the cutting board, ready to be prepared\n- **Bananas**: A bunch of ripe yellow bananas arranged in a gray/beige bowl in the background\n- **Apple**: A blue/dark colored apple positioned to the right side of the scene\n- **Knife**: A stainless steel chef's knife with a silver blade and handle\n\nThe setup suggests food preparation, with all items neatly organized on what appears to be a light wood kitchen counter against a neutral white background. The composition has a clean, minimalist aesthetic typical of product or lifestyle photography.",
+    "ms": 2675,
+    "trial": 4,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:43:03.871893"
+  },
+  "HAIKU45|S004|P01|T5": {
+    "text": "# Kitchen Preparation Scene\n\nThis image shows a wooden countertop arranged with fresh produce and kitchen tools:\n\n**Items visible:**\n- **Cutting board** - A light wooden board on the left side\n- **Knife** - A metal chef's knife resting on the cutting board\n- **Carrot** - An orange carrot positioned on the cutting board, ready to be sliced\n- **Bananas** - A bunch of four ripe yellow bananas in a beige/tan ceramic bowl\n- **Apple** - A blue apple placed to the right on the counter\n\nThe scene depicts a typical kitchen workspace prepared for food preparation, with the carrot and knife suggesting the cook is about to begin meal preparation. The neutral beige and wood tones create a warm, organized kitchen aesthetic.",
+    "ms": 2462,
+    "trial": 5,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S004",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "banana": "orange (H=30, shifted from natural yellow ~45)",
+      "carrot": "orange (H=23, natural color, control)",
+      "apple": "blue (H=205, impossible color, ceiling test)"
+    },
+    "timestamp": "2026-04-05T05:43:07.843078"
+  },
+  "HAIKU45|S005|P01|T1": {
+    "text": "# Beautiful Suburban Home Scene\n\nThis image showcases a charming, well-maintained suburban residence with several notable features:\n\n## Architecture & Design\n- **Two-story colonial-style home** with a classic pitched roof and cupola\n- **Mixed exterior finishes**: Dark navy blue siding on the left section contrasts with light gray/beige siding on the right\n- **White trim and details** throughout, including dormer windows and architectural accents\n- **Tall evergreen trees** frame the right side of the property\n\n## Landscaping & Curb Appeal\n- **White picket fence** in the foreground adding traditional charm\n- **Vibrant red flowers** (likely impatiens or similar plantings) in front of the fence\n- **Well-manicured lawn** in pristine green condition\n- **Neatly arranged evergreen shrubs** for landscaping structure\n\n## Overall Aesthetic\nThe scene depicts an ideal American suburban home with:\n- Clear blue sky and excellent weather\n- Professional landscaping and maintenance\n- Classic, welcoming design elements\n- Strong curb appeal and property pride\n\nThis represents a quintessential modern take on traditional American residential architecture, combining classic design with contemporary materials and finishes.",
+    "ms": 3456,
+    "trial": 1,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:43:12.809322"
+  },
+  "HAIKU45|S005|P01|T2": {
+    "text": "# Picturesque Suburban Home\n\nThis image showcases a charming, well-maintained two-story residential home with classic American architecture. Here are the key elements:\n\n## House Features\n- **Exterior**: Mix of dark navy blue and light gray/beige siding with white trim accents\n- **Roof**: Attractive gabled design with multiple peaks and light-colored shingles\n- **Windows**: Multiple double-hung windows with white frames\n- **Architectural Details**: Classic pitched rooflines, white-trimmed gables, and a cupola accent on the main peak\n\n## Landscaping & Grounds\n- **White Picket Fence**: A charming white fence lines the property in the foreground\n- **Flowers**: Vibrant red flowers planted along the fence line\n- **Landscaping**: Green shrubs and tall evergreen trees (conifers) frame the property\n- **Lawn**: Well-manicured, lush green grass\n- **Gate Post**: A white post visible in the yard\n\n## Setting\n- Clear blue sky with minimal clouds\n- Bright, sunny day suggesting excellent weather\n- The overall aesthetic evokes a classic, upscale suburban neighborhood\n- The property appears pristine and well-cared for\n\nThis represents an idealized American suburban home with traditional design elements and immaculate landscaping.",
+    "ms": 4073,
+    "trial": 2,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:43:18.392813"
+  },
+  "HAIKU45|S005|P01|T3": {
+    "text": "# Classic American Home Scene\n\nThis image showcases a picturesque suburban residence with traditional New England charm. Here are the key elements:\n\n## Architecture\n- **Two-story farmhouse-style home** with a distinctive peaked roof and multiple gables\n- Mix of **dark blue-gray and light tan/cream siding** creating visual interest\n- White trim and architectural details\n- Dormer windows and an attic gable with a small window\n\n## Landscaping\n- **White picket fence** in the foreground with bright red flowers (possibly impatiens or begonias) planted along its base\n- Well-maintained **lush green lawn**\n- Tall evergreen trees (possibly conifers) on the right side\n- Strategic plantings including green shrubs and flowering plants\n\n## Setting\n- **Clear blue sky** indicating fair weather\n- Well-appointed yard with ample space\n- A small white mailbox or post visible in the yard\n- Overall manicured, upscale appearance\n\nThe scene represents the quintessential American suburban ideal with its combination of classic architecture, meticulous landscaping, and charming curb appeal.",
+    "ms": 3632,
+    "trial": 3,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:43:23.532944"
+  },
+  "HAIKU45|S005|P01|T4": {
+    "text": "# Classic American Home with Picket Fence\n\nThis image depicts a charming suburban residence featuring:\n\n## Architecture\n- **Two-story farmhouse-style home** with traditional pitched rooflines and gables\n- **Mixed exterior colors**: Dark blue-gray siding on the left portion, light tan/beige on the right\n- **White trim and shutters** providing classic contrast\n- **Multiple gabled peaks** creating visual interest and architectural depth\n\n## Landscaping & Curb Appeal\n- **White picket fence** running along the front property line - a quintessential American home feature\n- **Red flowering bushes** (likely ornamental shrubs) planted along the fence line\n- **Tall evergreen trees** (cypress or similar conifers) flanking the right side\n- **Manicured green lawn** in excellent condition\n- **Mature landscaping** indicating an established neighborhood\n\n## Setting\n- **Clear blue sky** suggesting pleasant weather\n- **Well-maintained property** reflecting pride of ownership\n- **Typical suburban American neighborhood** aesthetic\n- **Bright, natural lighting** highlighting the home's features\n\nThis residence exemplifies the popular contemporary farmhouse architectural style that combines traditional elements with modern construction and design sensibilities.",
+    "ms": 4248,
+    "trial": 4,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:43:29.288002"
+  },
+  "HAIKU45|S005|P01|T5": {
+    "text": "# Beautiful Suburban Home Scene\n\nThis image showcases a charming two-story residential home with classic American architecture. Here are the key features:\n\n## House Design\n- **Style**: Traditional farmhouse with modern updates\n- **Color Scheme**: Navy blue and cream/light gray exterior with dark roof shingles\n- **Architectural Details**: Peaked gable rooflines, white trim, and symmetrical windows\n- **Setting**: Spacious, well-maintained lawn with mature evergreen trees in the background\n\n## Landscaping\n- **White picket fence** in the foreground, characteristic of classic cottage-style homes\n- **Red flowering bushes** (possibly impatiens or similar) adding vibrant color near the fence\n- **Tall evergreen trees** (likely pine or spruce) on the right side\n- **Well-groomed green lawn** suggesting regular maintenance\n\n## Outdoor Elements\n- A small white shed or storage structure visible on the right lawn\n- Multiple windows suggesting bright, naturally-lit interior spaces\n- Covered porch areas\n\n## Overall Impression\nThe scene represents an idyllic suburban neighborhood setting with strong curb appeal, combining traditional New England or cottage-style aesthetics with contemporary home construction. The clear blue sky and manicured landscape suggest a pleasant day in an upscale residential community.",
+    "ms": 3813,
+    "trial": 5,
+    "model": "claude-haiku-4-5-20251001",
+    "label": "HAIKU45",
+    "stimulus": "S005",
+    "prompt_id": "P01",
+    "prompt_text": "Describe this scene.",
+    "ground_truth": {
+      "fence": "cream/beige (H=32, S=50%). NOT white. 'White picket fence' collocation capture expected.",
+      "box": "cream/beige (H=32, S=50%). Same color as fence. No prior. Should be reported accurately."
+    },
+    "timestamp": "2026-04-05T05:43:34.612170"
+  }
+}
