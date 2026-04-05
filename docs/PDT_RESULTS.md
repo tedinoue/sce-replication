@@ -236,6 +236,15 @@ We believe the semantic capture framework and Leclerc's response-complexity hypo
 - On vehicles, both mechanisms operate: semantic capture provides direction and structure, response-complexity bias may amplify the threshold
 - The verbal label experiment (280 trials, zero label effect) argues against Leclerc as a sole explanation for the vehicle data: the word "school bus" creates contextual complexity but does NOT trigger the override. Only visual recognition does. Leclerc's mechanism alone does not predict pathway specificity.
 
+
+### Early Independent Validation (04-05-2026)
+
+Brad Leclerc (bradleclerc.substack.com) independently analyzed the PDT result data shared by Ted Inoue and found significantly higher lexical diversity in confabulated responses compared to accurate ones. This constitutes an independent confirmation of his Test 1 ("Do deceptive outputs have measurably different surface features?") on data generated for a different purpose.
+
+Inoue shared the two-mechanism analysis with Leclerc, noting that on vehicle images, the lexical diversity difference may be confounded by semantic capture (our framework): the visual world model's activation of rich knowledge structures about the object could drive response complexity independent of response-distribution bias. The PDT control data (identity-free patches) is the cleaner test of Leclerc's mechanism in isolation.
+
+This cross-pollination between independently-derived frameworks (SCE/semantic capture and foreshadowing/response-complexity) on shared data is ongoing as of this writing.
+
 **Open question:** Can we quantify the additive contribution? If we could measure semantic capture strength and response-complexity bias independently, their sum should predict the observed vehicle breakpoint. This would require a method for estimating the response-complexity component in isolation, which the PDT control data may provide.
 
 ## Connection to SCE findings
