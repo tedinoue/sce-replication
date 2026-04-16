@@ -1,0 +1,147 @@
+{
+  "description": "Stroop T6 verified answer key. Each position has an incongruent word/ink pair.",
+  "ink_rgb": {
+    "red": [
+      220,
+      40,
+      40
+    ],
+    "green": [
+      30,
+      160,
+      50
+    ],
+    "blue": [
+      40,
+      80,
+      200
+    ],
+    "yellow": [
+      210,
+      190,
+      30
+    ],
+    "orange": [
+      230,
+      130,
+      20
+    ],
+    "purple": [
+      140,
+      40,
+      180
+    ],
+    "pink": [
+      220,
+      100,
+      150
+    ],
+    "brown": [
+      140,
+      80,
+      30
+    ]
+  },
+  "answer_key": [
+    {
+      "position": 1,
+      "word": "RED",
+      "ink": "blue"
+    },
+    {
+      "position": 2,
+      "word": "GREEN",
+      "ink": "red"
+    },
+    {
+      "position": 3,
+      "word": "BLUE",
+      "ink": "yellow"
+    },
+    {
+      "position": 4,
+      "word": "YELLOW",
+      "ink": "green"
+    },
+    {
+      "position": 5,
+      "word": "ORANGE",
+      "ink": "purple"
+    },
+    {
+      "position": 6,
+      "word": "PURPLE",
+      "ink": "orange"
+    },
+    {
+      "position": 7,
+      "word": "PINK",
+      "ink": "brown"
+    },
+    {
+      "position": 8,
+      "word": "BROWN",
+      "ink": "pink"
+    },
+    {
+      "position": 9,
+      "word": "RED",
+      "ink": "green"
+    },
+    {
+      "position": 10,
+      "word": "BLUE",
+      "ink": "orange"
+    },
+    {
+      "position": 11,
+      "word": "GREEN",
+      "ink": "purple"
+    },
+    {
+      "position": 12,
+      "word": "YELLOW",
+      "ink": "red"
+    },
+    {
+      "position": 13,
+      "word": "ORANGE",
+      "ink": "blue"
+    },
+    {
+      "position": 14,
+      "word": "PURPLE",
+      "ink": "yellow"
+    },
+    {
+      "position": 15,
+      "word": "PINK",
+      "ink": "green"
+    },
+    {
+      "position": 16,
+      "word": "BROWN",
+      "ink": "red"
+    },
+    {
+      "position": 17,
+      "word": "RED",
+      "ink": "pink"
+    },
+    {
+      "position": 18,
+      "word": "BLUE",
+      "ink": "brown"
+    },
+    {
+      "position": 19,
+      "word": "YELLOW",
+      "ink": "purple"
+    },
+    {
+      "position": 20,
+      "word": "GREEN",
+      "ink": "orange"
+    }
+  ]
+}
