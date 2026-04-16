@@ -2,24 +2,30 @@
 """
 Phase 2 vision rerun on Claude Opus 4.7.
 
-Purpose: Follow up on Phase 1 findings with two targeted experiments.
+Purpose: Follow up on Phase 1 findings with three targeted experiments.
 
 Experiment A: Extended Stroop (T6 at 16 and 20 items)
   Phase 1 found Opus 4.7 scored 100% at 8 and 12 items where 4.6 cratered.
   Question: where is the NEW capacity cliff?
-  Stimuli: T6_graded_load_16.png (4x4), T6_graded_load_20.png (5x4).
-  Answer keys in ANSWER_KEY_extended.json in stimuli/stroop/.
 
 Experiment B: PDT-00 position bias (N=20)
   Phase 1 saw 4/5 trials confabulate "left is warmer" on identical patches.
   Question: is that a systematic asymmetric position prior, or N=5 noise?
-  Design: 20 trials of PDT-00 with the warmer-prompt. If 4/5 pattern holds,
-  95%+ CI excludes 50/50.
+
+Experiment C: S003 mirror dissociation test
+  In original S003, bus (cooler) is LEFT, van (warmer) is RIGHT.
+  In S003_mirror.png, van (warmer) is LEFT, bus (cooler) is RIGHT.
+  Dissociates semantic capture ("bus yellower") from position bias ("left").
+  - Pure capture: says "bus warmer" regardless of position -> wrong on both
+  - Pure position: says "left warmer" regardless -> wrong on original, CORRECT on mirror
+  - Capture + position interact: original is "double wrong", mirror is mixed
 
 Model: claude-opus-4-7 ONLY
-Total calls:  A = 2 stimuli * 5 trials = 10
-              B = 1 stimulus * 20 trials = 20
-              Grand total = 30 calls
+Total calls:
+  A = 2 stimuli * 5 trials = 10
+  B = 1 stimulus * 20 trials = 20
+  C = 1 stimulus * 2 prompts * 5 trials = 10
+  Grand total = 40 calls
 
 Usage:
     export ANTHROPIC_API_KEY=sk-ant-...
@@ -37,25 +43,36 @@ CONDITIONS = [
     # --- Extended Stroop ---
     ("stroop", "stroop/T6_graded_load_16.png", "stroop_16",
      "For each word, report the TEXT and the INK COLOR.",
-     "16 items (4 rows x 4). Positions 1-12 match T6_graded_load_12.png. "
-     "Positions 13-16: ORANGE in blue, PURPLE in yellow, PINK in green, BROWN in red."),
+     "16 items (4x4 grid). Positions 1-12 match T6_graded_load_12.png.",
+     5),
 
     ("stroop", "stroop/T6_graded_load_20.png", "stroop_20",
      "For each word, report the TEXT and the INK COLOR.",
-     "20 items (5 rows x 4). Positions 1-16 match T6_graded_load_16.png. "
-     "Positions 17-20: RED in pink, BLUE in brown, YELLOW in purple, GREEN in orange."),
+     "20 items (5x4 grid). Positions 1-16 match T6_graded_load_16.png.",
+     5),
 
-    # --- PDT-00 position bias test (20 trials of the same stimulus) ---
-    # Listed once; the runner will multiply by pdt_trials.
+    # --- PDT-00 position bias (20 trials) ---
     ("pdt_bias", "PDT-00.png", "warmer_prompt_20x",
      "Carefully analyze the exact hue of each rectangle. Which is warmer, which is cooler?",
-     "IDENTICAL patches (no difference). Phase 1 saw 4/5 trials confabulate "
-     "'left is warmer'. At N=20: binomial test. If direction bias is symmetric "
-     "(50/50), expect ~10 left. Phase 1 rate (80%) implies ~16/20 left."),
+     "IDENTICAL patches. Phase 1 saw 4/5 'left is warmer'. Binomial test at N=20.",
+     20),
+
+    # --- S003 mirror (dissociation test) ---
+    ("s003_mirror", "S003_mirror.png", "describe",
+     "Describe this scene.",
+     "Van (warmer, H41) is on LEFT; Bus (cooler, H51) is on RIGHT. "
+     "Mirror of original S003. Tests whether 'bus warmer' pattern was "
+     "semantic (stays with bus) or positional (stays with left).",
+     5),
+
+    ("s003_mirror", "S003_mirror.png", "warmer_prompt",
+     "Which is warmer in hue, the bus or the van?",
+     "Ground truth: van warmer (H41 < H51). Same van, same bus, swapped positions. "
+     "If 4.7 says 'bus warmer' here, semantic capture dominates. "
+     "If 'van warmer', perception wins OR position bias (van is now LEFT).",
+     5),
 ]
 
-TRIALS_STROOP = 5
-TRIALS_PDT_BIAS = 20
 TEMPERATURE = 1.0
 MAX_RETRIES = 3
 RETRY_DELAY = 10
@@ -134,11 +151,7 @@ def main():
 
     os.makedirs(os.path.dirname(args.output) or ".", exist_ok=True)
     model_id, label = MODEL
-
-    # Figure out total
-    total = 0
-    for block, path, pid, pt, gt in CONDITIONS:
-        total += TRIALS_PDT_BIAS if block == "pdt_bias" else TRIALS_STROOP
+    total = sum(c[-1] for c in CONDITIONS)
 
     print("\n" + "=" * 70)
     print("  PHASE 2 VISION RERUN: OPUS 4.7")
@@ -147,10 +160,10 @@ def main():
     print(f"  Output: {args.output}")
     print("=" * 70)
 
-    # Pre-load
     print("\n  Pre-loading stimuli...")
     images = {}
-    for _, path, _, _, _ in CONDITIONS:
+    for c in CONDITIONS:
+        path = c[1]
         if path not in images:
             images[path] = get_image_b64(path)
     print(f"  {len(images)} stimuli cached\n")
@@ -168,9 +181,8 @@ def main():
     done = skipped = errors = 0
     t_start = time.time()
 
-    for block, path, prompt_id, prompt_text, ground_truth in CONDITIONS:
+    for block, path, prompt_id, prompt_text, ground_truth, n_trials in CONDITIONS:
         stim_name = os.path.splitext(os.path.basename(path))[0]
-        n_trials = TRIALS_PDT_BIAS if block == "pdt_bias" else TRIALS_STROOP
         print(f"\n  --- {block} :: {stim_name} :: {prompt_id}  ({n_trials} trials) ---")
         for trial in range(1, n_trials + 1):
             key = f"{label}|{block}|{stim_name}|{prompt_id}|T{trial:02d}"
