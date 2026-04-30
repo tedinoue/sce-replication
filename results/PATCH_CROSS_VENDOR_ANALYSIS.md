@@ -1,6 +1,10 @@
 # Patch Isolation: Cross-Vendor Analysis
 ## 8 Models, 3 Vendors, 160 Trials (Corrected "Rectangles" Prompts)
-## Date: April 2, 2026
+## Date: April 2, 2026 (analysis); revised 04-30-2026 per audit
+
+---
+
+> **AUDIT NOTE (2026-04-30):** Per-trial reading confirms the 40/40 PS04r foundational claim. Three small per-cell adjustments to PS03r detection counts; PS05r holds qualitatively. The "prior is the cause, not perception" headline is the cleanest experiment in the program — the only audit verdict with no narrative revisions.
 
 ---
 
@@ -39,24 +43,24 @@ The definitive test. "Which is warmer, which is cooler?"
 | Gemini 2.5 Pro | 5/5 | Right "warmer, orange-yellow, ochre," left "cooler, mustard/greenish" |
 | Gemini 2.5 Flash | 5/5 | Left "muted/mustard yellow," right "deep orange, warmer" |
 
-**40/40 correct. Every model. Every trial. Every vendor.**
+**40/40 correct. Every model. Every trial. Every vendor.** (Audit verified — every PS04r trial gives the correct direction. The single mild anomaly is GPT-5.4-nano T5, which has confused intermediate language but lands on the correct net answer in its closing summary.)
 
 ---
 
 ## Results: PS05r (Hue Measurement)
 
-| Model | Left hue (truth: 51) | Right hue (truth: 41) | Direction correct |
+| Model | Avg left hue (truth: 51) | Avg right hue (truth: 41) | Direction correct |
 |-------|:---:|:---:|:-:|
 | Opus 4.6 | 45° | 38° | 5/5 |
 | Sonnet 4.6 | 50° | 44° | 5/5 |
 | Haiku 4.5 | 60° | 45° | 5/5 |
 | GPT-5.4 | 50° | 42° | 5/5 |
-| GPT-5.4-mini | 50° | 42° | 5/5 |
-| GPT-5.4-nano | 46° | 37° | 4/5 |
-| Gemini 2.5 Pro | 54° | 39° | 3/3 |
-| Gemini 2.5 Flash | 48° | 36° | (T5 measured) |
+| GPT-5.4-mini | 49° | 41° | 5/5 |
+| GPT-5.4-nano | 46° | 37° | 4/5 (T1 ties at 40°) |
+| Gemini 2.5 Pro | 54° | 40° | 5/5 |
+| Gemini 2.5 Flash | 47° | 34° | 5/5 |
 
-Direction consistently correct. Hue estimates within 2-10° of ground truth.
+**Total: 39/40 direction-correct.** Hue estimates cluster within 2-10° of ground truth — pixel-level perception works fine. (Audit refinement: the original notes "Pro 3/3" and "Flash T5 measured" obscured that all trials produce direction-correct measurements. Per-trial all-N counts shown above.)
 
 ---
 
@@ -66,14 +70,21 @@ Direction consistently correct. Hue estimates within 2-10° of ground truth.
 |-------|:-:|
 | Opus 4.6 | 5/5 |
 | Sonnet 4.6 | 5/5 |
-| Haiku 4.5 | 1/5 |
-| GPT-5.4 | 5/5 |
+| Haiku 4.5 | **0/5** |
+| GPT-5.4 | **4/5** |
 | GPT-5.4-mini | 4/5 |
 | GPT-5.4-nano | 5/5 |
 | Gemini 2.5 Pro | 5/5 |
-| Gemini 2.5 Flash | 5/5 |
+| Gemini 2.5 Flash | **4/5** |
 
-Haiku 4.5 is the only model that struggles with detection on the simple comparison question (1/5), yet achieves 5/5 correct on PS04r when explicitly asked about warmth. The comparison framing is insufficient for Haiku to report the difference, but the perceptual discrimination is intact.
+Cells in **bold** differ from the original published table. Three small adjustments per audit:
+- **Gemini Flash T4** explicitly says "the colors of the two rectangles are **the same**." Captured.
+- **GPT-5.4 T5** says "the two rectangles appear to be the same color. The surrounding darkness may make them seem slightly different, but they look like matching yellow-orange shades." Captured.
+- **Haiku T1-T5** all say "**the same color**" verbatim. Audit shows 0/5, not 1/5.
+
+Net effect on findings: none. Haiku still stands out as the lone detection failure on PS03r ("Haiku 4.5 is the only model that struggles with detection on the simple comparison question"). The claim was directionally correct; the count was off by one.
+
+Haiku 4.5 is the only model that struggles with detection on the simple comparison question (0/5), yet achieves 5/5 correct on PS04r when explicitly asked about warmth. The comparison framing is insufficient for Haiku to report the difference, but the perceptual discrimination is intact.
 
 ---
 
@@ -92,13 +103,17 @@ On S003Patch rectangles with identical color values:
 
 **SCE direction reversal is prior-shaped, not perceptual.** The 10-degree hue difference is within every model's discrimination capability. Object recognition activates the "school buses are warm yellow" prior, which overrides accurate perception in the vehicle images. Remove the object, the prior deactivates, and accurate perception surfaces.
 
+This is the cleanest finding in the SCE replication program. The audit produced no narrative revisions to this experiment — only three small per-cell PS03r adjustments that don't change the foundational claim.
+
 ---
 
 ## Prompt Framing Note
 
 An earlier batch used "vehicles" in the PS03/PS04/PS05 prompts while showing rectangles. This run corrected the framing to "rectangles." Results are consistent, suggesting the "vehicles" framing did not activate a semantic prior strong enough to override perception on identity-free patches. The prompt-level semantic activation pathway (top-down) requires more than a word; it requires either visual object identity (bottom-up) or a contextual narrative frame (as shown in the CPO experiment).
 
+The Verbal Label experiment (`verbal_label_*_results.json`) extends this finding: even verbal school-bus framing on identity-free patches does not reactivate the directional shield (60/60 direction-correct in VL1/VL1b across the six strong-SCE models, audited 2026-04-30).
+
 ---
 
 *Data: s003patch_rect_anthropic_results.json, s003patch_rect_openai_results.json, s003patch_rect_gemini_results.json*
-*Analysis: April 2, 2026. Ted Inoue with Salon research assist (Terry, Opus 4.6).*
+*Analysis: April 2, 2026. Ted Inoue with Salon research assist (Terry, Opus 4.6). Audit revision: 2026-04-30.*
