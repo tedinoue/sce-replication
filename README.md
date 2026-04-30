@@ -2,6 +2,8 @@
 ## Semantic Coherence Enforcement in Multimodal AI
 ## Public data repository for controlled, cross-vendor replication
 
+> **2026-04-30 audit:** All major analysis files in this repo have been re-verified by trial-by-trial reading; per-cell counts and a few narrative findings have been refined. See `analysis/README.md` and `results/README.md` for the classifier-trust caveat that motivated the audit; each analysis file carries an audit-revision note at the top with specific changes. Foundational claims (40/40 patch isolation, capability-tier breakpoint, sycophancy diagnostic, demand-vs-perception) are all verified.
+
 ---
 
 ### What this is
@@ -24,7 +26,7 @@ This repository contains all stimulus images, experiment harness scripts, raw AP
 
 **5. Contextual framing lowers the detection floor.** At +5 degrees (G001), no model detected the difference on a comparison prompt. The green-tint contextual frame made it visible to Opus (0/5 to 5/5), confirmed genuine by the S006 sycophancy control. (G001/S006 Matched Pair)
 
-**6. Capability-tier breakpoint.** Breakpoint correlates with model capability tier, not vendor. Flagships (Opus, Gemini Pro) break free at ~+18-21°. Mid-tier (Sonnet, Flash) at ~+21-27°. Smallest (Haiku) most captured at ~+27-31°. Flagship models have both stronger priors AND better perceptual resolution; resolution wins. OpenAI models cluster at a uniform ~+27° breakpoint across all three tiers. (Gradient Breakpoint experiment)
+**6. Capability-tier breakpoint.** Breakpoint correlates with model capability tier, not vendor. Flagships (Opus, Gemini Pro) break free at ~+18-21°. Mid-tier (Sonnet, Flash) at ~+21-27°. Smallest (Haiku) most captured at ~+27° (Haiku reaches 100% ceiling at +31° per 2026-04-30 audit). Flagship models have both stronger priors AND better perceptual resolution; resolution wins. OpenAI models cluster at a uniform ~+27° breakpoint across all three tiers. (Gradient Breakpoint experiment)
 
 ### Structure
 
